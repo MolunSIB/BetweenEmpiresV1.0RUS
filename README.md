@@ -1,6 +1,7 @@
 # BetweenEmpiresV1.0RUS
 Перевод на русский язык мода на Mount and Blade: Warband - Between Empires v1.0
 |№|Название файла|Описание|Прогресс|Статус|
+|----|:----|:----|:----:|:----:|
 |1.|dialogs||0 из|:x:|
 |2.|factions||0 из|:x:|
 |3.|game_menus||0 из|:x:|
