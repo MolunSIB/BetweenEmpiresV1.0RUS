@@ -1,4 +1,4 @@
-# :ru: BetweenEmpiresV1.0RUS :ru:
+# BetweenEmpiresV1.0RUS
 Перевод на русский язык мода на Mount and Blade: Warband - Between Empires v1.0 <br>
 Ссылка на сам мод (github): [Нажми на меня](https://github.com/EldarFara/VictorianEraDev) <br>
 Ссылка на сам мод (Steam): [Нажми на меня](https://steamcommunity.com/sharedfiles/filedetails/?id=2130345396) <br>
@@ -12,8 +12,8 @@
 |6|`info_pages.csv`|Информационные страницы|0 из 4|:x:|
 |7|`item_kinds.csv`|Предметы|0 из 3904|:x:|
 |8|`item_modifiers.csv`|Модификаты предметов|0 из 43|:x:|
-|9|`parties.csv`|Партии|0 из 1033|:x:|
-|10|`party_templates.csv`||0 из 50|:x:|
+|9|`parties.csv`|Города|0 из 1033|:x:|
+|10|`party_templates.csv`|Отряды|0 из 50|:x:|
 |11|`quests.csv`|Квесты|0 из 77|:x:|
 |12|`quick_strings.csv`|Краткие надписи|0 из 1431|:x:|
 |13|`skills.csv`|Навыки|0 из 84|:x:|
