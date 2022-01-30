@@ -1,5 +1,6 @@
 # :ru: BetweenEmpiresV1.0RUS :ru:
 Перевод на русский язык мода на Mount and Blade: Warband - Between Empires v1.0
+<p style="color: red;">Ссылка на сам мод:</p>[клик](https://github.com/EldarFara/VictorianEraDev)
 | № | Название файла | Описание | Прогресс (Строк) | Статус |
 |:----:|:----|:----|:----:|:----:|
 |1|`dialogs.csv`|Диалоги|0 из 2782|:x:|
