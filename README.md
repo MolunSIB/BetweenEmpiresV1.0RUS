@@ -6,7 +6,7 @@
 |2|factions|Фракции|0 из 66|:x:|
 |3|game_menus||0 из 686|:x:|
 |4|game_strings||0 из 4176|:x:|
-|5|hints||0 из 1|:x:|
+|5|hints|Подсказки|1 из 1|:heavy_check_mark:|
 |6|info_pages||0 из 4|:x:|
 |7|item_kinds|Предметы|0 из 3904|:x:|
 |8|item_modifiers|Модификаты предметов|0 из 43|:x:|
