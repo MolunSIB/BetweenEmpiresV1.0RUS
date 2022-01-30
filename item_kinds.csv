@@ -1,0 +1,3904 @@
+itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|Spear
+itm_tutorial_spear_pl|Spear
+itm_tutorial_club|Club
+itm_tutorial_club_pl|Club
+itm_tutorial_battle_axe|Battle Axe
+itm_tutorial_battle_axe_pl|Battle Axe
+itm_tutorial_arrows|Arrows
+itm_tutorial_arrows_pl|Arrows
+itm_tutorial_bolts|Bolts
+itm_tutorial_bolts_pl|Bolts
+itm_tutorial_short_bow|Short Bow
+itm_tutorial_short_bow_pl|Short Bow
+itm_tutorial_crossbow|Crossbow
+itm_tutorial_crossbow_pl|Crossbow
+itm_tutorial_throwing_daggers|Throwing Daggers
+itm_tutorial_throwing_daggers_pl|Throwing Daggers
+itm_tutorial_saddle_horse|Saddle Horse
+itm_tutorial_saddle_horse_pl|Saddle Horse
+itm_tutorial_shield|Kite Shield
+itm_tutorial_shield_pl|Kite Shield
+itm_tutorial_staff_no_attack|Staff
+itm_tutorial_staff_no_attack_pl|Staff
+itm_tutorial_staff|Staff
+itm_tutorial_staff_pl|Staff
+itm_tutorial_sword|Sword
+itm_tutorial_sword_pl|Sword
+itm_tutorial_axe|Axe
+itm_tutorial_axe_pl|Axe
+itm_tutorial_dagger|Dagger
+itm_tutorial_dagger_pl|Dagger
+itm_horse_meat|Horse Meat
+itm_horse_meat_pl|Horse Meat
+itm_practice_sword|Practice Sword
+itm_practice_sword_pl|Practice Sword
+itm_heavy_practice_sword|Heavy Practice Sword
+itm_heavy_practice_sword_pl|Heavy Practice Sword
+itm_practice_dagger|Practice Dagger
+itm_practice_dagger_pl|Practice Dagger
+itm_practice_axe|Practice Axe
+itm_practice_axe_pl|Practice Axe
+itm_arena_axe|Axe
+itm_arena_axe_pl|Axe
+itm_arena_sword|Sword
+itm_arena_sword_pl|Sword
+itm_arena_sword_two_handed|Two Handed Sword
+itm_arena_sword_two_handed_pl|Two Handed Sword
+itm_arena_lance|Lance
+itm_arena_lance_pl|Lance
+itm_practice_staff|Practice Staff
+itm_practice_staff_pl|Practice Staff
+itm_practice_lance|Practice Lance
+itm_practice_lance_pl|Practice Lance
+itm_practice_shield|Practice Shield
+itm_practice_shield_pl|Practice Shield
+itm_practice_bow|Practice Bow
+itm_practice_bow_pl|Practice Bow
+itm_practice_crossbow|Practice Crossbow
+itm_practice_crossbow_pl|Practice Crossbow
+itm_practice_javelin|Practice Javelins
+itm_practice_javelin_pl|Practice Javelins
+itm_practice_javelin_melee|practice javelin melee
+itm_practice_javelin_melee_pl|practice javelin melee
+itm_practice_throwing_daggers|Throwing Daggers
+itm_practice_throwing_daggers_pl|Throwing Daggers
+itm_practice_throwing_daggers_100_amount|Throwing Daggers
+itm_practice_throwing_daggers_100_amount_pl|Throwing Daggers
+itm_practice_horse|Practice Horse
+itm_practice_horse_pl|Practice Horse
+itm_practice_arrows|Practice Arrows
+itm_practice_arrows_pl|Practice Arrows
+itm_practice_bolts|Practice Bolts
+itm_practice_bolts_pl|Practice Bolts
+itm_practice_arrows_10_amount|Practice Arrows
+itm_practice_arrows_10_amount_pl|Practice Arrows
+itm_practice_arrows_100_amount|Practice Arrows
+itm_practice_arrows_100_amount_pl|Practice Arrows
+itm_practice_bolts_9_amount|Practice Bolts
+itm_practice_bolts_9_amount_pl|Practice Bolts
+itm_practice_boots|Practice Boots
+itm_practice_boots_pl|Practice Boots
+itm_red_tourney_armor|Red Tourney Armor
+itm_red_tourney_armor_pl|Red Tourney Armor
+itm_blue_tourney_armor|Blue Tourney Armor
+itm_blue_tourney_armor_pl|Blue Tourney Armor
+itm_green_tourney_armor|Green Tourney Armor
+itm_green_tourney_armor_pl|Green Tourney Armor
+itm_gold_tourney_armor|Gold Tourney Armor
+itm_gold_tourney_armor_pl|Gold Tourney Armor
+itm_red_tourney_helmet|Red Tourney Helmet
+itm_red_tourney_helmet_pl|Red Tourney Helmet
+itm_blue_tourney_helmet|Blue Tourney Helmet
+itm_blue_tourney_helmet_pl|Blue Tourney Helmet
+itm_green_tourney_helmet|Green Tourney Helmet
+itm_green_tourney_helmet_pl|Green Tourney Helmet
+itm_gold_tourney_helmet|Gold Tourney Helmet
+itm_gold_tourney_helmet_pl|Gold Tourney Helmet
+itm_arena_shield_red|Shield
+itm_arena_shield_red_pl|Shield
+itm_arena_shield_blue|Shield
+itm_arena_shield_blue_pl|Shield
+itm_arena_shield_green|Shield
+itm_arena_shield_green_pl|Shield
+itm_arena_shield_yellow|Shield
+itm_arena_shield_yellow_pl|Shield
+itm_arena_armor_white|Arena Armor White
+itm_arena_armor_white_pl|Arena Armor White
+itm_arena_armor_red|Arena Armor Red
+itm_arena_armor_red_pl|Arena Armor Red
+itm_arena_armor_blue|Arena Armor Blue
+itm_arena_armor_blue_pl|Arena Armor Blue
+itm_arena_armor_green|Arena Armor Green
+itm_arena_armor_green_pl|Arena Armor Green
+itm_arena_armor_yellow|Arena Armor Yellow
+itm_arena_armor_yellow_pl|Arena Armor Yellow
+itm_arena_tunic_white|Arena Tunic White 
+itm_arena_tunic_white_pl|Arena Tunic White 
+itm_arena_tunic_red|Arena Tunic Red
+itm_arena_tunic_red_pl|Arena Tunic Red
+itm_arena_tunic_blue|Arena Tunic Blue
+itm_arena_tunic_blue_pl|Arena Tunic Blue
+itm_arena_tunic_green|Arena Tunic Green
+itm_arena_tunic_green_pl|Arena Tunic Green
+itm_arena_tunic_yellow|Arena Tunic Yellow
+itm_arena_tunic_yellow_pl|Arena Tunic Yellow
+itm_arena_helmet_red|Arena Helmet Red
+itm_arena_helmet_red_pl|Arena Helmet Red
+itm_arena_helmet_blue|Arena Helmet Blue
+itm_arena_helmet_blue_pl|Arena Helmet Blue
+itm_arena_helmet_green|Arena Helmet Green
+itm_arena_helmet_green_pl|Arena Helmet Green
+itm_arena_helmet_yellow|Arena Helmet Yellow
+itm_arena_helmet_yellow_pl|Arena Helmet Yellow
+itm_steppe_helmet_white|Steppe Helmet White
+itm_steppe_helmet_white_pl|Steppe Helmet White
+itm_steppe_helmet_red|Steppe Helmet Red
+itm_steppe_helmet_red_pl|Steppe Helmet Red
+itm_steppe_helmet_blue|Steppe Helmet Blue
+itm_steppe_helmet_blue_pl|Steppe Helmet Blue
+itm_steppe_helmet_green|Steppe Helmet Green
+itm_steppe_helmet_green_pl|Steppe Helmet Green
+itm_steppe_helmet_yellow|Steppe Helmet Yellow
+itm_steppe_helmet_yellow_pl|Steppe Helmet Yellow
+itm_tourney_helm_white|Tourney Helm White
+itm_tourney_helm_white_pl|Tourney Helm White
+itm_tourney_helm_red|Tourney Helm Red
+itm_tourney_helm_red_pl|Tourney Helm Red
+itm_tourney_helm_blue|Tourney Helm Blue
+itm_tourney_helm_blue_pl|Tourney Helm Blue
+itm_tourney_helm_green|Tourney Helm Green
+itm_tourney_helm_green_pl|Tourney Helm Green
+itm_tourney_helm_yellow|Tourney Helm Yellow
+itm_tourney_helm_yellow_pl|Tourney Helm Yellow
+itm_arena_turban_red|Arena Turban
+itm_arena_turban_red_pl|Arena Turban
+itm_arena_turban_blue|Arena Turban
+itm_arena_turban_blue_pl|Arena Turban
+itm_arena_turban_green|Arena Turban
+itm_arena_turban_green_pl|Arena Turban
+itm_arena_turban_yellow|Arena Turban
+itm_arena_turban_yellow_pl|Arena Turban
+itm_book_tactics|De Re Militari
+itm_book_tactics_pl|De Re Militari
+itm_book_persuasion|Rhetorica ad Herennium
+itm_book_persuasion_pl|Rhetorica ad Herennium
+itm_book_leadership|The Life of Alixenus the Great
+itm_book_leadership_pl|The Life of Alixenus the Great
+itm_book_intelligence|Essays on Logic
+itm_book_intelligence_pl|Essays on Logic
+itm_book_trade|A Treatise on the Value of Things
+itm_book_trade_pl|A Treatise on the Value of Things
+itm_book_weapon_mastery|On the Art of Fighting with Swords
+itm_book_weapon_mastery_pl|On the Art of Fighting with Swords
+itm_book_engineering|Method of Mechanical Theorems
+itm_book_engineering_pl|Method of Mechanical Theorems
+itm_book_wound_treatment_reference|The Book of Healing
+itm_book_wound_treatment_reference_pl|The Book of Healing
+itm_book_training_reference|Manual of Arms
+itm_book_training_reference_pl|Manual of Arms
+itm_book_surgery_reference|The Great Book of Surgery
+itm_book_surgery_reference_pl|The Great Book of Surgery
+itm_spice|Spice
+itm_spice_pl|Spice
+itm_salt|Salt
+itm_salt_pl|Salt
+itm_oil|Oil
+itm_oil_pl|Oil
+itm_pottery|Pottery
+itm_pottery_pl|Pottery
+itm_raw_flax|Flax Bundle
+itm_raw_flax_pl|Flax Bundle
+itm_linen|Linen
+itm_linen_pl|Linen
+itm_wool|Wool
+itm_wool_pl|Wool
+itm_wool_cloth|Wool Cloth
+itm_wool_cloth_pl|Wool Cloth
+itm_raw_silk|Raw Silk
+itm_raw_silk_pl|Raw Silk
+itm_raw_dyes|Dyes
+itm_raw_dyes_pl|Dyes
+itm_velvet|Velvet
+itm_velvet_pl|Velvet
+itm_iron|Iron
+itm_iron_pl|Iron
+itm_tools|Tools
+itm_tools_pl|Tools
+itm_raw_leather|Hides
+itm_raw_leather_pl|Hides
+itm_leatherwork|Leatherwork
+itm_leatherwork_pl|Leatherwork
+itm_raw_date_fruit|Date Fruit
+itm_raw_date_fruit_pl|Date Fruit
+itm_furs|Furs
+itm_furs_pl|Furs
+itm_wine|Wine
+itm_wine_pl|Wine
+itm_ale|Ale
+itm_ale_pl|Ale
+itm_smoked_fish|Smoked Fish
+itm_smoked_fish_pl|Smoked Fish
+itm_cheese|Cheese
+itm_cheese_pl|Cheese
+itm_honey|Honey
+itm_honey_pl|Honey
+itm_sausages|Sausages
+itm_sausages_pl|Sausages
+itm_cabbages|Cabbages
+itm_cabbages_pl|Cabbages
+itm_dried_meat|Dried Meat
+itm_dried_meat_pl|Dried Meat
+itm_apples|Fruit
+itm_apples_pl|Fruit
+itm_raw_grapes|Grapes
+itm_raw_grapes_pl|Grapes
+itm_raw_olives|Olives
+itm_raw_olives_pl|Olives
+itm_grain|Grain
+itm_grain_pl|Grain
+itm_cattle_meat|Beef
+itm_cattle_meat_pl|Beef
+itm_bread|Bread
+itm_bread_pl|Bread
+itm_chicken|Chicken
+itm_chicken_pl|Chicken
+itm_pork|Pork
+itm_pork_pl|Pork
+itm_butter|Butter
+itm_butter_pl|Butter
+itm_siege_supply|Supplies
+itm_siege_supply_pl|Supplies
+itm_quest_wine|Wine
+itm_quest_wine_pl|Wine
+itm_quest_ale|Ale
+itm_quest_ale_pl|Ale
+itm_sumpter_horse|Sumpter Horse
+itm_sumpter_horse_pl|Sumpter Horse
+itm_saddle_horse|Saddle Horse
+itm_saddle_horse_pl|Saddle Horse
+itm_steppe_horse|Steppe Horse
+itm_steppe_horse_pl|Steppe Horse
+itm_arabian_horse_a|Desert Horse
+itm_arabian_horse_a_pl|Desert Horse
+itm_courser|Courser
+itm_courser_pl|Courser
+itm_arabian_horse_b|Sarranid Horse
+itm_arabian_horse_b_pl|Sarranid Horse
+itm_hunter|Hunter
+itm_hunter_pl|Hunter
+itm_warhorse|War Horse
+itm_warhorse_pl|War Horse
+itm_charger|Charger
+itm_charger_pl|Charger
+itm_arrows|Arrows
+itm_arrows_pl|Arrows
+itm_khergit_arrows|Khergit Arrows
+itm_khergit_arrows_pl|Khergit Arrows
+itm_barbed_arrows|Barbed Arrows
+itm_barbed_arrows_pl|Barbed Arrows
+itm_bodkin_arrows|Bodkin Arrows
+itm_bodkin_arrows_pl|Bodkin Arrows
+itm_bolts|Bolts
+itm_bolts_pl|Bolts
+itm_steel_bolts|Steel Bolts
+itm_steel_bolts_pl|Steel Bolts
+itm_cartridges|Cartridges
+itm_cartridges_pl|Cartridges
+itm_pilgrim_disguise|Pilgrim Disguise
+itm_pilgrim_disguise_pl|Pilgrim Disguise
+itm_pilgrim_hood|Pilgrim Hood
+itm_pilgrim_hood_pl|Pilgrim Hood
+itm_leather_gloves|Leather Gloves
+itm_leather_gloves_pl|Leather Gloves
+itm_mail_mittens|Mail Mittens
+itm_mail_mittens_pl|Mail Mittens
+itm_scale_gauntlets|Scale Gauntlets
+itm_scale_gauntlets_pl|Scale Gauntlets
+itm_lamellar_gauntlets|Lamellar Gauntlets
+itm_lamellar_gauntlets_pl|Lamellar Gauntlets
+itm_gauntlets|Gauntlets
+itm_gauntlets_pl|Gauntlets
+itm_wrapping_boots|Wrapping Boots
+itm_wrapping_boots_pl|Wrapping Boots
+itm_woolen_hose|Woolen Hose
+itm_woolen_hose_pl|Woolen Hose
+itm_blue_hose|Blue Hose
+itm_blue_hose_pl|Blue Hose
+itm_hunter_boots|Hunter Boots
+itm_hunter_boots_pl|Hunter Boots
+itm_hide_boots|Hide Boots
+itm_hide_boots_pl|Hide Boots
+itm_ankle_boots|Ankle Boots
+itm_ankle_boots_pl|Ankle Boots
+itm_nomad_boots|Nomad Boots
+itm_nomad_boots_pl|Nomad Boots
+itm_leather_boots|Leather Boots
+itm_leather_boots_pl|Leather Boots
+itm_splinted_leather_greaves|Splinted Leather Greaves
+itm_splinted_leather_greaves_pl|Splinted Leather Greaves
+itm_mail_chausses|Mail Chausses
+itm_mail_chausses_pl|Mail Chausses
+itm_splinted_greaves|Splinted Greaves
+itm_splinted_greaves_pl|Splinted Greaves
+itm_mail_boots|Mail Boots
+itm_mail_boots_pl|Mail Boots
+itm_iron_greaves|Iron Greaves
+itm_iron_greaves_pl|Iron Greaves
+itm_black_greaves|Black Greaves
+itm_black_greaves_pl|Black Greaves
+itm_khergit_leather_boots|Khergit Leather Boots
+itm_khergit_leather_boots_pl|Khergit Leather Boots
+itm_sarranid_boots_a|Sarranid Shoes
+itm_sarranid_boots_a_pl|Sarranid Shoes
+itm_sarranid_boots_b|Sarranid Leather Boots
+itm_sarranid_boots_b_pl|Sarranid Leather Boots
+itm_sarranid_boots_c|Plated Boots
+itm_sarranid_boots_c_pl|Plated Boots
+itm_sarranid_boots_d|Sarranid Mail Boots
+itm_sarranid_boots_d_pl|Sarranid Mail Boots
+itm_sarranid_head_cloth|Lady Head Cloth
+itm_sarranid_head_cloth_pl|Lady Head Cloth
+itm_sarranid_head_cloth_b|Lady Head Cloth
+itm_sarranid_head_cloth_b_pl|Lady Head Cloth
+itm_sarranid_felt_head_cloth|Head Cloth
+itm_sarranid_felt_head_cloth_pl|Head Cloth
+itm_sarranid_felt_head_cloth_b|Head Cloth
+itm_sarranid_felt_head_cloth_b_pl|Head Cloth
+itm_lady_dress_ruby|Lady Dress
+itm_lady_dress_ruby_pl|Lady Dress
+itm_lady_dress_green|Lady Dress
+itm_lady_dress_green_pl|Lady Dress
+itm_lady_dress_blue|Lady Dress
+itm_lady_dress_blue_pl|Lady Dress
+itm_red_dress|Red Dress
+itm_red_dress_pl|Red Dress
+itm_brown_dress|Brown Dress
+itm_brown_dress_pl|Brown Dress
+itm_green_dress|Green Dress
+itm_green_dress_pl|Green Dress
+itm_khergit_lady_dress|Khergit Lady Dress
+itm_khergit_lady_dress_pl|Khergit Lady Dress
+itm_khergit_lady_dress_b|Khergit Leather Lady Dress
+itm_khergit_lady_dress_b_pl|Khergit Leather Lady Dress
+itm_sarranid_lady_dress|Sarranid Lady Dress
+itm_sarranid_lady_dress_pl|Sarranid Lady Dress
+itm_sarranid_lady_dress_b|Sarranid Lady Dress
+itm_sarranid_lady_dress_b_pl|Sarranid Lady Dress
+itm_sarranid_common_dress|Sarranid Dress
+itm_sarranid_common_dress_pl|Sarranid Dress
+itm_sarranid_common_dress_b|Sarranid Dress
+itm_sarranid_common_dress_b_pl|Sarranid Dress
+itm_courtly_outfit|Courtly Outfit
+itm_courtly_outfit_pl|Courtly Outfit
+itm_nobleman_outfit|Nobleman Outfit
+itm_nobleman_outfit_pl|Nobleman Outfit
+itm_nomad_armor|Nomad Armor
+itm_nomad_armor_pl|Nomad Armor
+itm_khergit_armor|Khergit Armor
+itm_khergit_armor_pl|Khergit Armor
+itm_leather_jacket|Leather Jacket
+itm_leather_jacket_pl|Leather Jacket
+itm_rawhide_coat|Rawhide Coat
+itm_rawhide_coat_pl|Rawhide Coat
+itm_leather_armor|Leather Armor
+itm_leather_armor_pl|Leather Armor
+itm_fur_coat|Fur Coat
+itm_fur_coat_pl|Fur Coat
+itm_coat|Coat
+itm_coat_pl|Coat
+itm_leather_coat|Leather Coat
+itm_leather_coat_pl|Leather Coat
+itm_mail_coat|Coat of Mail
+itm_mail_coat_pl|Coat of Mail
+itm_long_mail_coat|Long Coat of Mail
+itm_long_mail_coat_pl|Long Coat of Mail
+itm_mail_with_tunic_red|Mail with Tunic
+itm_mail_with_tunic_red_pl|Mail with Tunic
+itm_mail_with_tunic_green|Mail with Tunic
+itm_mail_with_tunic_green_pl|Mail with Tunic
+itm_hide_coat|Hide Coat
+itm_hide_coat_pl|Hide Coat
+itm_merchant_outfit|Merchant Outfit
+itm_merchant_outfit_pl|Merchant Outfit
+itm_homespun_dress|Homespun Dress
+itm_homespun_dress_pl|Homespun Dress
+itm_thick_coat|Thick Coat
+itm_thick_coat_pl|Thick Coat
+itm_coat_with_cape|Coat with Cape
+itm_coat_with_cape_pl|Coat with Cape
+itm_steppe_outfit|Steppe Outfit
+itm_steppe_outfit_pl|Steppe Outfit
+itm_nordic_outfit|Nordic Outfit
+itm_nordic_outfit_pl|Nordic Outfit
+itm_nordic_armor|Nordic Armor
+itm_nordic_armor_pl|Nordic Armor
+itm_hide_armor|Hide Armor
+itm_hide_armor_pl|Hide Armor
+itm_cloaked_tunic|Cloaked Tunic
+itm_cloaked_tunic_pl|Cloaked Tunic
+itm_sleeveless_tunic|Sleeveless Tunic
+itm_sleeveless_tunic_pl|Sleeveless Tunic
+itm_sleeveless_leather_tunic|Sleeveless Leather Tunic
+itm_sleeveless_leather_tunic_pl|Sleeveless Leather Tunic
+itm_linen_shirt|Linen Shirt
+itm_linen_shirt_pl|Linen Shirt
+itm_wool_coat|Wool Coat
+itm_wool_coat_pl|Wool Coat
+itm_dress|Dress
+itm_dress_pl|Dress
+itm_blue_dress|Blue Dress
+itm_blue_dress_pl|Blue Dress
+itm_peasant_dress|Peasant Dress
+itm_peasant_dress_pl|Peasant Dress
+itm_woolen_dress|Woolen Dress
+itm_woolen_dress_pl|Woolen Dress
+itm_shirt|Shirt
+itm_shirt_pl|Shirt
+itm_linen_tunic|Linen Tunic
+itm_linen_tunic_pl|Linen Tunic
+itm_short_tunic|Red Tunic
+itm_short_tunic_pl|Red Tunic
+itm_red_shirt|Red Shirt
+itm_red_shirt_pl|Red Shirt
+itm_red_tunic|Red Tunic
+itm_red_tunic_pl|Red Tunic
+itm_green_tunic|Green Tunic
+itm_green_tunic_pl|Green Tunic
+itm_blue_tunic|Blue Tunic
+itm_blue_tunic_pl|Blue Tunic
+itm_robe|Robe
+itm_robe_pl|Robe
+itm_coarse_tunic|Tunic with vest
+itm_coarse_tunic_pl|Tunic with vest
+itm_leather_apron|Leather Apron
+itm_leather_apron_pl|Leather Apron
+itm_tabard|Tabard
+itm_tabard_pl|Tabard
+itm_leather_vest|Leather Vest
+itm_leather_vest_pl|Leather Vest
+itm_steppe_armor|Steppe Armor
+itm_steppe_armor_pl|Steppe Armor
+itm_gambeson|Gambeson
+itm_gambeson_pl|Gambeson
+itm_blue_gambeson|Blue Gambeson
+itm_blue_gambeson_pl|Blue Gambeson
+itm_red_gambeson|Red Gambeson
+itm_red_gambeson_pl|Red Gambeson
+itm_padded_cloth|Aketon
+itm_padded_cloth_pl|Aketon
+itm_aketon_green|Padded Cloth
+itm_aketon_green_pl|Padded Cloth
+itm_leather_jerkin|Leather Jerkin
+itm_leather_jerkin_pl|Leather Jerkin
+itm_nomad_vest|Nomad Vest
+itm_nomad_vest_pl|Nomad Vest
+itm_ragged_outfit|Ragged Outfit
+itm_ragged_outfit_pl|Ragged Outfit
+itm_padded_leather|Padded Leather
+itm_padded_leather_pl|Padded Leather
+itm_tribal_warrior_outfit|Tribal Warrior Outfit
+itm_tribal_warrior_outfit_pl|Tribal Warrior Outfit
+itm_nomad_robe|Nomad Robe
+itm_nomad_robe_pl|Nomad Robe
+itm_studded_leather_coat|Studded Leather Coat
+itm_studded_leather_coat_pl|Studded Leather Coat
+itm_byrnie|Byrnie
+itm_byrnie_pl|Byrnie
+itm_haubergeon|Haubergeon
+itm_haubergeon_pl|Haubergeon
+itm_lamellar_vest|Lamellar Vest
+itm_lamellar_vest_pl|Lamellar Vest
+itm_lamellar_vest_khergit|Khergit Lamellar Vest
+itm_lamellar_vest_khergit_pl|Khergit Lamellar Vest
+itm_mail_shirt|Mail Shirt
+itm_mail_shirt_pl|Mail Shirt
+itm_mail_hauberk|Mail Hauberk
+itm_mail_hauberk_pl|Mail Hauberk
+itm_mail_with_surcoat|Mail with Surcoat
+itm_mail_with_surcoat_pl|Mail with Surcoat
+itm_surcoat_over_mail|Surcoat over Mail
+itm_surcoat_over_mail_pl|Surcoat over Mail
+itm_brigandine_red|Brigandine
+itm_brigandine_red_pl|Brigandine
+itm_lamellar_armor|Lamellar Armor
+itm_lamellar_armor_pl|Lamellar Armor
+itm_scale_armor|Scale Armor
+itm_scale_armor_pl|Scale Armor
+itm_banded_armor|Banded Armor
+itm_banded_armor_pl|Banded Armor
+itm_cuir_bouilli|Cuir Bouilli
+itm_cuir_bouilli_pl|Cuir Bouilli
+itm_coat_of_plates|Coat of Plates
+itm_coat_of_plates_pl|Coat of Plates
+itm_coat_of_plates_red|Coat of Plates
+itm_coat_of_plates_red_pl|Coat of Plates
+itm_plate_armor|Plate Armor
+itm_plate_armor_pl|Plate Armor
+itm_black_armor|Black Armor
+itm_black_armor_pl|Black Armor
+itm_pelt_coat|Pelt Coat
+itm_pelt_coat_pl|Pelt Coat
+itm_khergit_elite_armor|Khergit Elite Armor
+itm_khergit_elite_armor_pl|Khergit Elite Armor
+itm_vaegir_elite_armor|Vaegir Elite Armor
+itm_vaegir_elite_armor_pl|Vaegir Elite Armor
+itm_sarranid_elite_armor|Sarranid Elite Armor
+itm_sarranid_elite_armor_pl|Sarranid Elite Armor
+itm_sarranid_dress_a|Dress
+itm_sarranid_dress_a_pl|Dress
+itm_sarranid_dress_b|Dress
+itm_sarranid_dress_b_pl|Dress
+itm_sarranid_cloth_robe|Worn Robe
+itm_sarranid_cloth_robe_pl|Worn Robe
+itm_sarranid_cloth_robe_b|Worn Robe
+itm_sarranid_cloth_robe_b_pl|Worn Robe
+itm_skirmisher_armor|Skirmisher Armor
+itm_skirmisher_armor_pl|Skirmisher Armor
+itm_archers_vest|Archer's Padded Vest
+itm_archers_vest_pl|Archer's Padded Vest
+itm_sarranid_leather_armor|Sarranid Leather Armor
+itm_sarranid_leather_armor_pl|Sarranid Leather Armor
+itm_sarranid_cavalry_robe|Cavalry Robe
+itm_sarranid_cavalry_robe_pl|Cavalry Robe
+itm_arabian_armor_b|Sarranid Guard Armor
+itm_arabian_armor_b_pl|Sarranid Guard Armor
+itm_sarranid_mail_shirt|Sarranid Mail Shirt
+itm_sarranid_mail_shirt_pl|Sarranid Mail Shirt
+itm_mamluke_mail|Mamluke Mail
+itm_mamluke_mail_pl|Mamluke Mail
+itm_burlap_tunic|Burlap Tunic
+itm_burlap_tunic_pl|Burlap Tunic
+itm_heraldic_mail_with_surcoat|Heraldic Mail with Surcoat
+itm_heraldic_mail_with_surcoat_pl|Heraldic Mail with Surcoat
+itm_heraldic_mail_with_tunic|Heraldic Mail
+itm_heraldic_mail_with_tunic_pl|Heraldic Mail
+itm_heraldic_mail_with_tunic_b|Heraldic Mail
+itm_heraldic_mail_with_tunic_b_pl|Heraldic Mail
+itm_heraldic_mail_with_tabard|Heraldic Mail with Tabard
+itm_heraldic_mail_with_tabard_pl|Heraldic Mail with Tabard
+itm_turret_hat_ruby|Turret Hat
+itm_turret_hat_ruby_pl|Turret Hat
+itm_turret_hat_blue|Turret Hat
+itm_turret_hat_blue_pl|Turret Hat
+itm_turret_hat_green|Barbette
+itm_turret_hat_green_pl|Barbette
+itm_head_wrappings|Head Wrapping
+itm_head_wrappings_pl|Head Wrapping
+itm_court_hat|Turret Hat
+itm_court_hat_pl|Turret Hat
+itm_wimple_a|Wimple
+itm_wimple_a_pl|Wimple
+itm_wimple_with_veil|Wimple with Veil
+itm_wimple_with_veil_pl|Wimple with Veil
+itm_straw_hat|Straw Hat
+itm_straw_hat_pl|Straw Hat
+itm_common_hood|Hood
+itm_common_hood_pl|Hood
+itm_hood_b|Hood
+itm_hood_b_pl|Hood
+itm_hood_c|Hood
+itm_hood_c_pl|Hood
+itm_hood_d|Hood
+itm_hood_d_pl|Hood
+itm_headcloth|Headcloth
+itm_headcloth_pl|Headcloth
+itm_woolen_hood|Woolen Hood
+itm_woolen_hood_pl|Woolen Hood
+itm_arming_cap|Arming Cap
+itm_arming_cap_pl|Arming Cap
+itm_fur_hat|Fur Hat
+itm_fur_hat_pl|Fur Hat
+itm_nomad_cap|Nomad Cap
+itm_nomad_cap_pl|Nomad Cap
+itm_nomad_cap_b|Nomad Cap
+itm_nomad_cap_b_pl|Nomad Cap
+itm_steppe_cap|Steppe Cap
+itm_steppe_cap_pl|Steppe Cap
+itm_padded_coif|Padded Coif
+itm_padded_coif_pl|Padded Coif
+itm_woolen_cap|Woolen Cap
+itm_woolen_cap_pl|Woolen Cap
+itm_felt_hat|Felt Hat
+itm_felt_hat_pl|Felt Hat
+itm_felt_hat_b|Felt Hat
+itm_felt_hat_b_pl|Felt Hat
+itm_leather_cap|Leather Cap
+itm_leather_cap_pl|Leather Cap
+itm_female_hood|Lady's Hood
+itm_female_hood_pl|Lady's Hood
+itm_leather_steppe_cap_a|Steppe Cap
+itm_leather_steppe_cap_a_pl|Steppe Cap
+itm_leather_steppe_cap_b|Steppe Cap 
+itm_leather_steppe_cap_b_pl|Steppe Cap 
+itm_leather_steppe_cap_c|Steppe Cap
+itm_leather_steppe_cap_c_pl|Steppe Cap
+itm_leather_warrior_cap|Leather Warrior Cap
+itm_leather_warrior_cap_pl|Leather Warrior Cap
+itm_skullcap|Skullcap
+itm_skullcap_pl|Skullcap
+itm_mail_coif|Mail Coif
+itm_mail_coif_pl|Mail Coif
+itm_footman_helmet|Footman's Helmet
+itm_footman_helmet_pl|Footman's Helmet
+itm_nasal_helmet|Nasal Helmet
+itm_nasal_helmet_pl|Nasal Helmet
+itm_norman_helmet|Helmet with Cap
+itm_norman_helmet_pl|Helmet with Cap
+itm_segmented_helmet|Segmented Helmet
+itm_segmented_helmet_pl|Segmented Helmet
+itm_helmet_with_neckguard|Helmet with Neckguard
+itm_helmet_with_neckguard_pl|Helmet with Neckguard
+itm_flat_topped_helmet|Flat Topped Helmet
+itm_flat_topped_helmet_pl|Flat Topped Helmet
+itm_kettle_hat|Kettle Hat
+itm_kettle_hat_pl|Kettle Hat
+itm_spiked_helmet|Spiked Helmet
+itm_spiked_helmet_pl|Spiked Helmet
+itm_nordic_helmet|Nordic Helmet
+itm_nordic_helmet_pl|Nordic Helmet
+itm_khergit_lady_hat|Khergit Lady Hat
+itm_khergit_lady_hat_pl|Khergit Lady Hat
+itm_khergit_lady_hat_b|Khergit Lady Leather Hat
+itm_khergit_lady_hat_b_pl|Khergit Lady Leather Hat
+itm_sarranid_felt_hat|Sarranid Felt Hat
+itm_sarranid_felt_hat_pl|Sarranid Felt Hat
+itm_turban|Turban
+itm_turban_pl|Turban
+itm_desert_turban|Desert Turban
+itm_desert_turban_pl|Desert Turban
+itm_sarranid_warrior_cap|Sarranid Warrior Cap
+itm_sarranid_warrior_cap_pl|Sarranid Warrior Cap
+itm_sarranid_horseman_helmet|Horseman Helmet
+itm_sarranid_horseman_helmet_pl|Horseman Helmet
+itm_sarranid_helmet1|Sarranid Keffiyeh Helmet
+itm_sarranid_helmet1_pl|Sarranid Keffiyeh Helmet
+itm_sarranid_mail_coif|Sarranid Mail Coif
+itm_sarranid_mail_coif_pl|Sarranid Mail Coif
+itm_sarranid_veiled_helmet|Sarranid Veiled Helmet
+itm_sarranid_veiled_helmet_pl|Sarranid Veiled Helmet
+itm_nordic_archer_helmet|Nordic Leather Helmet
+itm_nordic_archer_helmet_pl|Nordic Leather Helmet
+itm_nordic_veteran_archer_helmet|Nordic Leather Helmet
+itm_nordic_veteran_archer_helmet_pl|Nordic Leather Helmet
+itm_nordic_footman_helmet|Nordic Footman Helmet
+itm_nordic_footman_helmet_pl|Nordic Footman Helmet
+itm_nordic_fighter_helmet|Nordic Fighter Helmet
+itm_nordic_fighter_helmet_pl|Nordic Fighter Helmet
+itm_nordic_huscarl_helmet|Nordic Huscarl's Helmet
+itm_nordic_huscarl_helmet_pl|Nordic Huscarl's Helmet
+itm_nordic_warlord_helmet|Nordic Warlord Helmet
+itm_nordic_warlord_helmet_pl|Nordic Warlord Helmet
+itm_vaegir_fur_cap|Cap with Fur
+itm_vaegir_fur_cap_pl|Cap with Fur
+itm_vaegir_fur_helmet|Vaegir Helmet
+itm_vaegir_fur_helmet_pl|Vaegir Helmet
+itm_vaegir_spiked_helmet|Spiked Cap
+itm_vaegir_spiked_helmet_pl|Spiked Cap
+itm_vaegir_lamellar_helmet|Helmet with Lamellar Guard
+itm_vaegir_lamellar_helmet_pl|Helmet with Lamellar Guard
+itm_vaegir_noble_helmet|Vaegir Nobleman Helmet
+itm_vaegir_noble_helmet_pl|Vaegir Nobleman Helmet
+itm_vaegir_war_helmet|Vaegir War Helmet
+itm_vaegir_war_helmet_pl|Vaegir War Helmet
+itm_vaegir_mask|Vaegir War Mask
+itm_vaegir_mask_pl|Vaegir War Mask
+itm_bascinet|Bascinet
+itm_bascinet_pl|Bascinet
+itm_bascinet_2|Bascinet with Aventail
+itm_bascinet_2_pl|Bascinet with Aventail
+itm_bascinet_3|Bascinet with Nose Guard
+itm_bascinet_3_pl|Bascinet with Nose Guard
+itm_guard_helmet|Guard Helmet
+itm_guard_helmet_pl|Guard Helmet
+itm_black_helmet|Black Helmet
+itm_black_helmet_pl|Black Helmet
+itm_full_helm|Full Helm
+itm_full_helm_pl|Full Helm
+itm_great_helmet|Great Helmet
+itm_great_helmet_pl|Great Helmet
+itm_winged_great_helmet|Winged Great Helmet
+itm_winged_great_helmet_pl|Winged Great Helmet
+itm_wooden_stick|Wooden Stick
+itm_wooden_stick_pl|Wooden Stick
+itm_cudgel|Cudgel
+itm_cudgel_pl|Cudgel
+itm_hammer|Hammer
+itm_hammer_pl|Hammer
+itm_club|Club
+itm_club_pl|Club
+itm_winged_mace|Flanged Mace
+itm_winged_mace_pl|Flanged Mace
+itm_spiked_mace|Spiked Mace
+itm_spiked_mace_pl|Spiked Mace
+itm_military_hammer|Military Hammer
+itm_military_hammer_pl|Military Hammer
+itm_maul|Maul
+itm_maul_pl|Maul
+itm_sledgehammer|Sledgehammer
+itm_sledgehammer_pl|Sledgehammer
+itm_warhammer|Great Hammer
+itm_warhammer_pl|Great Hammer
+itm_pickaxe|Pickaxe
+itm_pickaxe_pl|Pickaxe
+itm_spiked_club|Spiked Club
+itm_spiked_club_pl|Spiked Club
+itm_fighting_pick|Fighting Pick
+itm_fighting_pick_pl|Fighting Pick
+itm_military_pick|Military Pick
+itm_military_pick_pl|Military Pick
+itm_morningstar|Morningstar
+itm_morningstar_pl|Morningstar
+itm_sickle|Sickle
+itm_sickle_pl|Sickle
+itm_cleaver|Cleaver
+itm_cleaver_pl|Cleaver
+itm_knife|Knife
+itm_knife_pl|Knife
+itm_butchering_knife|Butchering Knife
+itm_butchering_knife_pl|Butchering Knife
+itm_dagger|Dagger
+itm_dagger_pl|Dagger
+itm_falchion|Falchion
+itm_falchion_pl|Falchion
+itm_scimitar|Scimitar
+itm_scimitar_pl|Scimitar
+itm_scimitar_b|Elite Scimitar
+itm_scimitar_b_pl|Elite Scimitar
+itm_arabian_sword_a|Sarranid Sword
+itm_arabian_sword_a_pl|Sarranid Sword
+itm_arabian_sword_b|Sarranid Arming Sword
+itm_arabian_sword_b_pl|Sarranid Arming Sword
+itm_sarranid_cavalry_sword|Sarranid Cavalry Sword
+itm_sarranid_cavalry_sword_pl|Sarranid Cavalry Sword
+itm_arabian_sword_d|Sarranid Guard Sword
+itm_arabian_sword_d_pl|Sarranid Guard Sword
+itm_great_sword|Great Sword
+itm_great_sword_pl|Great Sword
+itm_sword_of_war|Sword of War
+itm_sword_of_war_pl|Sword of War
+itm_hatchet|Hatchet
+itm_hatchet_pl|Hatchet
+itm_hand_axe|Hand Axe
+itm_hand_axe_pl|Hand Axe
+itm_fighting_axe|Fighting Axe
+itm_fighting_axe_pl|Fighting Axe
+itm_axe|Axe
+itm_axe_pl|Axe
+itm_voulge|Voulge
+itm_voulge_pl|Voulge
+itm_battle_axe|Battle Axe
+itm_battle_axe_pl|Battle Axe
+itm_war_axe|War Axe
+itm_war_axe_pl|War Axe
+itm_sword_two_handed_b|Two Handed Sword
+itm_sword_two_handed_b_pl|Two Handed Sword
+itm_sword_two_handed_a|Great Sword
+itm_sword_two_handed_a_pl|Great Sword
+itm_khergit_sword_two_handed_a|Two Handed Sabre
+itm_khergit_sword_two_handed_a_pl|Two Handed Sabre
+itm_khergit_sword_two_handed_b|Two Handed Sabre
+itm_khergit_sword_two_handed_b_pl|Two Handed Sabre
+itm_two_handed_cleaver|War Cleaver
+itm_two_handed_cleaver_pl|War Cleaver
+itm_military_cleaver_b|Soldier's Cleaver
+itm_military_cleaver_b_pl|Soldier's Cleaver
+itm_military_cleaver_c|Military Cleaver
+itm_military_cleaver_c_pl|Military Cleaver
+itm_military_sickle_a|Military Sickle
+itm_military_sickle_a_pl|Military Sickle
+itm_bastard_sword_a|Bastard Sword
+itm_bastard_sword_a_pl|Bastard Sword
+itm_bastard_sword_b|Heavy Bastard Sword
+itm_bastard_sword_b_pl|Heavy Bastard Sword
+itm_one_handed_war_axe_a|One Handed Axe
+itm_one_handed_war_axe_a_pl|One Handed Axe
+itm_one_handed_battle_axe_a|One Handed Battle Axe
+itm_one_handed_battle_axe_a_pl|One Handed Battle Axe
+itm_one_handed_war_axe_b|One Handed War Axe
+itm_one_handed_war_axe_b_pl|One Handed War Axe
+itm_one_handed_battle_axe_b|One Handed Battle Axe
+itm_one_handed_battle_axe_b_pl|One Handed Battle Axe
+itm_one_handed_battle_axe_c|One Handed Battle Axe
+itm_one_handed_battle_axe_c_pl|One Handed Battle Axe
+itm_two_handed_axe|Two Handed Axe
+itm_two_handed_axe_pl|Two Handed Axe
+itm_two_handed_battle_axe_2|Two Handed War Axe
+itm_two_handed_battle_axe_2_pl|Two Handed War Axe
+itm_shortened_voulge|Shortened Voulge
+itm_shortened_voulge_pl|Shortened Voulge
+itm_great_axe|Great Axe
+itm_great_axe_pl|Great Axe
+itm_long_axe|Long Axe
+itm_long_axe_pl|Long Axe
+itm_long_axe_alt|Long Axe
+itm_long_axe_alt_pl|Long Axe
+itm_long_axe_b|Long War Axe
+itm_long_axe_b_pl|Long War Axe
+itm_long_axe_b_alt|Long War Axe
+itm_long_axe_b_alt_pl|Long War Axe
+itm_long_axe_c|Great Long Axe
+itm_long_axe_c_pl|Great Long Axe
+itm_long_axe_c_alt|Great Long Axe
+itm_long_axe_c_alt_pl|Great Long Axe
+itm_bardiche|Bardiche
+itm_bardiche_pl|Bardiche
+itm_great_bardiche|Great Bardiche
+itm_great_bardiche_pl|Great Bardiche
+itm_long_bardiche|Long Bardiche
+itm_long_bardiche_pl|Long Bardiche
+itm_great_long_bardiche|Great Long Bardiche
+itm_great_long_bardiche_pl|Great Long Bardiche
+itm_hafted_blade_b|Hafted Blade
+itm_hafted_blade_b_pl|Hafted Blade
+itm_hafted_blade_a|Hafted Blade
+itm_hafted_blade_a_pl|Hafted Blade
+itm_shortened_military_scythe|Shortened Military Scythe
+itm_shortened_military_scythe_pl|Shortened Military Scythe
+itm_sword_medieval_a|Sword
+itm_sword_medieval_a_pl|Sword
+itm_sword_medieval_b|Sword
+itm_sword_medieval_b_pl|Sword
+itm_sword_medieval_b_small|Short Sword
+itm_sword_medieval_b_small_pl|Short Sword
+itm_sword_medieval_c|Arming Sword
+itm_sword_medieval_c_pl|Arming Sword
+itm_sword_medieval_c_small|Short Arming Sword
+itm_sword_medieval_c_small_pl|Short Arming Sword
+itm_sword_medieval_c_long|Arming Sword
+itm_sword_medieval_c_long_pl|Arming Sword
+itm_sword_medieval_d_long|Long Arming Sword
+itm_sword_medieval_d_long_pl|Long Arming Sword
+itm_sword_viking_1|Nordic Sword
+itm_sword_viking_1_pl|Nordic Sword
+itm_sword_viking_2|Nordic Sword
+itm_sword_viking_2_pl|Nordic Sword
+itm_sword_viking_2_small|Nordic Short Sword
+itm_sword_viking_2_small_pl|Nordic Short Sword
+itm_sword_viking_3|Nordic War Sword
+itm_sword_viking_3_pl|Nordic War Sword
+itm_sword_viking_3_small|Nordic Short War Sword
+itm_sword_viking_3_small_pl|Nordic Short War Sword
+itm_sword_khergit_1|Nomad Sabre
+itm_sword_khergit_1_pl|Nomad Sabre
+itm_sword_khergit_2|Sabre
+itm_sword_khergit_2_pl|Sabre
+itm_sword_khergit_3|Sabre
+itm_sword_khergit_3_pl|Sabre
+itm_sword_khergit_4|Heavy Sabre
+itm_sword_khergit_4_pl|Heavy Sabre
+itm_mace_1|Spiked Club
+itm_mace_1_pl|Spiked Club
+itm_mace_2|Knobbed Mace
+itm_mace_2_pl|Knobbed Mace
+itm_mace_3|Spiked Mace
+itm_mace_3_pl|Spiked Mace
+itm_mace_4|Winged Mace
+itm_mace_4_pl|Winged Mace
+itm_club_with_spike_head|Spiked Staff
+itm_club_with_spike_head_pl|Spiked Staff
+itm_long_spiked_club|Long Spiked Club
+itm_long_spiked_club_pl|Long Spiked Club
+itm_long_hafted_knobbed_mace|Long Hafted Knobbed Mace
+itm_long_hafted_knobbed_mace_pl|Long Hafted Knobbed Mace
+itm_long_hafted_spiked_mace|Long Hafted Spiked Mace
+itm_long_hafted_spiked_mace_pl|Long Hafted Spiked Mace
+itm_sarranid_two_handed_mace_1|Iron Mace
+itm_sarranid_two_handed_mace_1_pl|Iron Mace
+itm_sarranid_mace_1|Iron Mace
+itm_sarranid_mace_1_pl|Iron Mace
+itm_sarranid_axe_a|Iron Battle Axe
+itm_sarranid_axe_a_pl|Iron Battle Axe
+itm_sarranid_axe_b|Iron War Axe
+itm_sarranid_axe_b_pl|Iron War Axe
+itm_sarranid_two_handed_axe_a|Sarranid Battle Axe
+itm_sarranid_two_handed_axe_a_pl|Sarranid Battle Axe
+itm_sarranid_two_handed_axe_b|Sarranid War Axe
+itm_sarranid_two_handed_axe_b_pl|Sarranid War Axe
+itm_scythe|Scythe
+itm_scythe_pl|Scythe
+itm_pitch_fork|Pitch Fork
+itm_pitch_fork_pl|Pitch Fork
+itm_military_fork|Military Fork
+itm_military_fork_pl|Military Fork
+itm_battle_fork|Battle Fork
+itm_battle_fork_pl|Battle Fork
+itm_boar_spear|Boar Spear
+itm_boar_spear_pl|Boar Spear
+itm_jousting_lance|Jousting Lance
+itm_jousting_lance_pl|Jousting Lance
+itm_double_sided_lance|Double Sided Lance
+itm_double_sided_lance_pl|Double Sided Lance
+itm_glaive|Glaive
+itm_glaive_pl|Glaive
+itm_poleaxe|Poleaxe
+itm_poleaxe_pl|Poleaxe
+itm_polehammer|Polehammer
+itm_polehammer_pl|Polehammer
+itm_staff|Staff
+itm_staff_pl|Staff
+itm_quarter_staff|Quarter Staff
+itm_quarter_staff_pl|Quarter Staff
+itm_iron_staff|Iron Staff
+itm_iron_staff_pl|Iron Staff
+itm_shortened_spear|Shortened Spear
+itm_shortened_spear_pl|Shortened Spear
+itm_spear|Spear
+itm_spear_pl|Spear
+itm_bamboo_spear|Bamboo Spear
+itm_bamboo_spear_pl|Bamboo Spear
+itm_war_spear|War Spear
+itm_war_spear_pl|War Spear
+itm_military_scythe|Military Scythe
+itm_military_scythe_pl|Military Scythe
+itm_light_lance|Light Lance
+itm_light_lance_pl|Light Lance
+itm_lance|Lance
+itm_lance_pl|Lance
+itm_heavy_lance|Heavy Lance
+itm_heavy_lance_pl|Heavy Lance
+itm_great_lance|Great Lance
+itm_great_lance_pl|Great Lance
+itm_pike|Pike
+itm_pike_pl|Pike
+itm_ashwood_pike|Ashwood Pike
+itm_ashwood_pike_pl|Ashwood Pike
+itm_awlpike|Awlpike
+itm_awlpike_pl|Awlpike
+itm_awlpike_long|Long Awlpike
+itm_awlpike_long_pl|Long Awlpike
+itm_bec_de_corbin_a|War Hammer
+itm_bec_de_corbin_a_pl|War Hammer
+itm_wooden_shield|Wooden Shield
+itm_wooden_shield_pl|Wooden Shield
+itm_nordic_shield|Nordic Shield
+itm_nordic_shield_pl|Nordic Shield
+itm_fur_covered_shield|Fur Covered Shield
+itm_fur_covered_shield_pl|Fur Covered Shield
+itm_steel_shield|Steel Shield
+itm_steel_shield_pl|Steel Shield
+itm_plate_covered_round_shield|Plate Covered Round Shield
+itm_plate_covered_round_shield_pl|Plate Covered Round Shield
+itm_leather_covered_round_shield|Leather Covered Round Shield
+itm_leather_covered_round_shield_pl|Leather Covered Round Shield
+itm_hide_covered_round_shield|Hide Covered Round Shield
+itm_hide_covered_round_shield_pl|Hide Covered Round Shield
+itm_shield_heater_c|Heater Shield
+itm_shield_heater_c_pl|Heater Shield
+itm_norman_shield_1|Kite Shield
+itm_norman_shield_1_pl|Kite Shield
+itm_norman_shield_2|Kite Shield
+itm_norman_shield_2_pl|Kite Shield
+itm_norman_shield_3|Kite Shield
+itm_norman_shield_3_pl|Kite Shield
+itm_norman_shield_4|Kite Shield
+itm_norman_shield_4_pl|Kite Shield
+itm_norman_shield_5|Kite Shield
+itm_norman_shield_5_pl|Kite Shield
+itm_norman_shield_6|Kite Shield
+itm_norman_shield_6_pl|Kite Shield
+itm_norman_shield_7|Kite Shield
+itm_norman_shield_7_pl|Kite Shield
+itm_norman_shield_8|Kite Shield
+itm_norman_shield_8_pl|Kite Shield
+itm_tab_shield_round_a|Old Round Shield
+itm_tab_shield_round_a_pl|Old Round Shield
+itm_tab_shield_round_b|Plain Round Shield
+itm_tab_shield_round_b_pl|Plain Round Shield
+itm_tab_shield_round_c|Round Shield
+itm_tab_shield_round_c_pl|Round Shield
+itm_tab_shield_round_d|Heavy Round Shield
+itm_tab_shield_round_d_pl|Heavy Round Shield
+itm_tab_shield_round_e|Huscarl's Round Shield
+itm_tab_shield_round_e_pl|Huscarl's Round Shield
+itm_tab_shield_kite_a|Old Kite Shield
+itm_tab_shield_kite_a_pl|Old Kite Shield
+itm_tab_shield_kite_b|Plain Kite Shield
+itm_tab_shield_kite_b_pl|Plain Kite Shield
+itm_tab_shield_kite_c|Kite Shield
+itm_tab_shield_kite_c_pl|Kite Shield
+itm_tab_shield_kite_d|Heavy Kite Shield
+itm_tab_shield_kite_d_pl|Heavy Kite Shield
+itm_tab_shield_kite_cav_a|Horseman's Kite Shield
+itm_tab_shield_kite_cav_a_pl|Horseman's Kite Shield
+itm_tab_shield_kite_cav_b|Knightly Kite Shield
+itm_tab_shield_kite_cav_b_pl|Knightly Kite Shield
+itm_tab_shield_heater_a|Old Heater Shield
+itm_tab_shield_heater_a_pl|Old Heater Shield
+itm_tab_shield_heater_b|Plain Heater Shield
+itm_tab_shield_heater_b_pl|Plain Heater Shield
+itm_tab_shield_heater_c|Heater Shield
+itm_tab_shield_heater_c_pl|Heater Shield
+itm_tab_shield_heater_d|Heavy Heater Shield
+itm_tab_shield_heater_d_pl|Heavy Heater Shield
+itm_tab_shield_heater_cav_a|Horseman's Heater Shield
+itm_tab_shield_heater_cav_a_pl|Horseman's Heater Shield
+itm_tab_shield_heater_cav_b|Knightly Heater Shield
+itm_tab_shield_heater_cav_b_pl|Knightly Heater Shield
+itm_tab_shield_pavise_a|Old Board Shield
+itm_tab_shield_pavise_a_pl|Old Board Shield
+itm_tab_shield_pavise_b|Plain Board Shield
+itm_tab_shield_pavise_b_pl|Plain Board Shield
+itm_tab_shield_pavise_c|Board Shield
+itm_tab_shield_pavise_c_pl|Board Shield
+itm_tab_shield_pavise_d|Heavy Board Shield
+itm_tab_shield_pavise_d_pl|Heavy Board Shield
+itm_tab_shield_small_round_a|Plain Cavalry Shield
+itm_tab_shield_small_round_a_pl|Plain Cavalry Shield
+itm_tab_shield_small_round_b|Round Cavalry Shield
+itm_tab_shield_small_round_b_pl|Round Cavalry Shield
+itm_tab_shield_small_round_c|Elite Cavalry Shield
+itm_tab_shield_small_round_c_pl|Elite Cavalry Shield
+itm_darts|Darts
+itm_darts_pl|Darts
+itm_war_darts|War Darts
+itm_war_darts_pl|War Darts
+itm_javelin|Javelins
+itm_javelin_pl|Javelins
+itm_javelin_melee|Javelin
+itm_javelin_melee_pl|Javelin
+itm_throwing_spears|Throwing Spears
+itm_throwing_spears_pl|Throwing Spears
+itm_throwing_spear_melee|Throwing Spear
+itm_throwing_spear_melee_pl|Throwing Spear
+itm_jarid|Jarids
+itm_jarid_pl|Jarids
+itm_jarid_melee|Jarid
+itm_jarid_melee_pl|Jarid
+itm_stones|Stones
+itm_stones_pl|Stones
+itm_throwing_knives|Throwing Knives
+itm_throwing_knives_pl|Throwing Knives
+itm_throwing_daggers|Throwing Daggers
+itm_throwing_daggers_pl|Throwing Daggers
+itm_light_throwing_axes|Light Throwing Axes
+itm_light_throwing_axes_pl|Light Throwing Axes
+itm_light_throwing_axes_melee|Light Throwing Axe
+itm_light_throwing_axes_melee_pl|Light Throwing Axe
+itm_throwing_axes|Throwing Axes
+itm_throwing_axes_pl|Throwing Axes
+itm_throwing_axes_melee|Throwing Axe
+itm_throwing_axes_melee_pl|Throwing Axe
+itm_heavy_throwing_axes|Heavy Throwing Axes
+itm_heavy_throwing_axes_pl|Heavy Throwing Axes
+itm_heavy_throwing_axes_melee|Heavy Throwing Axe
+itm_heavy_throwing_axes_melee_pl|Heavy Throwing Axe
+itm_hunting_bow|Hunting Bow
+itm_hunting_bow_pl|Hunting Bow
+itm_short_bow|Short Bow
+itm_short_bow_pl|Short Bow
+itm_nomad_bow|Nomad Bow
+itm_nomad_bow_pl|Nomad Bow
+itm_long_bow|Long Bow
+itm_long_bow_pl|Long Bow
+itm_khergit_bow|Khergit Bow
+itm_khergit_bow_pl|Khergit Bow
+itm_strong_bow|Strong Bow
+itm_strong_bow_pl|Strong Bow
+itm_war_bow|War Bow
+itm_war_bow_pl|War Bow
+itm_hunting_crossbow|Hunting Crossbow
+itm_hunting_crossbow_pl|Hunting Crossbow
+itm_light_crossbow|Light Crossbow
+itm_light_crossbow_pl|Light Crossbow
+itm_crossbow|Crossbow
+itm_crossbow_pl|Crossbow
+itm_heavy_crossbow|Heavy Crossbow
+itm_heavy_crossbow_pl|Heavy Crossbow
+itm_sniper_crossbow|Siege Crossbow
+itm_sniper_crossbow_pl|Siege Crossbow
+itm_flintlock_pistol|Flintlock Pistol
+itm_flintlock_pistol_pl|Flintlock Pistol
+itm_torch|Torch
+itm_torch_pl|Torch
+itm_lyre|Lyre
+itm_lyre_pl|Lyre
+itm_lute|Lute
+itm_lute_pl|Lute
+itm_strange_armor|Strange Armor
+itm_strange_armor_pl|Strange Armor
+itm_strange_boots|Strange Boots
+itm_strange_boots_pl|Strange Boots
+itm_strange_helmet|Strange Helmet
+itm_strange_helmet_pl|Strange Helmet
+itm_strange_sword|Strange Sword
+itm_strange_sword_pl|Strange Sword
+itm_strange_great_sword|Strange Great Sword
+itm_strange_great_sword_pl|Strange Great Sword
+itm_strange_short_sword|Strange Short Sword
+itm_strange_short_sword_pl|Strange Short Sword
+itm_court_dress|Court Dress
+itm_court_dress_pl|Court Dress
+itm_rich_outfit|Rich Outfit
+itm_rich_outfit_pl|Rich Outfit
+itm_khergit_guard_armor|Khergit Guard Armor
+itm_khergit_guard_armor_pl|Khergit Guard Armor
+itm_felt_steppe_cap|Felt Steppe Cap
+itm_felt_steppe_cap_pl|Felt Steppe Cap
+itm_khergit_war_helmet|Khergit War Helmet
+itm_khergit_war_helmet_pl|Khergit War Helmet
+itm_khergit_helmet|Khergit Helmet
+itm_khergit_helmet_pl|Khergit Helmet
+itm_khergit_guard_boots|Khergit Guard Boots
+itm_khergit_guard_boots_pl|Khergit Guard Boots
+itm_khergit_guard_helmet|Khergit Guard Helmet
+itm_khergit_guard_helmet_pl|Khergit Guard Helmet
+itm_khergit_cavalry_helmet|Khergit Cavalry Helmet
+itm_khergit_cavalry_helmet_pl|Khergit Cavalry Helmet
+itm_black_hood|Black Hood
+itm_black_hood_pl|Black Hood
+itm_light_leather|Light Leather
+itm_light_leather_pl|Light Leather
+itm_light_leather_boots|Light Leather Boots
+itm_light_leather_boots_pl|Light Leather Boots
+itm_mail_and_plate|Mail and Plate
+itm_mail_and_plate_pl|Mail and Plate
+itm_light_mail_and_plate|Light Mail and Plate
+itm_light_mail_and_plate_pl|Light Mail and Plate
+itm_byzantion_helmet_a|Byzantion Helmet
+itm_byzantion_helmet_a_pl|Byzantion Helmet
+itm_magyar_helmet_a|Magyar Helmet
+itm_magyar_helmet_a_pl|Magyar Helmet
+itm_rus_helmet_a|Rus Helmet
+itm_rus_helmet_a_pl|Rus Helmet
+itm_sipahi_helmet_a|Sipahi Helmet
+itm_sipahi_helmet_a_pl|Sipahi Helmet
+itm_shahi|Shahi
+itm_shahi_pl|Shahi
+itm_rabati|Rabati
+itm_rabati_pl|Rabati
+itm_tunic_with_green_cape|Tunic with Green Cape
+itm_tunic_with_green_cape_pl|Tunic with Green Cape
+itm_keys|Ring of Keys
+itm_keys_pl|Ring of Keys
+itm_bride_dress|Bride Dress
+itm_bride_dress_pl|Bride Dress
+itm_bride_crown|Crown of Flowers
+itm_bride_crown_pl|Crown of Flowers
+itm_bride_shoes|Bride Shoes
+itm_bride_shoes_pl|Bride Shoes
+itm_practice_bow_2|Practice Bow
+itm_practice_bow_2_pl|Practice Bow
+itm_practice_arrows_2|Practice Arrows
+itm_practice_arrows_2_pl|Practice Arrows
+itm_plate_boots|Plate Boots
+itm_plate_boots_pl|Plate Boots
+itm_mail_boots_for_tableau|Mail Boots
+itm_mail_boots_for_tableau_pl|Mail Boots
+itm_warhorse_sarranid|Sarranian War Horse
+itm_warhorse_sarranid_pl|Sarranian War Horse
+itm_warhorse_steppe|Steppe Charger
+itm_warhorse_steppe_pl|Steppe Charger
+itm_javelin_bow|Javelin Bow
+itm_javelin_bow_pl|Javelin Bow
+itm_knockdown_mace|Knockdown Mace
+itm_knockdown_mace_pl|Knockdown Mace
+itm_blood_drain_throwing_knives|Blood Drain Throwing Knives
+itm_blood_drain_throwing_knives_pl|Blood Drain Throwing Knives
+itm_doom_javelins|Doom Javelins
+itm_doom_javelins_pl|Doom Javelins
+itm_disarming_throwing_axe|Disarming Throwing Axe
+itm_disarming_throwing_axe_pl|Disarming Throwing Axe
+itm_instakill_knife|Instakill Knife
+itm_instakill_knife_pl|Instakill Knife
+itm_backstabber|Backstabber
+itm_backstabber_pl|Backstabber
+itm_weak_beserker_dart|Weak Beserker Dart
+itm_weak_beserker_dart_pl|Weak Beserker Dart
+itm_team_change_dart|Team Change Dart
+itm_team_change_dart_pl|Team Change Dart
+itm_awesome_spear|Awesome Spear
+itm_awesome_spear_pl|Awesome Spear
+itm_running_boots|Running Boots
+itm_running_boots_pl|Running Boots
+itm_power_gloves|Power Gloves
+itm_power_gloves_pl|Power Gloves
+itm_invulnerable_helmet|Invulnerable Helmet
+itm_invulnerable_helmet_pl|Invulnerable Helmet
+itm_kicking_boots|Kicking Boots
+itm_kicking_boots_pl|Kicking Boots
+itm_restore_health_armour|Restore Health Armour
+itm_restore_health_armour_pl|Restore Health Armour
+itm_pes_start|PES
+itm_pes_start_pl|PES
+itm_resource_ammunition_pointer|resource ammunition pointer
+itm_resource_ammunition_pointer_pl|resource ammunition pointer
+itm_resource_weaponry_pointer|resource weaponry pointer
+itm_resource_weaponry_pointer_pl|resource weaponry pointer
+itm_resource_military_supplies_pointer|resource military supplies pointer
+itm_resource_military_supplies_pointer_pl|resource military supplies pointer
+itm_resource_fabric_pointer|resource fabric pointer
+itm_resource_fabric_pointer_pl|resource fabric pointer
+itm_resource_construction_materials_pointer|resource construction materials pointer
+itm_resource_construction_materials_pointer_pl|resource construction materials pointer
+itm_resource_furniture_pointer|resource furniture pointer
+itm_resource_furniture_pointer_pl|resource furniture pointer
+itm_resource_machine_parts_pointer|resource machine parts pointer
+itm_resource_machine_parts_pointer_pl|resource machine parts pointer
+itm_resource_paper_pointer|resource paper pointer
+itm_resource_paper_pointer_pl|resource paper pointer
+itm_resource_clothes_pointer|resource clothes pointer
+itm_resource_clothes_pointer_pl|resource clothes pointer
+itm_resource_timber_pointer|resource timber pointer
+itm_resource_timber_pointer_pl|resource timber pointer
+itm_resource_steel_pointer|resource steel pointer
+itm_resource_steel_pointer_pl|resource steel pointer
+itm_resource_iron|resource iron
+itm_resource_iron_pl|resource iron
+itm_resource_coal|resource coal
+itm_resource_coal_pl|resource coal
+itm_resource_meat|resource meat
+itm_resource_meat_pl|resource meat
+itm_resource_cotton|resource cotton
+itm_resource_cotton_pl|resource cotton
+itm_resource_flour|resource flour
+itm_resource_flour_pl|resource flour
+itm_resource_wood|resource wood
+itm_resource_wood_pl|resource wood
+itm_resource_ammunition|resource ammunition
+itm_resource_ammunition_pl|resource ammunition
+itm_resource_weaponry|resource weaponry
+itm_resource_weaponry_pl|resource weaponry
+itm_resource_military_supplies|resource military supplies
+itm_resource_military_supplies_pl|resource military supplies
+itm_resource_fabric|resource fabric
+itm_resource_fabric_pl|resource fabric
+itm_resource_construction_materials|resource construction materials
+itm_resource_construction_materials_pl|resource construction materials
+itm_resource_furniture|resource furniture
+itm_resource_furniture_pl|resource furniture
+itm_resource_machine_parts|resource machine parts
+itm_resource_machine_parts_pl|resource machine parts
+itm_resource_paper|resource paper
+itm_resource_paper_pl|resource paper
+itm_resource_clothes|resource clothes
+itm_resource_clothes_pl|resource clothes
+itm_resource_timber|resource timber
+itm_resource_timber_pl|resource timber
+itm_resource_steel|resource steel
+itm_resource_steel_pl|resource steel
+itm_pes_end|pes end
+itm_pes_end_pl|pes end
+itm_javelin_bow_ammo|Shooting Javelins
+itm_javelin_bow_ammo_pl|Shooting Javelins
+itm_ccoop_new_items_end|Items End
+itm_ccoop_new_items_end_pl|Items End
+itm_ria_infantry_trousers1|Russian Infantry Trousers
+itm_ria_infantry_trousers1_pl|Russian Infantry Trousers
+itm_ria_infantry_trousers2|Russian Infantry Trousers
+itm_ria_infantry_trousers2_pl|Russian Infantry Trousers
+itm_ria_infantry_trousers3|Russian Infantry Trousers
+itm_ria_infantry_trousers3_pl|Russian Infantry Trousers
+itm_ria_infantry_trousers4|Russian Infantry Trousers
+itm_ria_infantry_trousers4_pl|Russian Infantry Trousers
+itm_ria_infantry_trousers5|Russian Infantry Trousers
+itm_ria_infantry_trousers5_pl|Russian Infantry Trousers
+itm_ria_cavalry_trousers1|Russian Cavalry Trousers
+itm_ria_cavalry_trousers1_pl|Russian Cavalry Trousers
+itm_ria_cavalry_trousers2|Russian Cavalry Trousers
+itm_ria_cavalry_trousers2_pl|Russian Cavalry Trousers
+itm_ria_cavalry_trousers3|Russian Cossack Trousers
+itm_ria_cavalry_trousers3_pl|Russian Cossack Trousers
+itm_ria_cavalry_trousers4|Russian Cavalry Trousers
+itm_ria_cavalry_trousers4_pl|Russian Cavalry Trousers
+itm_ria_infantry1|Russian Military Uniform
+itm_ria_infantry1_pl|Russian Military Uniform
+itm_ria_infantry2|Russian Military Uniform
+itm_ria_infantry2_pl|Russian Military Uniform
+itm_ria_infantry3|Russian Military Uniform
+itm_ria_infantry3_pl|Russian Military Uniform
+itm_ria_infantry4|Russian Military Uniform
+itm_ria_infantry4_pl|Russian Military Uniform
+itm_ria_infantry5|Russian Military Uniform
+itm_ria_infantry5_pl|Russian Military Uniform
+itm_ria_infantry6|Russian Military Uniform
+itm_ria_infantry6_pl|Russian Military Uniform
+itm_ria_infantry7|Russian Military Uniform
+itm_ria_infantry7_pl|Russian Military Uniform
+itm_ria_infantry8|Russian Military Uniform
+itm_ria_infantry8_pl|Russian Military Uniform
+itm_ria_infantry9|Russian Military Uniform
+itm_ria_infantry9_pl|Russian Military Uniform
+itm_ria_infantry10|Russian Military Uniform
+itm_ria_infantry10_pl|Russian Military Uniform
+itm_ria_infantry11|Russian Military Uniform
+itm_ria_infantry11_pl|Russian Military Uniform
+itm_ria_infantry12|Russian Military Uniform
+itm_ria_infantry12_pl|Russian Military Uniform
+itm_ria_infantry13|Russian Military Uniform
+itm_ria_infantry13_pl|Russian Military Uniform
+itm_ria_infantry14|Russian Military Uniform
+itm_ria_infantry14_pl|Russian Military Uniform
+itm_ria_infantry15|Russian Military Uniform
+itm_ria_infantry15_pl|Russian Military Uniform
+itm_ria_infantry16|Russian Military Uniform
+itm_ria_infantry16_pl|Russian Military Uniform
+itm_ria_infantry17|Russian Military Uniform
+itm_ria_infantry17_pl|Russian Military Uniform
+itm_ria_infantry18|Russian Military Uniform
+itm_ria_infantry18_pl|Russian Military Uniform
+itm_ria_infantry19|Russian Military Uniform
+itm_ria_infantry19_pl|Russian Military Uniform
+itm_ria_cavalry1|Russian Military Uniform
+itm_ria_cavalry1_pl|Russian Military Uniform
+itm_ria_cavalry2|Russian Military Uniform
+itm_ria_cavalry2_pl|Russian Military Uniform
+itm_ria_cavalry3|Russian Cossack Uniform
+itm_ria_cavalry3_pl|Russian Cossack Uniform
+itm_ria_cavalry4|Russian General Uniform
+itm_ria_cavalry4_pl|Russian General Uniform
+itm_ria_hat1|Russian Hat
+itm_ria_hat1_pl|Russian Hat
+itm_ria_hat2|Russian Hat
+itm_ria_hat2_pl|Russian Hat
+itm_ria_hat3|Russian Hat
+itm_ria_hat3_pl|Russian Hat
+itm_ria_hat4|Russian Hat
+itm_ria_hat4_pl|Russian Hat
+itm_ria_hat5|Russian Cossack Hat
+itm_ria_hat5_pl|Russian Cossack Hat
+itm_ria_hat6|Russian Hat
+itm_ria_hat6_pl|Russian Hat
+itm_ria_hat7|Russian Hat
+itm_ria_hat7_pl|Russian Hat
+itm_ria_hat8|Russian Hat
+itm_ria_hat8_pl|Russian Hat
+itm_ria_hat9|Russian Hat
+itm_ria_hat9_pl|Russian Hat
+itm_ria_hat9b|Russian Hat
+itm_ria_hat9b_pl|Russian Hat
+itm_ria_hat10|Russian Helmet
+itm_ria_hat10_pl|Russian Helmet
+itm_ria_hat11|Russian Hat
+itm_ria_hat11_pl|Russian Hat
+itm_ria_hat12|Russian Hat
+itm_ria_hat12_pl|Russian Hat
+itm_ria_hat13|Russian Helmet
+itm_ria_hat13_pl|Russian Helmet
+itm_ria_leader1|Russian Military Uniform
+itm_ria_leader1_pl|Russian Military Uniform
+itm_clothes_adventurer_male_trousers1|Trousers
+itm_clothes_adventurer_male_trousers1_pl|Trousers
+itm_clothes_adventurer_male1|Civilian Clothes
+itm_clothes_adventurer_male1_pl|Civilian Clothes
+itm_clothes_adventurer_female_trousers1|Adventurer's Skirt
+itm_clothes_adventurer_female_trousers1_pl|Adventurer's Skirt
+itm_clothes_adventurer_female1|Adventurer's Clothes
+itm_clothes_adventurer_female1_pl|Adventurer's Clothes
+itm_court_dress1|Court Dress
+itm_court_dress1_pl|Court Dress
+itm_court_dress2|Court Dress
+itm_court_dress2_pl|Court Dress
+itm_court_dress3|Court Dress
+itm_court_dress3_pl|Court Dress
+itm_court_dress4|Court Dress
+itm_court_dress4_pl|Court Dress
+itm_rural_dress1|Rural Dress
+itm_rural_dress1_pl|Rural Dress
+itm_rural_dress2|Rural Dress
+itm_rural_dress2_pl|Rural Dress
+itm_urban_dress1|Urban Dress
+itm_urban_dress1_pl|Urban Dress
+itm_urban_dress2|Urban Dress
+itm_urban_dress2_pl|Urban Dress
+itm_urban_dress3|Urban Dress
+itm_urban_dress3_pl|Urban Dress
+itm_urban_dress4|Urban Dress
+itm_urban_dress4_pl|Urban Dress
+itm_sidearm_colt_m1873|Colt Single Action Army
+itm_sidearm_colt_m1873_pl|Colt Single Action Army
+itm_ammo_rifle|Ammunition of Rifle Caliber
+itm_ammo_rifle_pl|Ammunition of Rifle Caliber
+itm_ammo_pistol|Ammunition of Pistol Caliber
+itm_ammo_pistol_pl|Ammunition of Pistol Caliber
+itm_ammo_rifle_double|Doubled Ammunition of Rifle Caliber
+itm_ammo_rifle_double_pl|Doubled Ammunition of Rifle Caliber
+itm_rifle_middle_east_musket1|Flintlock Musket
+itm_rifle_middle_east_musket1_pl|Flintlock Musket
+itm_rifle_middle_east_musket1_m|Flintlock Musket
+itm_rifle_middle_east_musket1_m_pl|Flintlock Musket
+itm_rifle_middle_east_musket1_carbine|Flintlock Carbine
+itm_rifle_middle_east_musket1_carbine_pl|Flintlock Carbine
+itm_rifle_middle_east_musket1_carbine_m|Flintlock Carbine
+itm_rifle_middle_east_musket1_carbine_m_pl|Flintlock Carbine
+itm_sidearm_smithwesson_no2|Smith & Wesson Model 3
+itm_sidearm_smithwesson_no2_pl|Smith & Wesson Model 3
+itm_sidearm_flintlock_pistol1|Flintlock Pistol
+itm_sidearm_flintlock_pistol1_pl|Flintlock Pistol
+itm_sidearm_caplock_pistol1|Caplock Pistol
+itm_sidearm_caplock_pistol1_pl|Caplock Pistol
+itm_horse_european1|Saddle Horse
+itm_horse_european1_pl|Saddle Horse
+itm_horse_european2|Saddle Horse
+itm_horse_european2_pl|Saddle Horse
+itm_horse_european3|Saddle Horse
+itm_horse_european3_pl|Saddle Horse
+itm_saber1|Saber
+itm_saber1_pl|Saber
+itm_persian_broadsword|Persian Sabre
+itm_persian_broadsword_pl|Persian Sabre
+itm_turk_broadsword_a|Turkish Sabre
+itm_turk_broadsword_a_pl|Turkish Sabre
+itm_lance1|Lance
+itm_lance1_pl|Lance
+itm_sidearm_colt_dragoon|Colt Dragoon
+itm_sidearm_colt_dragoon_pl|Colt Dragoon
+itm_sidearm_remington1|Remington Model 1858
+itm_sidearm_remington1_pl|Remington Model 1858
+itm_lou_infantry_trousers1|Austrian Infantry Trousers
+itm_lou_infantry_trousers1_pl|Austrian Infantry Trousers
+itm_lou_infantry_trousers2|Austrian Infantry Trousers
+itm_lou_infantry_trousers2_pl|Austrian Infantry Trousers
+itm_lou_infantry_trousers3|Austrian Infantry Trousers
+itm_lou_infantry_trousers3_pl|Austrian Infantry Trousers
+itm_lou_infantry_trousers4|Austrian Infantry Trousers
+itm_lou_infantry_trousers4_pl|Austrian Infantry Trousers
+itm_lou_infantry_trousers5|Austrian Infantry Trousers
+itm_lou_infantry_trousers5_pl|Austrian Infantry Trousers
+itm_lou_infantry_trousers6|Austrian Infantry Trousers
+itm_lou_infantry_trousers6_pl|Austrian Infantry Trousers
+itm_lou_infantry1|Austrian Military Uniform
+itm_lou_infantry1_pl|Austrian Military Uniform
+itm_lou_infantry2|Austrian Military Uniform
+itm_lou_infantry2_pl|Austrian Military Uniform
+itm_lou_infantry3|Austrian Military Uniform
+itm_lou_infantry3_pl|Austrian Military Uniform
+itm_lou_infantry4|Austrian Military Uniform
+itm_lou_infantry4_pl|Austrian Military Uniform
+itm_lou_infantry5|Austrian Military Uniform
+itm_lou_infantry5_pl|Austrian Military Uniform
+itm_lou_infantry6|Austrian Military Uniform
+itm_lou_infantry6_pl|Austrian Military Uniform
+itm_lou_infantry7|Austrian Military Uniform
+itm_lou_infantry7_pl|Austrian Military Uniform
+itm_lou_infantry8|Austrian Military Uniform
+itm_lou_infantry8_pl|Austrian Military Uniform
+itm_lou_infantry9|Austrian Military Uniform
+itm_lou_infantry9_pl|Austrian Military Uniform
+itm_lou_infantry10|Austrian Military Uniform
+itm_lou_infantry10_pl|Austrian Military Uniform
+itm_lou_infantry11|Austrian Military Uniform
+itm_lou_infantry11_pl|Austrian Military Uniform
+itm_lou_infantry12|Austrian Military Uniform
+itm_lou_infantry12_pl|Austrian Military Uniform
+itm_lou_infantry13|Austrian Military Uniform
+itm_lou_infantry13_pl|Austrian Military Uniform
+itm_lou_infantry14|Austrian Military Uniform
+itm_lou_infantry14_pl|Austrian Military Uniform
+itm_lou_infantry15|Austrian Military Uniform
+itm_lou_infantry15_pl|Austrian Military Uniform
+itm_lou_infantry16|Austrian Military Uniform
+itm_lou_infantry16_pl|Austrian Military Uniform
+itm_lou_infantry17|Austrian Military Uniform
+itm_lou_infantry17_pl|Austrian Military Uniform
+itm_lou_infantry18|Austrian Military Uniform
+itm_lou_infantry18_pl|Austrian Military Uniform
+itm_lou_infantry19|Austrian Military Uniform
+itm_lou_infantry19_pl|Austrian Military Uniform
+itm_lou_hat1|Austrian Hat
+itm_lou_hat1_pl|Austrian Hat
+itm_lou_hat2|Austrian Military Hat
+itm_lou_hat2_pl|Austrian Military Hat
+itm_lou_hat3|Austrian Military Hat
+itm_lou_hat3_pl|Austrian Military Hat
+itm_lou_hat4|Austrian Helmet
+itm_lou_hat4_pl|Austrian Helmet
+itm_lou_hat5|Austrian Hat
+itm_lou_hat5_pl|Austrian Hat
+itm_lou_hat6|Austrian Military Hat
+itm_lou_hat6_pl|Austrian Military Hat
+itm_lou_hat7|Austrian Military Hat
+itm_lou_hat7_pl|Austrian Military Hat
+itm_lou_hat8|Austrian Military Hat
+itm_lou_hat8_pl|Austrian Military Hat
+itm_lou_hat9|Austrian Military Hat
+itm_lou_hat9_pl|Austrian Military Hat
+itm_lou_cavalry1|Austrian Military Uniform
+itm_lou_cavalry1_pl|Austrian Military Uniform
+itm_lou_cavalry2|Austrian Military Uniform
+itm_lou_cavalry2_pl|Austrian Military Uniform
+itm_lou_cavalry_trousers1|Austrian Cavalry Trousers
+itm_lou_cavalry_trousers1_pl|Austrian Cavalry Trousers
+itm_lou_cavalry_trousers2|Austrian Cavalry Trousers
+itm_lou_cavalry_trousers2_pl|Austrian Cavalry Trousers
+itm_lou_general|Austrian General Uniform
+itm_lou_general_pl|Austrian General Uniform
+itm_lou_emperor|Austrian Kaiser Uniform
+itm_lou_emperor_pl|Austrian Kaiser Uniform
+itm_lou_emperor_trousers1|Austrian Kaiser Trousers
+itm_lou_emperor_trousers1_pl|Austrian Kaiser Trousers
+itm_lou_bicorne|Austrian Bicorne
+itm_lou_bicorne_pl|Austrian Bicorne
+itm_sidearm_gasser|Gasser M1870
+itm_sidearm_gasser_pl|Gasser M1870
+itm_clothes_urban_male_trousers1|Trousers
+itm_clothes_urban_male_trousers1_pl|Trousers
+itm_clothes_urban_male_trousers2|Trousers
+itm_clothes_urban_male_trousers2_pl|Trousers
+itm_clothes_urban_male_trousers3|Trousers
+itm_clothes_urban_male_trousers3_pl|Trousers
+itm_clothes_urban_male_trousers4|Trousers
+itm_clothes_urban_male_trousers4_pl|Trousers
+itm_dress_shoes|Dress Shoes
+itm_dress_shoes_pl|Dress Shoes
+itm_clothes_urban_male1|Three-piece Suit
+itm_clothes_urban_male1_pl|Three-piece Suit
+itm_clothes_urban_male2|Three-piece Suit
+itm_clothes_urban_male2_pl|Three-piece Suit
+itm_clothes_urban_male3|Three-piece Suit
+itm_clothes_urban_male3_pl|Three-piece Suit
+itm_clothes_urban_male4|Three-piece Suit
+itm_clothes_urban_male4_pl|Three-piece Suit
+itm_clothes_urban_male5|Three-piece Suit
+itm_clothes_urban_male5_pl|Three-piece Suit
+itm_clothes_urban_male6|Three-piece Suit
+itm_clothes_urban_male6_pl|Three-piece Suit
+itm_clothes_urban_male7|Three-piece Suit
+itm_clothes_urban_male7_pl|Three-piece Suit
+itm_clothes_urban_male8|Three-piece Suit
+itm_clothes_urban_male8_pl|Three-piece Suit
+itm_civilian_hat1|Wide-brimmed Hat
+itm_civilian_hat1_pl|Wide-brimmed Hat
+itm_civilian_hat2|Wide-brimmed Hat
+itm_civilian_hat2_pl|Wide-brimmed Hat
+itm_civilian_hat3|Top Hat
+itm_civilian_hat3_pl|Top Hat
+itm_civilian_hat3b|Top Hat
+itm_civilian_hat3b_pl|Top Hat
+itm_civilian_hat4|Bowler Hat
+itm_civilian_hat4_pl|Bowler Hat
+itm_civilian_hat4b|Bowler Hat
+itm_civilian_hat4b_pl|Bowler Hat
+itm_civilian_hat4c|Bowler Hat
+itm_civilian_hat4c_pl|Bowler Hat
+itm_civilian_hat4d|Bowler Hat
+itm_civilian_hat4d_pl|Bowler Hat
+itm_civilian_hat5|Hat
+itm_civilian_hat5_pl|Hat
+itm_civilian_hat6|Hat
+itm_civilian_hat6_pl|Hat
+itm_urban_dress_hat2|Dress Hat
+itm_urban_dress_hat2_pl|Dress Hat
+itm_urban_dress_hat1|Dress Hat
+itm_urban_dress_hat1_pl|Dress Hat
+itm_lance2|Lance
+itm_lance2_pl|Lance
+itm_gho_hat1|Persian Hat
+itm_gho_hat1_pl|Persian Hat
+itm_gho_hat2|Persian Hat
+itm_gho_hat2_pl|Persian Hat
+itm_gho_hat3|Persian Cossack Hat
+itm_gho_hat3_pl|Persian Cossack Hat
+itm_gho_hat4|Persian Hat
+itm_gho_hat4_pl|Persian Hat
+itm_gho_infantry1|Persian Military Uniform
+itm_gho_infantry1_pl|Persian Military Uniform
+itm_gho_infantry2|Persian Military Uniform
+itm_gho_infantry2_pl|Persian Military Uniform
+itm_gho_infantry3|Persian Military Uniform
+itm_gho_infantry3_pl|Persian Military Uniform
+itm_gho_infantry4|Persian Military Uniform
+itm_gho_infantry4_pl|Persian Military Uniform
+itm_gho_infantry5|Persian Military Uniform
+itm_gho_infantry5_pl|Persian Military Uniform
+itm_gho_cavalry_robe2|Persian Civilian Robe
+itm_gho_cavalry_robe2_pl|Persian Civilian Robe
+itm_gho_cavalry_robe1|Persian Civilian Robe
+itm_gho_cavalry_robe1_pl|Persian Civilian Robe
+itm_gho_cavalry1|Persian Military Uniform
+itm_gho_cavalry1_pl|Persian Military Uniform
+itm_gho_cavalry2|Persian Cossack Uniform
+itm_gho_cavalry2_pl|Persian Cossack Uniform
+itm_gho_infantry_trousers1|Persian Infantry Trousers
+itm_gho_infantry_trousers1_pl|Persian Infantry Trousers
+itm_gho_infantry_trousers2|Persian Infantry Trousers
+itm_gho_infantry_trousers2_pl|Persian Infantry Trousers
+itm_gho_infantry_trousers3|Persian Infantry Trousers
+itm_gho_infantry_trousers3_pl|Persian Infantry Trousers
+itm_gho_cavalry_trousers1|Persian Cavalry Trousers
+itm_gho_cavalry_trousers1_pl|Persian Cavalry Trousers
+itm_gho_cavalry_trousers2|Persian Cossack Trousers
+itm_gho_cavalry_trousers2_pl|Persian Cossack Trousers
+itm_gho_cavalry_boots|Persian Cavalry Boots
+itm_gho_cavalry_boots_pl|Persian Cavalry Boots
+itm_gho_leader1|Persian General Uniform
+itm_gho_leader1_pl|Persian General Uniform
+itm_gho_leader_trousers1|Persian General Trousers
+itm_gho_leader_trousers1_pl|Persian General Trousers
+itm_gho_leader_trousers2|Persian Shah Trousers
+itm_gho_leader_trousers2_pl|Persian Shah Trousers
+itm_gho_shah1|Persian Shah Uniform
+itm_gho_shah1_pl|Persian Shah Uniform
+itm_gho_hat5|Persian Shah Hat
+itm_gho_hat5_pl|Persian Shah Hat
+itm_gho_hat6|Persian Shah Hat
+itm_gho_hat6_pl|Persian Shah Hat
+itm_gho_hat7|Persian Fez
+itm_gho_hat7_pl|Persian Fez
+itm_lance3|Lance
+itm_lance3_pl|Lance
+itm_horse_russian1a|Bay Orlov Saddle Horse
+itm_horse_russian1a_pl|Bay Orlov Saddle Horse
+itm_horse_russian1b|Black Orlov Saddle Horse
+itm_horse_russian1b_pl|Black Orlov Saddle Horse
+itm_horse_russian2a|Gray Orlov Trotter
+itm_horse_russian2a_pl|Gray Orlov Trotter
+itm_horse_russian2b|Bay Orlov Trotter
+itm_horse_russian2b_pl|Bay Orlov Trotter
+itm_horse_russian3a|Black Karachay Horse
+itm_horse_russian3a_pl|Black Karachay Horse
+itm_horse_russian3b|Bay Karachay Horse
+itm_horse_russian3b_pl|Bay Karachay Horse
+itm_horse_russian4a|Chestnut Russian Don
+itm_horse_russian4a_pl|Chestnut Russian Don
+itm_horse_russian4b|Dark Bay Russian Don
+itm_horse_russian4b_pl|Dark Bay Russian Don
+itm_horse_russian5a|Bay Kabardin Horse
+itm_horse_russian5a_pl|Bay Kabardin Horse
+itm_horse_russian5b|Black Kabardin Horse
+itm_horse_russian5b_pl|Black Kabardin Horse
+itm_horse_arabian1a|Gray Arabian Siglavi Horse
+itm_horse_arabian1a_pl|Gray Arabian Siglavi Horse
+itm_horse_arabian2a|Bay Arabian Koheilan Horse
+itm_horse_arabian2a_pl|Bay Arabian Koheilan Horse
+itm_horse_arabian2b|Chestnut Arabian Koheilan Horse
+itm_horse_arabian2b_pl|Chestnut Arabian Koheilan Horse
+itm_horse_arabian3a|Bay Arabian Khadban Horse
+itm_horse_arabian3a_pl|Bay Arabian Khadban Horse
+itm_horse_arabian4a|Gray Arabian Koheilan-Siglavi Horse
+itm_horse_arabian4a_pl|Gray Arabian Koheilan-Siglavi Horse
+itm_horse_arabian4b|Bay Arabian Koheilan-Siglavi Horse
+itm_horse_arabian4b_pl|Bay Arabian Koheilan-Siglavi Horse
+itm_horse_arabian4c|Chestnut Arabian Koheilan-Siglavi Horse
+itm_horse_arabian4c_pl|Chestnut Arabian Koheilan-Siglavi Horse
+itm_horse_turkmen1a|Bay Akhal-Teke Horse
+itm_horse_turkmen1a_pl|Bay Akhal-Teke Horse
+itm_horse_turkmen1b|Chestnut Akhal-Teke Horse
+itm_horse_turkmen1b_pl|Chestnut Akhal-Teke Horse
+itm_horse_turkmen1c|Black Akhal-Teke Horse
+itm_horse_turkmen1c_pl|Black Akhal-Teke Horse
+itm_horse_turkmen1d|Gray Akhal-Teke Horse
+itm_horse_turkmen1d_pl|Gray Akhal-Teke Horse
+itm_horse_karabakh1a|Chestnut Karabakh Horse
+itm_horse_karabakh1a_pl|Chestnut Karabakh Horse
+itm_horse_karabakh1b|Gray Karabakh Horse
+itm_horse_karabakh1b_pl|Gray Karabakh Horse
+itm_horse_austrian1a|Bay Austrian Warmblood
+itm_horse_austrian1a_pl|Bay Austrian Warmblood
+itm_horse_austrian1b|Chestnut Austrian Warmblood
+itm_horse_austrian1b_pl|Chestnut Austrian Warmblood
+itm_horse_austrian1c|Black Austrian Warmblood
+itm_horse_austrian1c_pl|Black Austrian Warmblood
+itm_horse_austrian1d|Gray Austrian Warmblood
+itm_horse_austrian1d_pl|Gray Austrian Warmblood
+itm_horse_austrian2a|Black Kladruber Horse
+itm_horse_austrian2a_pl|Black Kladruber Horse
+itm_horse_austrian2b|Gray Kladruber Horse
+itm_horse_austrian2b_pl|Gray Kladruber Horse
+itm_horse_austrian3a|Gray Lipizzan Horse
+itm_horse_austrian3a_pl|Gray Lipizzan Horse
+itm_horse_austrian4a|Black Nonius Horse
+itm_horse_austrian4a_pl|Black Nonius Horse
+itm_horse_austrian4b|Dark Bay Nonius Horse
+itm_horse_austrian4b_pl|Dark Bay Nonius Horse
+itm_horse_austrian5a|Gray Shagya Arabian Horse
+itm_horse_austrian5a_pl|Gray Shagya Arabian Horse
+itm_horse_german1a|Bay Trakehner
+itm_horse_german1a_pl|Bay Trakehner
+itm_horse_german1b|Chestnut Trakehner
+itm_horse_german1b_pl|Chestnut Trakehner
+itm_horse_german1c|Black Trakehner
+itm_horse_german1c_pl|Black Trakehner
+itm_horse_german1d|Gray Trakehner
+itm_horse_german1d_pl|Gray Trakehner
+itm_horse_german2a|Bay Brandenburger
+itm_horse_german2a_pl|Bay Brandenburger
+itm_horse_german3a|Bay Reitpony
+itm_horse_german3a_pl|Bay Reitpony
+itm_horse_german4a|Bay Hanoverian Horse
+itm_horse_german4a_pl|Bay Hanoverian Horse
+itm_horse_german4b|Chestnut Hanoverian Horse
+itm_horse_german4b_pl|Chestnut Hanoverian Horse
+itm_horse_german4c|Black Hanoverian Horse
+itm_horse_german4c_pl|Black Hanoverian Horse
+itm_horse_german4d|Gray Hanoverian Horse
+itm_horse_german4d_pl|Gray Hanoverian Horse
+itm_horse_german5a|Bay Holsteiner Horse
+itm_horse_german5a_pl|Bay Holsteiner Horse
+itm_horse_german5b|Gray Holsteiner Horse
+itm_horse_german5b_pl|Gray Holsteiner Horse
+itm_horse_german6a|Black Ostfriesen
+itm_horse_german6a_pl|Black Ostfriesen
+itm_horse_german6b|Dark Bay Ostfriesen
+itm_horse_german6b_pl|Dark Bay Ostfriesen
+itm_horse_german7a|Bay Mecklenburger
+itm_horse_german7a_pl|Bay Mecklenburger
+itm_horse_german7b|Chestnut Mecklenburger
+itm_horse_german7b_pl|Chestnut Mecklenburger
+itm_horse_german7c|Black Mecklenburger
+itm_horse_german7c_pl|Black Mecklenburger
+itm_horse_german7d|Gray Mecklenburger
+itm_horse_german7d_pl|Gray Mecklenburger
+itm_horse_german8a|Bay Oldenburg
+itm_horse_german8a_pl|Bay Oldenburg
+itm_horse_german8b|Chestnut Oldenburg
+itm_horse_german8b_pl|Chestnut Oldenburg
+itm_horse_german8c|Black Oldenburg
+itm_horse_german8c_pl|Black Oldenburg
+itm_horse_german8d|Gray Oldenburg
+itm_horse_german8d_pl|Gray Oldenburg
+itm_horse_german9a|Bay Westphalian Horse
+itm_horse_german9a_pl|Bay Westphalian Horse
+itm_horse_german9b|Chestnut Westphalian Horse
+itm_horse_german9b_pl|Chestnut Westphalian Horse
+itm_horse_german9c|Black Westphalian Horse
+itm_horse_german9c_pl|Black Westphalian Horse
+itm_horse_german9d|Gray Westphalian Horse
+itm_horse_german9d_pl|Gray Westphalian Horse
+itm_horse_german10a|Bay Rhenish Horse
+itm_horse_german10a_pl|Bay Rhenish Horse
+itm_horse_german10b|Chestnut Rhenish Horse
+itm_horse_german10b_pl|Chestnut Rhenish Horse
+itm_horse_german10c|Black Rhenish Horse
+itm_horse_german10c_pl|Black Rhenish Horse
+itm_horse_german10d|Gray Rhenish Horse
+itm_horse_german10d_pl|Gray Rhenish Horse
+itm_horse_british1a|Bay Thoroughbred Horse
+itm_horse_british1a_pl|Bay Thoroughbred Horse
+itm_horse_british1b|Chestnut Thoroughbred Horse
+itm_horse_british1b_pl|Chestnut Thoroughbred Horse
+itm_horse_british1c|Dark Bay Thoroughbred Horse
+itm_horse_british1c_pl|Dark Bay Thoroughbred Horse
+itm_horse_british2a|Bay Anglo-Arabian Horse
+itm_horse_british2a_pl|Bay Anglo-Arabian Horse
+itm_horse_british2b|Chestnut Anglo-Arabian Horse
+itm_horse_british2b_pl|Chestnut Anglo-Arabian Horse
+itm_horse_british2c|Gray Anglo-Arabian Horse
+itm_horse_british2c_pl|Gray Anglo-Arabian Horse
+itm_horse_british3a|Bay Cleveland Horse
+itm_horse_british3a_pl|Bay Cleveland Horse
+itm_horse_british4a|Black Dales Pony
+itm_horse_british4a_pl|Black Dales Pony
+itm_horse_british5a|Chestnut Norfolk Trotter
+itm_horse_british5a_pl|Chestnut Norfolk Trotter
+itm_horse_british6a|Black Shire Horse
+itm_horse_british6a_pl|Black Shire Horse
+itm_horse_british6b|Bay Shire Horse
+itm_horse_british6b_pl|Bay Shire Horse
+itm_horse_british7a|Bay British Warmblood
+itm_horse_british7a_pl|Bay British Warmblood
+itm_horse_british7b|Chestnut British Warmblood
+itm_horse_british7b_pl|Chestnut British Warmblood
+itm_horse_british7c|Black British Warmblood
+itm_horse_british7c_pl|Black British Warmblood
+itm_horse_british7d|Gray British Warmblood
+itm_horse_british7d_pl|Gray British Warmblood
+itm_horse_french1a|Bay Auvergne Horse
+itm_horse_french1a_pl|Bay Auvergne Horse
+itm_horse_french1b|Chestnut Auvergne Horse
+itm_horse_french1b_pl|Chestnut Auvergne Horse
+itm_horse_french2a|Black Nivernais Horse
+itm_horse_french2a_pl|Black Nivernais Horse
+itm_horse_french3a|Bay Selle Francais
+itm_horse_french3a_pl|Bay Selle Francais
+itm_horse_french3b|Chestnut Selle Francais
+itm_horse_french3b_pl|Chestnut Selle Francais
+itm_horse_french4a|Dark Bay Castillonnais
+itm_horse_french4a_pl|Dark Bay Castillonnais
+itm_horse_french4b|Chestnut Castillonnais
+itm_horse_french4b_pl|Chestnut Castillonnais
+itm_horse_french5a|Bay French Warmblood
+itm_horse_french5a_pl|Bay French Warmblood
+itm_horse_french5b|Chestnut French Warmblood
+itm_horse_french5b_pl|Chestnut French Warmblood
+itm_horse_french5c|Black French Warmblood
+itm_horse_french5c_pl|Black French Warmblood
+itm_horse_french5d|Gray French Warmblood
+itm_horse_french5d_pl|Gray French Warmblood
+itm_horse_french6a|Gray Camargue Horse
+itm_horse_french6a_pl|Gray Camargue Horse
+itm_sidearm_colt_m1851_navy|Colt M1851 Navy
+itm_sidearm_colt_m1851_navy_pl|Colt M1851 Navy
+itm_sidearm_bacon1|Bacon Pocket Revolver
+itm_sidearm_bacon1_pl|Bacon Pocket Revolver
+itm_rifle_sharps|Sharps Rifle
+itm_rifle_sharps_pl|Sharps Rifle
+itm_rifle_sharps_m|Sharps Rifle
+itm_rifle_sharps_m_pl|Sharps Rifle
+itm_rifle_henry|Henry Repeating Rifle
+itm_rifle_henry_pl|Henry Repeating Rifle
+itm_rifle_henry_m|Henry Repeating Rifle
+itm_rifle_henry_m_pl|Henry Repeating Rifle
+itm_rifle_spencer|Spencer Repeating Rifle
+itm_rifle_spencer_pl|Spencer Repeating Rifle
+itm_rifle_spencer_m|Spencer Repeating Rifle
+itm_rifle_spencer_m_pl|Spencer Repeating Rifle
+itm_rifle_spencer_carbine|Spencer Repeating Carbine
+itm_rifle_spencer_carbine_pl|Spencer Repeating Carbine
+itm_rifle_spencer_carbine_m|Spencer Repeating Carbine
+itm_rifle_spencer_carbine_m_pl|Spencer Repeating Carbine
+itm_sidearm_savage_revolver|Savage M1861 Navy
+itm_sidearm_savage_revolver_pl|Savage M1861 Navy
+itm_sidearm_pepperbox1|Pepper-box Revolver
+itm_sidearm_pepperbox1_pl|Pepper-box Revolver
+itm_sidearm_pepperbox2|Pepper-box Pistol
+itm_sidearm_pepperbox2_pl|Pepper-box Pistol
+itm_rifle_russian_m1845|Russian M1845 Musket
+itm_rifle_russian_m1845_pl|Russian M1845 Musket
+itm_rifle_russian_m1845_m|Russian M1845 Musket
+itm_rifle_russian_m1845_m_pl|Russian M1845 Musket
+itm_rifle_russian_m1845_carbine|Russian M1845 Carbine
+itm_rifle_russian_m1845_carbine_pl|Russian M1845 Carbine
+itm_rifle_russian_m1845_carbine_m|Russian M1845 Carbine
+itm_rifle_russian_m1845_carbine_m_pl|Russian M1845 Carbine
+itm_rifle_russian_m1856|Russian M1856 Rifle
+itm_rifle_russian_m1856_pl|Russian M1856 Rifle
+itm_rifle_russian_m1856_m|Russian M1856 Rifle
+itm_rifle_russian_m1856_m_pl|Russian M1856 Rifle
+itm_rifle_russian_m1856_carbine|Russian M1856 Carbine
+itm_rifle_russian_m1856_carbine_pl|Russian M1856 Carbine
+itm_rifle_russian_m1856_carbine_m|Russian M1856 Carbine
+itm_rifle_russian_m1856_carbine_m_pl|Russian M1856 Carbine
+itm_rifle_russian_m1867|Krnka Rifle
+itm_rifle_russian_m1867_pl|Krnka Rifle
+itm_rifle_russian_m1867_m|Krnka Rifle
+itm_rifle_russian_m1867_m_pl|Krnka Rifle
+itm_rifle_russian_m1867_carbine|Krnka Carbine
+itm_rifle_russian_m1867_carbine_pl|Krnka Carbine
+itm_rifle_russian_m1867_carbine_m|Krnka Carbine
+itm_rifle_russian_m1867_carbine_m_pl|Krnka Carbine
+itm_rifle_russian_berdan|Berdan Rifle
+itm_rifle_russian_berdan_pl|Berdan Rifle
+itm_rifle_russian_berdan_m|Berdan Rifle
+itm_rifle_russian_berdan_m_pl|Berdan Rifle
+itm_rifle_russian_berdan_carbine|Berdan Carbine
+itm_rifle_russian_berdan_carbine_pl|Berdan Carbine
+itm_rifle_russian_berdan_carbine_m|Berdan Carbine
+itm_rifle_russian_berdan_carbine_m_pl|Berdan Carbine
+itm_rifle_russian_mosin|Mosin-Nagant Rifle
+itm_rifle_russian_mosin_pl|Mosin-Nagant Rifle
+itm_rifle_russian_mosin_m|Mosin-Nagant Rifle
+itm_rifle_russian_mosin_m_pl|Mosin-Nagant Rifle
+itm_rifle_russian_mosin_carbine|Mosin-Nagant Carbine
+itm_rifle_russian_mosin_carbine_pl|Mosin-Nagant Carbine
+itm_rifle_russian_mosin_carbine_m|Mosin-Nagant Carbine
+itm_rifle_russian_mosin_carbine_m_pl|Mosin-Nagant Carbine
+itm_bow1|Bow (Yew)
+itm_bow1_pl|Bow (Yew)
+itm_bow2|Bow (Ash)
+itm_bow2_pl|Bow (Ash)
+itm_bow3|Bow (Acacia)
+itm_bow3_pl|Bow (Acacia)
+itm_bow4|Composite Bow
+itm_bow4_pl|Composite Bow
+itm_arrows1|Arrows
+itm_arrows1_pl|Arrows
+itm_clothes_rural_male1|Shirt
+itm_clothes_rural_male1_pl|Shirt
+itm_clothes_rural_male2|Shirt
+itm_clothes_rural_male2_pl|Shirt
+itm_clothes_gala_male1|Three-piece Suit
+itm_clothes_gala_male1_pl|Three-piece Suit
+itm_clothes_gala_male1_trousers|Trousers
+itm_clothes_gala_male1_trousers_pl|Trousers
+itm_rifle_austrian_m1842|Austrian M1842 Musket
+itm_rifle_austrian_m1842_pl|Austrian M1842 Musket
+itm_rifle_austrian_m1842_m|Austrian M1842 Musket
+itm_rifle_austrian_m1842_m_pl|Austrian M1842 Musket
+itm_rifle_austrian_m1842_carbine|Austrian M1842 Carbine
+itm_rifle_austrian_m1842_carbine_pl|Austrian M1842 Carbine
+itm_rifle_austrian_m1842_carbine_m|Austrian M1842 Carbine
+itm_rifle_austrian_m1842_carbine_m_pl|Austrian M1842 Carbine
+itm_rifle_austrian_m1854|Lorenz Rifle
+itm_rifle_austrian_m1854_pl|Lorenz Rifle
+itm_rifle_austrian_m1854_m|Lorenz Rifle
+itm_rifle_austrian_m1854_m_pl|Lorenz Rifle
+itm_rifle_austrian_m1854_carbine|Lorenz Carbine
+itm_rifle_austrian_m1854_carbine_pl|Lorenz Carbine
+itm_rifle_austrian_m1854_carbine_m|Lorenz Carbine
+itm_rifle_austrian_m1854_carbine_m_pl|Lorenz Carbine
+itm_rifle_austrian_m1867|Wanzl Rifle
+itm_rifle_austrian_m1867_pl|Wanzl Rifle
+itm_rifle_austrian_m1867_m|Wanzl Rifle
+itm_rifle_austrian_m1867_m_pl|Wanzl Rifle
+itm_rifle_austrian_m1867_carbine|Wanzl Carbine
+itm_rifle_austrian_m1867_carbine_pl|Wanzl Carbine
+itm_rifle_austrian_m1867_carbine_m|Wanzl Carbine
+itm_rifle_austrian_m1867_carbine_m_pl|Wanzl Carbine
+itm_rifle_austrian_werndl|Werndl Rifle
+itm_rifle_austrian_werndl_pl|Werndl Rifle
+itm_rifle_austrian_werndl_m|Werndl Rifle
+itm_rifle_austrian_werndl_m_pl|Werndl Rifle
+itm_rifle_austrian_werndl_carbine|Werndl Carbine
+itm_rifle_austrian_werndl_carbine_pl|Werndl Carbine
+itm_rifle_austrian_werndl_carbine_m|Werndl Carbine
+itm_rifle_austrian_werndl_carbine_m_pl|Werndl Carbine
+itm_rifle_austrian_m1886|Steyr Mannlicher M1886
+itm_rifle_austrian_m1886_pl|Steyr Mannlicher M1886
+itm_rifle_austrian_m1886_m|Steyr Mannlicher M1886
+itm_rifle_austrian_m1886_m_pl|Steyr Mannlicher M1886
+itm_rifle_austrian_m1886_carbine|Steyr Mannlicher M1886 Carbine
+itm_rifle_austrian_m1886_carbine_pl|Steyr Mannlicher M1886 Carbine
+itm_rifle_austrian_m1886_carbine_m|Steyr Mannlicher M1886 Carbine
+itm_rifle_austrian_m1886_carbine_m_pl|Steyr Mannlicher M1886 Carbine
+itm_rom_shako|rom shako
+itm_rom_shako_pl|rom shako
+itm_rom_kepi|rom kepi
+itm_rom_kepi_pl|rom kepi
+itm_rom_infantry1|rom infantry1
+itm_rom_infantry1_pl|rom infantry1
+itm_rom_infantry2|rom infantry2
+itm_rom_infantry2_pl|rom infantry2
+itm_rom_infantry1_pants|rom infantry1 pants
+itm_rom_infantry1_pants_pl|rom infantry1 pants
+itm_lance4|Lance
+itm_lance4_pl|Lance
+itm_lance5|Lance
+itm_lance5_pl|Lance
+itm_lance6|Lance
+itm_lance6_pl|Lance
+itm_lance7|Lance
+itm_lance7_pl|Lance
+itm_lance8|Lance
+itm_lance8_pl|Lance
+itm_lance9|Lance
+itm_lance9_pl|Lance
+itm_lance10|Lance
+itm_lance10_pl|Lance
+itm_bav_trousers_general|Bavarian General Trousers
+itm_bav_trousers_general_pl|Bavarian General Trousers
+itm_bav_torso_leadgen1|Bavarian General Uniform
+itm_bav_torso_leadgen1_pl|Bavarian General Uniform
+itm_bav_pants2|Bavarian Trousers
+itm_bav_pants2_pl|Bavarian Trousers
+itm_bav_pants1|Bavarian Trousers
+itm_bav_pants1_pl|Bavarian Trousers
+itm_bav_pants4|Bavarian Trousers
+itm_bav_pants4_pl|Bavarian Trousers
+itm_bav_pants3|Bavarian Trousers
+itm_bav_pants3_pl|Bavarian Trousers
+itm_bav_cavalry2|Bavarian Military Uniform
+itm_bav_cavalry2_pl|Bavarian Military Uniform
+itm_bav_infantry3|Bavarian Military Uniform
+itm_bav_infantry3_pl|Bavarian Military Uniform
+itm_bav_infantry2|Bavarian Military Uniform
+itm_bav_infantry2_pl|Bavarian Military Uniform
+itm_bav_infantry1|Bavarian Military Uniform
+itm_bav_infantry1_pl|Bavarian Military Uniform
+itm_bav_cap|Bavarian Cap
+itm_bav_cap_pl|Bavarian Cap
+itm_bav_jager_helm|Bavarian Jagers Helmet
+itm_bav_jager_helm_pl|Bavarian Jagers Helmet
+itm_bav_inf_helm|Bavarian Infantry Helmet
+itm_bav_inf_helm_pl|Bavarian Infantry Helmet
+itm_bav_uhlan_hat|Bavarian Uhlan Hat
+itm_bav_uhlan_hat_pl|Bavarian Uhlan Hat
+itm_bav_cavalry1|Bavarian Military Uniform
+itm_bav_cavalry1_pl|Bavarian Military Uniform
+itm_bav_dragoon_helm|Bavarian Dragoon Helmet
+itm_bav_dragoon_helm_pl|Bavarian Dragoon Helmet
+itm_pru_inf_picklehaube|German Picklehaube
+itm_pru_inf_picklehaube_pl|German Picklehaube
+itm_prus_general_bismarck_hat|German Bismarck Helmet
+itm_prus_general_bismarck_hat_pl|German Bismarck Helmet
+itm_pru_dragoon_picklehaube|German Dragoon Picklehaube
+itm_pru_dragoon_picklehaube_pl|German Dragoon Picklehaube
+itm_pru_uhlan_hat|German Uhlan Hat
+itm_pru_uhlan_hat_pl|German Uhlan Hat
+itm_pru_hat1|German Helmet
+itm_pru_hat1_pl|German Helmet
+itm_pru_hat2|German Helmet
+itm_pru_hat2_pl|German Helmet
+itm_pru_hat3|German Hat
+itm_pru_hat3_pl|German Hat
+itm_pru_hat4|German Hat
+itm_pru_hat4_pl|German Hat
+itm_pru_hat5|German Hat
+itm_pru_hat5_pl|German Hat
+itm_pru_jager_hat1|German Jager's Hat
+itm_pru_jager_hat1_pl|German Jager's Hat
+itm_pru_torso_infantry1|German Military Uniform
+itm_pru_torso_infantry1_pl|German Military Uniform
+itm_pru_torso_infantry2|German Military Uniform
+itm_pru_torso_infantry2_pl|German Military Uniform
+itm_pru_torso_infantry3|German Military Uniform
+itm_pru_torso_infantry3_pl|German Military Uniform
+itm_pru_torso_infantry4|German Military Uniform
+itm_pru_torso_infantry4_pl|German Military Uniform
+itm_pru_torso_infantry5|German Military Uniform
+itm_pru_torso_infantry5_pl|German Military Uniform
+itm_pru_torso_infantry6|German Military Uniform
+itm_pru_torso_infantry6_pl|German Military Uniform
+itm_pru_torso_infantry7|German Military Uniform
+itm_pru_torso_infantry7_pl|German Military Uniform
+itm_pru_torso_infantry8|German Military Uniform
+itm_pru_torso_infantry8_pl|German Military Uniform
+itm_pru_torso_infantry9|German Greatcoat
+itm_pru_torso_infantry9_pl|German Greatcoat
+itm_pru_torso_cavalry1|German Military Uniform
+itm_pru_torso_cavalry1_pl|German Military Uniform
+itm_pru_torso_cavalry2|German Military Uniform
+itm_pru_torso_cavalry2_pl|German Military Uniform
+itm_pru_torso_leader1|German King Uniform
+itm_pru_torso_leader1_pl|German King Uniform
+itm_pru_torso_general1|German General Uniform
+itm_pru_torso_general1_pl|German General Uniform
+itm_pru_torso_general2|German General Uniform
+itm_pru_torso_general2_pl|German General Uniform
+itm_pru_trousers_infantry|German Infantry Trousers
+itm_pru_trousers_infantry_pl|German Infantry Trousers
+itm_pru_trousers_infantry2|German Infantry Trousers
+itm_pru_trousers_infantry2_pl|German Infantry Trousers
+itm_pru_trousers_infantry3|German Infantry Trousers
+itm_pru_trousers_infantry3_pl|German Infantry Trousers
+itm_pru_trousers_infantry4|German Infantry Trousers
+itm_pru_trousers_infantry4_pl|German Infantry Trousers
+itm_pru_trousers_cavalry1|German Cavalry Trousers
+itm_pru_trousers_cavalry1_pl|German Cavalry Trousers
+itm_pru_trousers_cavalry2|German Cavalry Trousers
+itm_pru_trousers_cavalry2_pl|German Cavalry Trousers
+itm_pru_trousers_leadgen|German General Trousers
+itm_pru_trousers_leadgen_pl|German General Trousers
+itm_wur_torso_infantry1|Wurttemberg Military Uniform
+itm_wur_torso_infantry1_pl|Wurttemberg Military Uniform
+itm_wur_torso_infantry2|Wurttemberg Military Uniform
+itm_wur_torso_infantry2_pl|Wurttemberg Military Uniform
+itm_wur_torso_infantry3|Wurttemberg Military Uniform
+itm_wur_torso_infantry3_pl|Wurttemberg Military Uniform
+itm_wur_torso_cavalry1|Wurttemberg Military Uniform
+itm_wur_torso_cavalry1_pl|Wurttemberg Military Uniform
+itm_wur_torso_cavalry2|Wurttemberg Military Uniform
+itm_wur_torso_cavalry2_pl|Wurttemberg Military Uniform
+itm_wur_torso_general1|Wurttemberg General Uniform
+itm_wur_torso_general1_pl|Wurttemberg General Uniform
+itm_wur_trousers1|Wurttemberg Trousers
+itm_wur_trousers1_pl|Wurttemberg Trousers
+itm_wur_trousers2|Wurttemberg Trousers
+itm_wur_trousers2_pl|Wurttemberg Trousers
+itm_wur_trousers3|Wurttemberg Trousers
+itm_wur_trousers3_pl|Wurttemberg Trousers
+itm_wur_hat1|Hanoverian Hat
+itm_wur_hat1_pl|Hanoverian Hat
+itm_wur_hat2|Hanoverian Hat
+itm_wur_hat2_pl|Hanoverian Hat
+itm_wur_hat3|Hanoverian Hat
+itm_wur_hat3_pl|Hanoverian Hat
+itm_wur_hat4|Hanoverian Hat
+itm_wur_hat4_pl|Hanoverian Hat
+itm_wur_hat5|Hanoverian Hat
+itm_wur_hat5_pl|Hanoverian Hat
+itm_han_hat3|Hanoverian Picklehaube
+itm_han_hat3_pl|Hanoverian Picklehaube
+itm_han_hat2|Hanoverian Hat
+itm_han_hat2_pl|Hanoverian Hat
+itm_han_trousers1|Hanoverian Trousers
+itm_han_trousers1_pl|Hanoverian Trousers
+itm_han_trousers2|Hanoverian Trousers
+itm_han_trousers2_pl|Hanoverian Trousers
+itm_han_torso_leadgen1|Hanoverian General Uniform
+itm_han_torso_leadgen1_pl|Hanoverian General Uniform
+itm_han_torso_cavalry|Hanoverian Military Uniform
+itm_han_torso_cavalry_pl|Hanoverian Military Uniform
+itm_han_torso_infantry3|Hanoverian Military Uniform
+itm_han_torso_infantry3_pl|Hanoverian Military Uniform
+itm_han_torso_infantry2|Hanoverian Military Uniform
+itm_han_torso_infantry2_pl|Hanoverian Military Uniform
+itm_han_torso_infantry1|Hanoverian Military Uniform
+itm_han_torso_infantry1_pl|Hanoverian Military Uniform
+itm_tur_fez1|Ottoman Fez
+itm_tur_fez1_pl|Ottoman Fez
+itm_tur_fez2|Ottoman Fez
+itm_tur_fez2_pl|Ottoman Fez
+itm_tur_fez2b|Ottoman Fez
+itm_tur_fez2b_pl|Ottoman Fez
+itm_tur_fez3|Ottoman Fez
+itm_tur_fez3_pl|Ottoman Fez
+itm_tur_fez4|Ottoman Fez
+itm_tur_fez4_pl|Ottoman Fez
+itm_tur_fez5|Ottoman Hat
+itm_tur_fez5_pl|Ottoman Hat
+itm_tur_hat1|Ottoman Kabalak
+itm_tur_hat1_pl|Ottoman Kabalak
+itm_tur_sultan_hat|Ottoman Sultan Fez
+itm_tur_sultan_hat_pl|Ottoman Sultan Fez
+itm_tur_infantry1|Ottoman Military Uniform
+itm_tur_infantry1_pl|Ottoman Military Uniform
+itm_tur_infantry2|Ottoman Military Uniform
+itm_tur_infantry2_pl|Ottoman Military Uniform
+itm_tur_infantry3|Ottoman Military Uniform
+itm_tur_infantry3_pl|Ottoman Military Uniform
+itm_tur_torso_zouave|Ottoman Zouave Uniform
+itm_tur_torso_zouave_pl|Ottoman Zouave Uniform
+itm_tur_infantry4|Ottoman Military Uniform
+itm_tur_infantry4_pl|Ottoman Military Uniform
+itm_tur_infantry5|Ottoman Military Uniform
+itm_tur_infantry5_pl|Ottoman Military Uniform
+itm_tur_infantry6|Ottoman Military Uniform
+itm_tur_infantry6_pl|Ottoman Military Uniform
+itm_tur_infantry7|Ottoman Military Uniform
+itm_tur_infantry7_pl|Ottoman Military Uniform
+itm_tur_torso_cavalry1|Ottoman Military Uniform
+itm_tur_torso_cavalry1_pl|Ottoman Military Uniform
+itm_tur_torso_cavalry2|Ottoman Military Uniform
+itm_tur_torso_cavalry2_pl|Ottoman Military Uniform
+itm_tur_torso_cavalryy4|Ottoman Military Uniform
+itm_tur_torso_cavalryy4_pl|Ottoman Military Uniform
+itm_tur_torso_general|Ottoman General Uniform
+itm_tur_torso_general_pl|Ottoman General Uniform
+itm_tur_torso_sultan|Ottoman Sultan Uniform
+itm_tur_torso_sultan_pl|Ottoman Sultan Uniform
+itm_tur_trousers_general|Ottoman General Trousers
+itm_tur_trousers_general_pl|Ottoman General Trousers
+itm_tur_trousers_infantry1|Ottoman Infantry Trousers
+itm_tur_trousers_infantry1_pl|Ottoman Infantry Trousers
+itm_tur_trousers_infantry2|Ottoman Infantry Trousers
+itm_tur_trousers_infantry2_pl|Ottoman Infantry Trousers
+itm_tur_trousers_infantry3|Ottoman Infantry Trousers
+itm_tur_trousers_infantry3_pl|Ottoman Infantry Trousers
+itm_tur_trousers_zouave|Ottoman Zouave Trousers
+itm_tur_trousers_zouave_pl|Ottoman Zouave Trousers
+itm_tur_trousers_cavalry|Ottoman Cavalry Trousers
+itm_tur_trousers_cavalry_pl|Ottoman Cavalry Trousers
+itm_tur_trousers_sultan|Ottoman Sultan Trousers
+itm_tur_trousers_sultan_pl|Ottoman Sultan Trousers
+itm_egy_trousers1|Egyptian Infantry Trousers
+itm_egy_trousers1_pl|Egyptian Infantry Trousers
+itm_egy_trousers_infantry2|Egyptian Infantry Trousers
+itm_egy_trousers_infantry2_pl|Egyptian Infantry Trousers
+itm_egy_trousers_infantry3|Egyptian Infantry Trousers
+itm_egy_trousers_infantry3_pl|Egyptian Infantry Trousers
+itm_egy_trousers_pasha|Egyptian Pasha Trousers
+itm_egy_trousers_pasha_pl|Egyptian Pasha Trousers
+itm_egy_trousers_general|Egyptian General Trousers
+itm_egy_trousers_general_pl|Egyptian General Trousers
+itm_egy_infantry3|Egyptian Military Uniform
+itm_egy_infantry3_pl|Egyptian Military Uniform
+itm_egy_torso_cavalry|Egyptian Military Uniform
+itm_egy_torso_cavalry_pl|Egyptian Military Uniform
+itm_egy_infantry2|Egyptian Military Uniform
+itm_egy_infantry2_pl|Egyptian Military Uniform
+itm_egy_infantry1|Egyptian Military Uniform
+itm_egy_infantry1_pl|Egyptian Military Uniform
+itm_egy_general|Egyptian General Uniform
+itm_egy_general_pl|Egyptian General Uniform
+itm_egy_pasha|Egyptian Pasha Uniform
+itm_egy_pasha_pl|Egyptian Pasha Uniform
+itm_egy_fez1|Egyptian Fez
+itm_egy_fez1_pl|Egyptian Fez
+itm_egy_fez2|Egyptian Fez
+itm_egy_fez2_pl|Egyptian Fez
+itm_dan_hat1|Danish Hat
+itm_dan_hat1_pl|Danish Hat
+itm_dan_hat2|Danish Hat
+itm_dan_hat2_pl|Danish Hat
+itm_dan_hat3|Danish Hat
+itm_dan_hat3_pl|Danish Hat
+itm_dan_hat4|Danish Hat
+itm_dan_hat4_pl|Danish Hat
+itm_dan_hat5|Danish Hat
+itm_dan_hat5_pl|Danish Hat
+itm_dan_hat6|Danish Hat
+itm_dan_hat6_pl|Danish Hat
+itm_dan_drag_helm|Danish Dragoon Helmet
+itm_dan_drag_helm_pl|Danish Dragoon Helmet
+itm_dan_gen_hat|Danish General Hat
+itm_dan_gen_hat_pl|Danish General Hat
+itm_dan_inf_shako|Danish Shako
+itm_dan_inf_shako_pl|Danish Shako
+itm_dan_torso_infantry1|Danish Military Uniform
+itm_dan_torso_infantry1_pl|Danish Military Uniform
+itm_dan_torso_infantry2|Danish Military Uniform
+itm_dan_torso_infantry2_pl|Danish Military Uniform
+itm_dan_torso_infantry3|Danish Military Uniform
+itm_dan_torso_infantry3_pl|Danish Military Uniform
+itm_dan_torso_infantry4|Danish Military Uniform
+itm_dan_torso_infantry4_pl|Danish Military Uniform
+itm_dan_torso_infantry5|Danish Military Uniform
+itm_dan_torso_infantry5_pl|Danish Military Uniform
+itm_dan_torso_infantry6|Danish Military Uniform
+itm_dan_torso_infantry6_pl|Danish Military Uniform
+itm_dan_torso_infantry7|Danish Military Uniform
+itm_dan_torso_infantry7_pl|Danish Military Uniform
+itm_dan_torso_infantry8|Danish Military Uniform
+itm_dan_torso_infantry8_pl|Danish Military Uniform
+itm_dan_torso_infantry9|Danish Military Uniform
+itm_dan_torso_infantry9_pl|Danish Military Uniform
+itm_dan_torso_cavalry|Danish Military Uniform
+itm_dan_torso_cavalry_pl|Danish Military Uniform
+itm_dan_general|Danish General Uniform
+itm_dan_general_pl|Danish General Uniform
+itm_dan_torso_king|Danish King Uniform
+itm_dan_torso_king_pl|Danish King Uniform
+itm_dan_trousers|Danish Infantry Trousers
+itm_dan_trousers_pl|Danish Infantry Trousers
+itm_dan_trousers2|Danish Infantry Trousers
+itm_dan_trousers2_pl|Danish Infantry Trousers
+itm_dan_trousers3|Danish Infantry Trousers
+itm_dan_trousers3_pl|Danish Infantry Trousers
+itm_dan_trousers4|Danish Infantry Trousers
+itm_dan_trousers4_pl|Danish Infantry Trousers
+itm_dan_trousers5|Danish Infantry Trousers
+itm_dan_trousers5_pl|Danish Infantry Trousers
+itm_dan_trousers6|Danish Infantry Trousers
+itm_dan_trousers6_pl|Danish Infantry Trousers
+itm_dan_trousers7|Danish Infantry Trousers
+itm_dan_trousers7_pl|Danish Infantry Trousers
+itm_dan_trousers_guard|Danish Infantry Trousers
+itm_dan_trousers_guard_pl|Danish Infantry Trousers
+itm_sve_trousers_cavalry1|Swedish Cavalry Trousers
+itm_sve_trousers_cavalry1_pl|Swedish Cavalry Trousers
+itm_sve_trousers_cavalry2|Swedish Cavalry Trousers
+itm_sve_trousers_cavalry2_pl|Swedish Cavalry Trousers
+itm_sve_trousers_infantry|Swedish Infantry Trousers
+itm_sve_trousers_infantry_pl|Swedish Infantry Trousers
+itm_sve_trousers_infantry2|Swedish Infantry Trousers
+itm_sve_trousers_infantry2_pl|Swedish Infantry Trousers
+itm_sve_trousers_infantry3|Swedish Infantry Trousers
+itm_sve_trousers_infantry3_pl|Swedish Infantry Trousers
+itm_sve_trousers_infantry4|Swedish Infantry Trousers
+itm_sve_trousers_infantry4_pl|Swedish Infantry Trousers
+itm_sve_torso_infantry1|Swedish Military Uniform
+itm_sve_torso_infantry1_pl|Swedish Military Uniform
+itm_sve_torso_infantry2|Swedish Military Uniform
+itm_sve_torso_infantry2_pl|Swedish Military Uniform
+itm_sve_torso_infantry3|Swedish Military Uniform
+itm_sve_torso_infantry3_pl|Swedish Military Uniform
+itm_sve_torso_infantry4|Swedish Military Uniform
+itm_sve_torso_infantry4_pl|Swedish Military Uniform
+itm_sve_torso_infantry5|Swedish Military Uniform
+itm_sve_torso_infantry5_pl|Swedish Military Uniform
+itm_sve_torso_infantry6|Swedish Military Uniform
+itm_sve_torso_infantry6_pl|Swedish Military Uniform
+itm_sve_torso_infantry7|Swedish Military Uniform
+itm_sve_torso_infantry7_pl|Swedish Military Uniform
+itm_sve_torso_cavalry1|Swedish Military Uniform
+itm_sve_torso_cavalry1_pl|Swedish Military Uniform
+itm_sve_torso_cavalry2|Swedish Military Uniform
+itm_sve_torso_cavalry2_pl|Swedish Military Uniform
+itm_sve_torso_general|Swedish General Uniform
+itm_sve_torso_general_pl|Swedish General Uniform
+itm_sve_hat2|Swedish Hat
+itm_sve_hat2_pl|Swedish Hat
+itm_sve_shako|Swedish Shako
+itm_sve_shako_pl|Swedish Shako
+itm_sve_hat3|Swedish Hat
+itm_sve_hat3_pl|Swedish Hat
+itm_sve_hat4|Swedish Hat
+itm_sve_hat4_pl|Swedish Hat
+itm_sve_hat4b|Swedish Hat
+itm_sve_hat4b_pl|Swedish Hat
+itm_sve_hat5|Swedish Tricorne
+itm_sve_hat5_pl|Swedish Tricorne
+itm_sve_hat5b|Swedish Tricorne
+itm_sve_hat5b_pl|Swedish Tricorne
+itm_fra_bicorne|French Bicorne
+itm_fra_bicorne_pl|French Bicorne
+itm_fra_hat1|French Kepi
+itm_fra_hat1_pl|French Kepi
+itm_fra_hat2|French Kepi
+itm_fra_hat2_pl|French Kepi
+itm_fra_hat3|French Kepi
+itm_fra_hat3_pl|French Kepi
+itm_fra_hat4|French Kepi
+itm_fra_hat4_pl|French Kepi
+itm_fra_hat5|French Kepi
+itm_fra_hat5_pl|French Kepi
+itm_fra_hat6|French Kepi
+itm_fra_hat6_pl|French Kepi
+itm_fra_hat7|French Kepi
+itm_fra_hat7_pl|French Kepi
+itm_fr_kepi|French Kepi
+itm_fr_kepi_pl|French Kepi
+itm_fr_chas_kepi|French Kepi
+itm_fr_chas_kepi_pl|French Kepi
+itm_fr_kepi_officer|French Officer Kepi
+itm_fr_kepi_officer_pl|French Officer Kepi
+itm_fr_grenadier_hat|French Grenadier Hat
+itm_fr_grenadier_hat_pl|French Grenadier Hat
+itm_fr_dragoon_helmet|French Dragoon Helmet
+itm_fr_dragoon_helmet_pl|French Dragoon Helmet
+itm_fra_torso_infantry1|French Military Uniform
+itm_fra_torso_infantry1_pl|French Military Uniform
+itm_fra_torso_infantry2|French Military Uniform
+itm_fra_torso_infantry2_pl|French Military Uniform
+itm_fra_torso_infantry3|French Military Uniform
+itm_fra_torso_infantry3_pl|French Military Uniform
+itm_fra_torso_infantry4|French Military Uniform
+itm_fra_torso_infantry4_pl|French Military Uniform
+itm_fra_torso_infantry5|French Military Uniform
+itm_fra_torso_infantry5_pl|French Military Uniform
+itm_fra_torso_infantry6|French Military Uniform
+itm_fra_torso_infantry6_pl|French Military Uniform
+itm_fra_torso_infantry7|French Military Uniform
+itm_fra_torso_infantry7_pl|French Military Uniform
+itm_fra_torso_infantry8|French Military Uniform
+itm_fra_torso_infantry8_pl|French Military Uniform
+itm_fra_torso_infantry9|French Military Uniform
+itm_fra_torso_infantry9_pl|French Military Uniform
+itm_fra_torso_cavalry1|French Military Uniform
+itm_fra_torso_cavalry1_pl|French Military Uniform
+itm_fra_torso_cavalry2|French Military Uniform
+itm_fra_torso_cavalry2_pl|French Military Uniform
+itm_fra_torso_general|French General Uniform
+itm_fra_torso_general_pl|French General Uniform
+itm_fra_torso_napoleon3|French Napoleon Uniform
+itm_fra_torso_napoleon3_pl|French Napoleon Uniform
+itm_fra_infantry_trousers1|French Infantry Trousers
+itm_fra_infantry_trousers1_pl|French Infantry Trousers
+itm_fra_infantry_trousers2|French Infantry Trousers
+itm_fra_infantry_trousers2_pl|French Infantry Trousers
+itm_fra_infantry_trousers3|French Infantry Trousers
+itm_fra_infantry_trousers3_pl|French Infantry Trousers
+itm_fra_infantry_trousers4|French Infantry Trousers
+itm_fra_infantry_trousers4_pl|French Infantry Trousers
+itm_fra_infantry_trousers5|French Infantry Trousers
+itm_fra_infantry_trousers5_pl|French Infantry Trousers
+itm_fra_infantry_trousers6|French Infantry Trousers
+itm_fra_infantry_trousers6_pl|French Infantry Trousers
+itm_fra_trousers_cavalry|French Cavalry Trousers
+itm_fra_trousers_cavalry_pl|French Cavalry Trousers
+itm_fra_trousers_general|French General Trousers
+itm_fra_trousers_general_pl|French General Trousers
+itm_us_trousers|DI
+itm_us_trousers_pl|DI
+itm_jap_trousers|DI
+itm_jap_trousers_pl|DI
+itm_us_infantry|DI
+itm_us_infantry_pl|DI
+itm_jap_infantry|DI
+itm_jap_infantry_pl|DI
+itm_us_hat|DI
+itm_us_hat_pl|DI
+itm_jap_hat|DI
+itm_jap_hat_pl|DI
+itm_srb_hat2|Serbian Hat
+itm_srb_hat2_pl|Serbian Hat
+itm_srb_hat1|Serbian Hat
+itm_srb_hat1_pl|Serbian Hat
+itm_srb_hat3|Serbian Kepi
+itm_srb_hat3_pl|Serbian Kepi
+itm_srb_hat4|Serbian Hat
+itm_srb_hat4_pl|Serbian Hat
+itm_srb_hat5|Serbian Hat
+itm_srb_hat5_pl|Serbian Hat
+itm_srb_hat6|Serbian Hat
+itm_srb_hat6_pl|Serbian Hat
+itm_srb_hat7|Serbian Hat
+itm_srb_hat7_pl|Serbian Hat
+itm_srb_hat8|Serbian Hat
+itm_srb_hat8_pl|Serbian Hat
+itm_srb_hat9|Serbian Helmet
+itm_srb_hat9_pl|Serbian Helmet
+itm_srb_cavalry_kepi|Serbian Cavalry Kepi
+itm_srb_cavalry_kepi_pl|Serbian Cavalry Kepi
+itm_srb_general_kepi|Serbian General Kepi
+itm_srb_general_kepi_pl|Serbian General Kepi
+itm_srb_trousers1|Serbian Infantry Trousers
+itm_srb_trousers1_pl|Serbian Infantry Trousers
+itm_srb_trousers2|Serbian Infantry Trousers
+itm_srb_trousers2_pl|Serbian Infantry Trousers
+itm_srb_trousers3|Serbian Infantry Trousers
+itm_srb_trousers3_pl|Serbian Infantry Trousers
+itm_srb_trousers4|Serbian Infantry Trousers
+itm_srb_trousers4_pl|Serbian Infantry Trousers
+itm_srb_trousers5|Serbian Infantry Trousers
+itm_srb_trousers5_pl|Serbian Infantry Trousers
+itm_srb_trousers6|Serbian Infantry Trousers
+itm_srb_trousers6_pl|Serbian Infantry Trousers
+itm_srb_trousers7|Serbian Infantry Trousers
+itm_srb_trousers7_pl|Serbian Infantry Trousers
+itm_srb_infantry1|Serbian Military Uniform
+itm_srb_infantry1_pl|Serbian Military Uniform
+itm_srb_infantry2|Serbian Military Uniform
+itm_srb_infantry2_pl|Serbian Military Uniform
+itm_srb_infantry3|Serbian Military Uniform
+itm_srb_infantry3_pl|Serbian Military Uniform
+itm_srb_infantry4|Serbian Military Uniform
+itm_srb_infantry4_pl|Serbian Military Uniform
+itm_srb_infantry5|Serbian Military Uniform
+itm_srb_infantry5_pl|Serbian Military Uniform
+itm_srb_infantry6|Serbian Military Uniform
+itm_srb_infantry6_pl|Serbian Military Uniform
+itm_srb_infantry7|Serbian Military Uniform
+itm_srb_infantry7_pl|Serbian Military Uniform
+itm_srb_infantry8|Serbian Military Uniform
+itm_srb_infantry8_pl|Serbian Military Uniform
+itm_srb_infantry9|Serbian Military Uniform
+itm_srb_infantry9_pl|Serbian Military Uniform
+itm_srb_infantry10|Serbian Military Uniform
+itm_srb_infantry10_pl|Serbian Military Uniform
+itm_srb_infantry11|Serbian Military Uniform
+itm_srb_infantry11_pl|Serbian Military Uniform
+itm_srb_infantry12|Serbian Military Uniform
+itm_srb_infantry12_pl|Serbian Military Uniform
+itm_srb_cavalry1|Serbian Military Uniform
+itm_srb_cavalry1_pl|Serbian Military Uniform
+itm_srb_general_torso|Serbian General Uniform
+itm_srb_general_torso_pl|Serbian General Uniform
+itm_srb_general_trousers|Serbian General Trousers
+itm_srb_general_trousers_pl|Serbian General Trousers
+itm_sidearm_lefaucheux|Lefaucheux
+itm_sidearm_lefaucheux_pl|Lefaucheux
+itm_sidearm_reichsrevolver1879|Reichsrevolver M1879
+itm_sidearm_reichsrevolver1879_pl|Reichsrevolver M1879
+itm_sidearm_mas1873|MAS 1873
+itm_sidearm_mas1873_pl|MAS 1873
+itm_YuriCannonballCartridge|YuriCannonballCartridge
+itm_YuriCannonballCartridge_pl|YuriCannonballCartridge
+itm_YuriGrapeshotCartridge|YuriGrapeshotCartridge
+itm_YuriGrapeshotCartridge_pl|YuriGrapeshotCartridge
+itm_victorian_dress1a|Dress
+itm_victorian_dress1a_pl|Dress
+itm_victorian_dress1b|Dress
+itm_victorian_dress1b_pl|Dress
+itm_rifle_german_m1831|Potsdam M1831 Musket
+itm_rifle_german_m1831_pl|Potsdam M1831 Musket
+itm_rifle_german_m1831_m|Potsdam M1831 Musket
+itm_rifle_german_m1831_m_pl|Potsdam M1831 Musket
+itm_rifle_german_m1831_carbine|Potsdam M1831 Carbine
+itm_rifle_german_m1831_carbine_pl|Potsdam M1831 Carbine
+itm_rifle_german_m1831_carbine_m|Potsdam M1831 Carbine
+itm_rifle_german_m1831_carbine_m_pl|Potsdam M1831 Carbine
+itm_rifle_german_m1831_rifle|Potsdam M1831 Rifle
+itm_rifle_german_m1831_rifle_pl|Potsdam M1831 Rifle
+itm_rifle_german_m1831_rifle_m|Potsdam M1831 Rifle
+itm_rifle_german_m1831_rifle_m_pl|Potsdam M1831 Rifle
+itm_rifle_german_m1831_rifle_carbine|Potsdam M1831 Carbine
+itm_rifle_german_m1831_rifle_carbine_pl|Potsdam M1831 Carbine
+itm_rifle_german_m1831_rifle_carbine_m|Potsdam M1831 Carbine
+itm_rifle_german_m1831_rifle_carbine_m_pl|Potsdam M1831 Carbine
+itm_rifle_german_dreyse|Dreyse Needle Rifle
+itm_rifle_german_dreyse_pl|Dreyse Needle Rifle
+itm_rifle_german_dreyse_m|Dreyse Needle Rifle
+itm_rifle_german_dreyse_m_pl|Dreyse Needle Rifle
+itm_rifle_german_dreyse_carbine|Dreyse Needle Carbine
+itm_rifle_german_dreyse_carbine_pl|Dreyse Needle Carbine
+itm_rifle_german_dreyse_carbine_m|Dreyse Needle Carbine
+itm_rifle_german_dreyse_carbine_m_pl|Dreyse Needle Carbine
+itm_rifle_german_m1871|Mauser M1871 Rifle
+itm_rifle_german_m1871_pl|Mauser M1871 Rifle
+itm_rifle_german_m1871_m|Mauser M1871 Rifle
+itm_rifle_german_m1871_m_pl|Mauser M1871 Rifle
+itm_rifle_german_m1871_carbine|Mauser M1871 Carbine
+itm_rifle_german_m1871_carbine_pl|Mauser M1871 Carbine
+itm_rifle_german_m1871_carbine_m|Mauser M1871 Carbine
+itm_rifle_german_m1871_carbine_m_pl|Mauser M1871 Carbine
+itm_rifle_german_m1888|Gewehr M1888 Rifle
+itm_rifle_german_m1888_pl|Gewehr M1888 Rifle
+itm_rifle_german_m1888_m|Gewehr M1888 Rifle
+itm_rifle_german_m1888_m_pl|Gewehr M1888 Rifle
+itm_rifle_german_m1888_carbine|Gewehr M1888 Carbine
+itm_rifle_german_m1888_carbine_pl|Gewehr M1888 Carbine
+itm_rifle_german_m1888_carbine_m|Gewehr M1888 Carbine
+itm_rifle_german_m1888_carbine_m_pl|Gewehr M1888 Carbine
+itm_sidearm_colt_walker|Colt Walker
+itm_sidearm_colt_walker_pl|Colt Walker
+itm_sidearm_galand|Galand M1870
+itm_sidearm_galand_pl|Galand M1870
+itm_empty_legs|empty legs
+itm_empty_legs_pl|empty legs
+itm_empty_head|empty head
+itm_empty_head_pl|empty head
+itm_empty_hands|empty hands
+itm_empty_hands_pl|empty hands
+itm_sidearm_lemat|LeMat Revolver
+itm_sidearm_lemat_pl|LeMat Revolver
+itm_canister_shot_small|canister shot small
+itm_canister_shot_small_pl|canister shot small
+itm_canister_shot_small_projectile|canister shot small
+itm_canister_shot_small_projectile_pl|canister shot small
+itm_sidearm_beaumont|Beaumont–Adams Revolver
+itm_sidearm_beaumont_pl|Beaumont–Adams Revolver
+itm_sidearm_enfieldmk1|Enfield Mk I
+itm_sidearm_enfieldmk1_pl|Enfield Mk I
+itm_sidearm_webleymk6|Webley Mk VI
+itm_sidearm_webleymk6_pl|Webley Mk VI
+itm_sidearm_bodeo|Bodeo M1889
+itm_sidearm_bodeo_pl|Bodeo M1889
+itm_sidearm_webleybulldog|Webley Bull Dog
+itm_sidearm_webleybulldog_pl|Webley Bull Dog
+itm_sidearm_c93|Borchardt C-93
+itm_sidearm_c93_pl|Borchardt C-93
+itm_sidearm_colt1892|Colt M1892
+itm_sidearm_colt1892_pl|Colt M1892
+itm_sidearm_colt1849|Colt M1849 Pocket Revolver
+itm_sidearm_colt1849_pl|Colt M1849 Pocket Revolver
+itm_ammo_pistol_double|Doubled Ammunition of Pistol Caliber
+itm_ammo_pistol_double_pl|Doubled Ammunition of Pistol Caliber
+itm_res_trousers1|Italian Military Trousers
+itm_res_trousers1_pl|Italian Military Trousers
+itm_res_trousers2|Italian Military Trousers
+itm_res_trousers2_pl|Italian Military Trousers
+itm_res_trousers3|Italian Military Trousers
+itm_res_trousers3_pl|Italian Military Trousers
+itm_res_trousers4|Italian Military Trousers
+itm_res_trousers4_pl|Italian Military Trousers
+itm_res_trousers4b|Italian Military Trousers
+itm_res_trousers4b_pl|Italian Military Trousers
+itm_res_trousers5|Italian Military Trousers
+itm_res_trousers5_pl|Italian Military Trousers
+itm_res_trousers6|Red Shirts' Trousers
+itm_res_trousers6_pl|Red Shirts' Trousers
+itm_res_trousers7|Italian Military Trousers
+itm_res_trousers7_pl|Italian Military Trousers
+itm_res_infantry1|Italian Military Uniform
+itm_res_infantry1_pl|Italian Military Uniform
+itm_res_infantry2|Italian Military Uniform
+itm_res_infantry2_pl|Italian Military Uniform
+itm_res_infantry3|Italian Military Uniform
+itm_res_infantry3_pl|Italian Military Uniform
+itm_res_infantry4|Italian Military Uniform
+itm_res_infantry4_pl|Italian Military Uniform
+itm_res_infantry5|Italian Military Uniform
+itm_res_infantry5_pl|Italian Military Uniform
+itm_res_infantry6|Red Shirts' Clothes
+itm_res_infantry6_pl|Red Shirts' Clothes
+itm_res_infantry7|Italian Military Uniform
+itm_res_infantry7_pl|Italian Military Uniform
+itm_res_infantry8|Italian Military Uniform
+itm_res_infantry8_pl|Italian Military Uniform
+itm_res_infantry9|Italian Military Uniform
+itm_res_infantry9_pl|Italian Military Uniform
+itm_res_infantry10|Italian Military Uniform
+itm_res_infantry10_pl|Italian Military Uniform
+itm_res_cavalry1|Italian Military Uniform
+itm_res_cavalry1_pl|Italian Military Uniform
+itm_res_cavalry2|Italian Military Uniform
+itm_res_cavalry2_pl|Italian Military Uniform
+itm_res_general1|Italian Commander Uniform
+itm_res_general1_pl|Italian Commander Uniform
+itm_res_general2|Italian Commander Uniform
+itm_res_general2_pl|Italian Commander Uniform
+itm_res_hat1|Italian Military Hat
+itm_res_hat1_pl|Italian Military Hat
+itm_res_hat1b|Italian Military Hat
+itm_res_hat1b_pl|Italian Military Hat
+itm_res_hat2|Italian Military Hat
+itm_res_hat2_pl|Italian Military Hat
+itm_res_hat3|Italian Military Hat
+itm_res_hat3_pl|Italian Military Hat
+itm_res_hat4|Italian Military Hat
+itm_res_hat4_pl|Italian Military Hat
+itm_res_hat5|Italian Military Hat
+itm_res_hat5_pl|Italian Military Hat
+itm_res_hat6|Italian Military Hat
+itm_res_hat6_pl|Italian Military Hat
+itm_res_hat7|Italian Military Hat
+itm_res_hat7_pl|Italian Military Hat
+itm_res_hat8|Italian Military Hat
+itm_res_hat8_pl|Italian Military Hat
+itm_res_hat9|Italian Helmet
+itm_res_hat9_pl|Italian Helmet
+itm_res_hat10|Italian Helmet
+itm_res_hat10_pl|Italian Helmet
+itm_res_hat11|Italian Military Hat
+itm_res_hat11_pl|Italian Military Hat
+itm_rifle_italian_m1844|Italian M1844 Musket
+itm_rifle_italian_m1844_pl|Italian M1844 Musket
+itm_rifle_italian_m1844_m|Italian M1844 Musket
+itm_rifle_italian_m1844_m_pl|Italian M1844 Musket
+itm_rifle_italian_m1844_carbine|Italian M1844 Carbine
+itm_rifle_italian_m1844_carbine_pl|Italian M1844 Carbine
+itm_rifle_italian_m1844_carbine_m|Italian M1844 Carbine
+itm_rifle_italian_m1844_carbine_m_pl|Italian M1844 Carbine
+itm_rifle_italian_m1860|Italian M1860 Rifle
+itm_rifle_italian_m1860_pl|Italian M1860 Rifle
+itm_rifle_italian_m1860_m|Italian M1860 Rifle
+itm_rifle_italian_m1860_m_pl|Italian M1860 Rifle
+itm_rifle_italian_m1860_carbine|Italian M1860 Carbine
+itm_rifle_italian_m1860_carbine_pl|Italian M1860 Carbine
+itm_rifle_italian_m1860_carbine_m|Italian M1860 Carbine
+itm_rifle_italian_m1860_carbine_m_pl|Italian M1860 Carbine
+itm_rifle_italian_carcano|Carcano System M1868 Rifle
+itm_rifle_italian_carcano_pl|Carcano System M1868 Rifle
+itm_rifle_italian_carcano_m|Carcano System M1868 Rifle
+itm_rifle_italian_carcano_m_pl|Carcano System M1868 Rifle
+itm_rifle_italian_carcano_carbine|Carcano System M1868 Carbine
+itm_rifle_italian_carcano_carbine_pl|Carcano System M1868 Carbine
+itm_rifle_italian_carcano_carbine_m|Carcano System M1868 Carbine
+itm_rifle_italian_carcano_carbine_m_pl|Carcano System M1868 Carbine
+itm_rifle_italian_vetterli|Italian Vetterli M1870 Rifle
+itm_rifle_italian_vetterli_pl|Italian Vetterli M1870 Rifle
+itm_rifle_italian_vetterli_m|Italian Vetterli M1870 Rifle
+itm_rifle_italian_vetterli_m_pl|Italian Vetterli M1870 Rifle
+itm_rifle_italian_vetterli_carbine|Italian Vetterli M1870 Carbine
+itm_rifle_italian_vetterli_carbine_pl|Italian Vetterli M1870 Carbine
+itm_rifle_italian_vetterli_carbine_m|Italian Vetterli M1870 Carbine
+itm_rifle_italian_vetterli_carbine_m_pl|Italian Vetterli M1870 Carbine
+itm_rifle_italian_vetterlivitali|Vetterli-Vitali M1887 Rifle
+itm_rifle_italian_vetterlivitali_pl|Vetterli-Vitali M1887 Rifle
+itm_rifle_italian_vetterlivitali_m|Vetterli-Vitali M1887 Rifle
+itm_rifle_italian_vetterlivitali_m_pl|Vetterli-Vitali M1887 Rifle
+itm_rifle_italian_vetterlivitali_carbine|Vetterli-Vitali M1887 Carbine
+itm_rifle_italian_vetterlivitali_carbine_pl|Vetterli-Vitali M1887 Carbine
+itm_rifle_italian_vetterlivitali_carbine_m|Vetterli-Vitali M1887 Carbine
+itm_rifle_italian_vetterlivitali_carbine_m_pl|Vetterli-Vitali M1887 Carbine
+itm_eds_trousers1|Sicilian Military Trousers
+itm_eds_trousers1_pl|Sicilian Military Trousers
+itm_eds_trousers2|Sicilian Military Trousers
+itm_eds_trousers2_pl|Sicilian Military Trousers
+itm_eds_trousers3|Sicilian Military Trousers
+itm_eds_trousers3_pl|Sicilian Military Trousers
+itm_eds_trousers4|Sicilian Military Trousers
+itm_eds_trousers4_pl|Sicilian Military Trousers
+itm_eds_trousers5|Sicilian Military Trousers
+itm_eds_trousers5_pl|Sicilian Military Trousers
+itm_eds_trousers6|Sicilian Military Trousers
+itm_eds_trousers6_pl|Sicilian Military Trousers
+itm_eds_infantry1|Sicilian Military Uniform
+itm_eds_infantry1_pl|Sicilian Military Uniform
+itm_eds_infantry2|Sicilian Military Uniform
+itm_eds_infantry2_pl|Sicilian Military Uniform
+itm_eds_infantry3|Sicilian Military Uniform
+itm_eds_infantry3_pl|Sicilian Military Uniform
+itm_eds_infantry4|Sicilian Military Uniform
+itm_eds_infantry4_pl|Sicilian Military Uniform
+itm_eds_cavalry1|Sicilian Military Uniform
+itm_eds_cavalry1_pl|Sicilian Military Uniform
+itm_eds_cavalry2|Sicilian Military Uniform
+itm_eds_cavalry2_pl|Sicilian Military Uniform
+itm_eds_general1|Sicilian Commander Uniform
+itm_eds_general1_pl|Sicilian Commander Uniform
+itm_eds_hat1|Sicilian Military Hat
+itm_eds_hat1_pl|Sicilian Military Hat
+itm_eds_hat1b|Sicilian Military Hat
+itm_eds_hat1b_pl|Sicilian Military Hat
+itm_eds_hat1c|Sicilian Military Hat
+itm_eds_hat1c_pl|Sicilian Military Hat
+itm_eds_hat2|Sicilian Military Hat
+itm_eds_hat2_pl|Sicilian Military Hat
+itm_eds_hat3|Sicilian Military Hat
+itm_eds_hat3_pl|Sicilian Military Hat
+itm_eds_hat4|Sicilian Military Hat
+itm_eds_hat4_pl|Sicilian Military Hat
+itm_sidearm_sw_sh|Smith & Wesson Safety Hammerless
+itm_sidearm_sw_sh_pl|Smith & Wesson Safety Hammerless
+itm_thawb1|Arabian Thobe
+itm_thawb1_pl|Arabian Thobe
+itm_thawb1b|Arabian Thobe
+itm_thawb1b_pl|Arabian Thobe
+itm_thawb1c|Arabian Thobe
+itm_thawb1c_pl|Arabian Thobe
+itm_thawb1d|Arabian Thobe
+itm_thawb1d_pl|Arabian Thobe
+itm_thawb1_vest1|Arabian Thobe with Vest
+itm_thawb1_vest1_pl|Arabian Thobe with Vest
+itm_thawb1_vest2|Arabian Thobe with Vest
+itm_thawb1_vest2_pl|Arabian Thobe with Vest
+itm_thawb1_vest3|Arabian Thobe with Vest
+itm_thawb1_vest3_pl|Arabian Thobe with Vest
+itm_thawb1_vest4|Arabian Thobe with Vest
+itm_thawb1_vest4_pl|Arabian Thobe with Vest
+itm_thawb1_vest5|Arabian Thobe with Vest
+itm_thawb1_vest5_pl|Arabian Thobe with Vest
+itm_thawb1_bisht1|Arabian Thobe with Bisht
+itm_thawb1_bisht1_pl|Arabian Thobe with Bisht
+itm_thawb1_bisht2|Arabian Thobe with Bisht
+itm_thawb1_bisht2_pl|Arabian Thobe with Bisht
+itm_thawb1_bisht3|Arabian Thobe with Bisht
+itm_thawb1_bisht3_pl|Arabian Thobe with Bisht
+itm_thawb1_bisht4|Arabian Thobe with Bisht
+itm_thawb1_bisht4_pl|Arabian Thobe with Bisht
+itm_thawb1_bisht5|Arabian Thobe with Bisht
+itm_thawb1_bisht5_pl|Arabian Thobe with Bisht
+itm_thawb1_bisht6|Arabian Thobe with Bisht
+itm_thawb1_bisht6_pl|Arabian Thobe with Bisht
+itm_thawb1_bisht7|Arabian Thobe with Bisht
+itm_thawb1_bisht7_pl|Arabian Thobe with Bisht
+itm_arab_headwear1|Arabian Headwear
+itm_arab_headwear1_pl|Arabian Headwear
+itm_arab_headwear1b|Arabian Headwear
+itm_arab_headwear1b_pl|Arabian Headwear
+itm_arab_headwear1c|Arabian Headwear
+itm_arab_headwear1c_pl|Arabian Headwear
+itm_arab_headwear1d|Arabian Headwear
+itm_arab_headwear1d_pl|Arabian Headwear
+itm_arab_headwear2|Arabian Headwear
+itm_arab_headwear2_pl|Arabian Headwear
+itm_arab_headwear2b|Arabian Headwear
+itm_arab_headwear2b_pl|Arabian Headwear
+itm_arab_headwear2c|Arabian Headwear
+itm_arab_headwear2c_pl|Arabian Headwear
+itm_arab_headwear2d|Arabian Headwear
+itm_arab_headwear2d_pl|Arabian Headwear
+itm_arab_headwear2e|Arabian Headwear
+itm_arab_headwear2e_pl|Arabian Headwear
+itm_arab_headwear3|Arabian Headwear
+itm_arab_headwear3_pl|Arabian Headwear
+itm_arab_headwear3b|Arabian Headwear
+itm_arab_headwear3b_pl|Arabian Headwear
+itm_arab_headwear3c|Arabian Headwear
+itm_arab_headwear3c_pl|Arabian Headwear
+itm_arab_headwear3d|Arabian Headwear
+itm_arab_headwear3d_pl|Arabian Headwear
+itm_arab_headwear4|Arabian Headwear
+itm_arab_headwear4_pl|Arabian Headwear
+itm_arab_headwear5|Arabian Headwear
+itm_arab_headwear5_pl|Arabian Headwear
+itm_arab_headwear5b|Arabian Headwear
+itm_arab_headwear5b_pl|Arabian Headwear
+itm_arab_headwear5c|Arabian Headwear
+itm_arab_headwear5c_pl|Arabian Headwear
+itm_arab_headwear5d|Arabian Headwear
+itm_arab_headwear5d_pl|Arabian Headwear
+itm_arab_headwear5e|Arabian Headwear
+itm_arab_headwear5e_pl|Arabian Headwear
+itm_arab_headwear6|Arabian Headwear
+itm_arab_headwear6_pl|Arabian Headwear
+itm_arab_headwear7|Arabian Headwear
+itm_arab_headwear7_pl|Arabian Headwear
+itm_arab_pants|Arabian Pants
+itm_arab_pants_pl|Arabian Pants
+itm_rifle_british_m1842|Pattern 1842 Musket
+itm_rifle_british_m1842_pl|Pattern 1842 Musket
+itm_rifle_british_m1842_m|Pattern 1842 Musket
+itm_rifle_british_m1842_m_pl|Pattern 1842 Musket
+itm_rifle_british_m1842_carbine|Pattern 1842 Carbine
+itm_rifle_british_m1842_carbine_pl|Pattern 1842 Carbine
+itm_rifle_british_m1842_carbine_m|Pattern 1842 Carbine
+itm_rifle_british_m1842_carbine_m_pl|Pattern 1842 Carbine
+itm_rifle_british_m1853|Pattern 1853 Enfield
+itm_rifle_british_m1853_pl|Pattern 1853 Enfield
+itm_rifle_british_m1853_m|Pattern 1853 Enfield
+itm_rifle_british_m1853_m_pl|Pattern 1853 Enfield
+itm_rifle_british_m1853_carbine|Pattern 1853 Enfield Carbine
+itm_rifle_british_m1853_carbine_pl|Pattern 1853 Enfield Carbine
+itm_rifle_british_m1853_carbine_m|Pattern 1853 Enfield Carbine
+itm_rifle_british_m1853_carbine_m_pl|Pattern 1853 Enfield Carbine
+itm_rifle_british_snider|Snider-Enfield Rifle
+itm_rifle_british_snider_pl|Snider-Enfield Rifle
+itm_rifle_british_snider_m|Snider-Enfield Rifle
+itm_rifle_british_snider_m_pl|Snider-Enfield Rifle
+itm_rifle_british_snider_carbine|Snider-Enfield Carbine
+itm_rifle_british_snider_carbine_pl|Snider-Enfield Carbine
+itm_rifle_british_snider_carbine_m|Snider-Enfield Carbine
+itm_rifle_british_snider_carbine_m_pl|Snider-Enfield Carbine
+itm_rifle_british_martinihenry|Martini-Henry Rifle
+itm_rifle_british_martinihenry_pl|Martini-Henry Rifle
+itm_rifle_british_martinihenry_m|Martini-Henry Rifle
+itm_rifle_british_martinihenry_m_pl|Martini-Henry Rifle
+itm_rifle_british_martinihenry_carbine|Martini-Henry Carbine
+itm_rifle_british_martinihenry_carbine_pl|Martini-Henry Carbine
+itm_rifle_british_martinihenry_carbine_m|Martini-Henry Carbine
+itm_rifle_british_martinihenry_carbine_m_pl|Martini-Henry Carbine
+itm_rifle_british_metford|Lee-Metford Rifle
+itm_rifle_british_metford_pl|Lee-Metford Rifle
+itm_rifle_british_metford_m|Lee-Metford Rifle
+itm_rifle_british_metford_m_pl|Lee-Metford Rifle
+itm_rifle_british_metford_carbine|Lee-Metford Carbine
+itm_rifle_british_metford_carbine_pl|Lee-Metford Carbine
+itm_rifle_british_metford_carbine_m|Lee-Metford Carbine
+itm_rifle_british_metford_carbine_m_pl|Lee-Metford Carbine
+itm_rifle_french_m1844|French Smoothbore Musket
+itm_rifle_french_m1844_pl|French Smoothbore Musket
+itm_rifle_french_m1844_m|French Smoothbore Musket
+itm_rifle_french_m1844_m_pl|French Smoothbore Musket
+itm_rifle_french_m1844_carbine|French Smoothbore Carbine
+itm_rifle_french_m1844_carbine_pl|French Smoothbore Carbine
+itm_rifle_french_m1844_carbine_m|French Smoothbore Carbine
+itm_rifle_french_m1844_carbine_m_pl|French Smoothbore Carbine
+itm_rifle_french_m1849|French Minie Rifle
+itm_rifle_french_m1849_pl|French Minie Rifle
+itm_rifle_french_m1849_m|French Minie Rifle
+itm_rifle_french_m1849_m_pl|French Minie Rifle
+itm_rifle_french_m1849_carbine|French Minie Carbine
+itm_rifle_french_m1849_carbine_pl|French Minie Carbine
+itm_rifle_french_m1849_carbine_m|French Minie Carbine
+itm_rifle_french_m1849_carbine_m_pl|French Minie Carbine
+itm_rifle_french_tabatiere|Schneider-Tabatiere Rifle
+itm_rifle_french_tabatiere_pl|Schneider-Tabatiere Rifle
+itm_rifle_french_tabatiere_m|Schneider-Tabatiere Rifle
+itm_rifle_french_tabatiere_m_pl|Schneider-Tabatiere Rifle
+itm_rifle_french_tabatiere_carbine|Schneider-Tabatiere Carbine
+itm_rifle_french_tabatiere_carbine_pl|Schneider-Tabatiere Carbine
+itm_rifle_french_tabatiere_carbine_m|Schneider-Tabatiere Carbine
+itm_rifle_french_tabatiere_carbine_m_pl|Schneider-Tabatiere Carbine
+itm_rifle_french_chassepot|Chassepot M1866 Rifle
+itm_rifle_french_chassepot_pl|Chassepot M1866 Rifle
+itm_rifle_french_chassepot_m|Chassepot M1866 Rifle
+itm_rifle_french_chassepot_m_pl|Chassepot M1866 Rifle
+itm_rifle_french_chassepot_carbine|Chassepot M1866 Carbine
+itm_rifle_french_chassepot_carbine_pl|Chassepot M1866 Carbine
+itm_rifle_french_chassepot_carbine_m|Chassepot M1866 Carbine
+itm_rifle_french_chassepot_carbine_m_pl|Chassepot M1866 Carbine
+itm_rifle_french_lebel|Lebel M1886 Rifle
+itm_rifle_french_lebel_pl|Lebel M1886 Rifle
+itm_rifle_french_lebel_m|Lebel M1886 Rifle
+itm_rifle_french_lebel_m_pl|Lebel M1886 Rifle
+itm_rifle_french_lebel_carbine|Lebel M1886 Carbine
+itm_rifle_french_lebel_carbine_pl|Lebel M1886 Carbine
+itm_rifle_french_lebel_carbine_m|Lebel M1886 Carbine
+itm_rifle_french_lebel_carbine_m_pl|Lebel M1886 Carbine
+itm_sidearm_colt_m1860|Colt M1860 Army
+itm_sidearm_colt_m1860_pl|Colt M1860 Army
+itm_rifle_winchester_m1866|Winchester M1866 Rifle
+itm_rifle_winchester_m1866_pl|Winchester M1866 Rifle
+itm_rifle_winchester_m1866_m|Winchester M1866 Rifle
+itm_rifle_winchester_m1866_m_pl|Winchester M1866 Rifle
+itm_rifle_winchester_m1873|Winchester M1873 Rifle
+itm_rifle_winchester_m1873_pl|Winchester M1873 Rifle
+itm_rifle_winchester_m1873_m|Winchester M1873 Rifle
+itm_rifle_winchester_m1873_m_pl|Winchester M1873 Rifle
+itm_rifle_winchester_m1876|Winchester M1876 Rifle
+itm_rifle_winchester_m1876_pl|Winchester M1876 Rifle
+itm_rifle_winchester_m1876_m|Winchester M1876 Rifle
+itm_rifle_winchester_m1876_m_pl|Winchester M1876 Rifle
+itm_rifle_winchester_m1886|Winchester M1886 Rifle
+itm_rifle_winchester_m1886_pl|Winchester M1886 Rifle
+itm_rifle_winchester_m1886_m|Winchester M1886 Rifle
+itm_rifle_winchester_m1886_m_pl|Winchester M1886 Rifle
+itm_rifle_winchester_m1892|Winchester M1892 Rifle
+itm_rifle_winchester_m1892_pl|Winchester M1892 Rifle
+itm_rifle_winchester_m1892_m|Winchester M1892 Rifle
+itm_rifle_winchester_m1892_m_pl|Winchester M1892 Rifle
+itm_rifle_winchester_m1894|Winchester M1894 Rifle
+itm_rifle_winchester_m1894_pl|Winchester M1894 Rifle
+itm_rifle_winchester_m1894_m|Winchester M1894 Rifle
+itm_rifle_winchester_m1894_m_pl|Winchester M1894 Rifle
+itm_rifle_winchester_m1895|Winchester M1895 Rifle
+itm_rifle_winchester_m1895_pl|Winchester M1895 Rifle
+itm_rifle_winchester_m1895_m|Winchester M1895 Rifle
+itm_rifle_winchester_m1895_m_pl|Winchester M1895 Rifle
+itm_rifle_winchester_lee|M1895 Lee Navy Rifle
+itm_rifle_winchester_lee_pl|M1895 Lee Navy Rifle
+itm_rifle_winchester_lee_m|M1895 Lee Navy Rifle
+itm_rifle_winchester_lee_m_pl|M1895 Lee Navy Rifle
+itm_flagbearer_flag|National Flag
+itm_flagbearer_flag_pl|National Flag
+itm_baf_infantry1|British Military Uniform
+itm_baf_infantry1_pl|British Military Uniform
+itm_baf_infantry2|British Military Uniform
+itm_baf_infantry2_pl|British Military Uniform
+itm_baf_infantry3|British Military Uniform
+itm_baf_infantry3_pl|British Military Uniform
+itm_baf_infantry4|British Military Uniform
+itm_baf_infantry4_pl|British Military Uniform
+itm_baf_infantry5|British Military Uniform
+itm_baf_infantry5_pl|British Military Uniform
+itm_baf_infantry6|British Military Uniform
+itm_baf_infantry6_pl|British Military Uniform
+itm_baf_infantry6b|British Military Uniform
+itm_baf_infantry6b_pl|British Military Uniform
+itm_baf_infantry7|British Military Uniform
+itm_baf_infantry7_pl|British Military Uniform
+itm_baf_infantry8|British Military Uniform
+itm_baf_infantry8_pl|British Military Uniform
+itm_baf_infantry9|British Military Uniform
+itm_baf_infantry9_pl|British Military Uniform
+itm_baf_infantry10|British Military Uniform
+itm_baf_infantry10_pl|British Military Uniform
+itm_baf_infantry11|British Military Uniform
+itm_baf_infantry11_pl|British Military Uniform
+itm_baf_infantry12|British Military Uniform
+itm_baf_infantry12_pl|British Military Uniform
+itm_baf_infantry13|British Military Uniform
+itm_baf_infantry13_pl|British Military Uniform
+itm_baf_infantry14|British Military Uniform
+itm_baf_infantry14_pl|British Military Uniform
+itm_baf_infantry15|British Military Uniform
+itm_baf_infantry15_pl|British Military Uniform
+itm_baf_cavalry1|British Military Uniform
+itm_baf_cavalry1_pl|British Military Uniform
+itm_baf_cavalry2|British Military Uniform
+itm_baf_cavalry2_pl|British Military Uniform
+itm_baf_trousers1|British Military Trousers
+itm_baf_trousers1_pl|British Military Trousers
+itm_baf_trousers2|British Military Trousers
+itm_baf_trousers2_pl|British Military Trousers
+itm_baf_trousers3|British Military Trousers
+itm_baf_trousers3_pl|British Military Trousers
+itm_baf_trousers4|Skirt
+itm_baf_trousers4_pl|Skirt
+itm_baf_trousers5|British Military Trousers
+itm_baf_trousers5_pl|British Military Trousers
+itm_baf_trousers6|British Military Trousers
+itm_baf_trousers6_pl|British Military Trousers
+itm_baf_trousers7|British Military Trousers
+itm_baf_trousers7_pl|British Military Trousers
+itm_baf_trousers8|British Military Trousers
+itm_baf_trousers8_pl|British Military Trousers
+itm_baf_trousers9|British Military Trousers
+itm_baf_trousers9_pl|British Military Trousers
+itm_baf_hat1|British Service Kepi
+itm_baf_hat1_pl|British Service Kepi
+itm_baf_hat2|British Service Kepi
+itm_baf_hat2_pl|British Service Kepi
+itm_baf_hat3|British Service Kepi
+itm_baf_hat3_pl|British Service Kepi
+itm_baf_hat4|British Dragoon's Helmet
+itm_baf_hat4_pl|British Dragoon's Helmet
+itm_baf_hat5|British Uhlan's Helmet
+itm_baf_hat5_pl|British Uhlan's Helmet
+itm_baf_hat6|British Shako
+itm_baf_hat6_pl|British Shako
+itm_baf_hat7|British Service Kepi
+itm_baf_hat7_pl|British Service Kepi
+itm_baf_hat8|Pith Helmet
+itm_baf_hat8_pl|Pith Helmet
+itm_baf_hat9|Pith Helmet
+itm_baf_hat9_pl|Pith Helmet
+itm_baf_hat10|Pith Helmet
+itm_baf_hat10_pl|Pith Helmet
+itm_baf_hat11|Diggers Hat
+itm_baf_hat11_pl|Diggers Hat
+itm_baf_hat12|British Service Hat
+itm_baf_hat12_pl|British Service Hat
+itm_baf_hat13|British Service Hat
+itm_baf_hat13_pl|British Service Hat
+itm_baf_hat14|British Helmet
+itm_baf_hat14_pl|British Helmet
+itm_baf_hat15|British Helmet
+itm_baf_hat15_pl|British Helmet
+itm_baf_hat16|British Helmet
+itm_baf_hat16_pl|British Helmet
+itm_baf_hat17|British Helmet
+itm_baf_hat17_pl|British Helmet
+itm_baf_hat17b|British Helmet
+itm_baf_hat17b_pl|British Helmet
+itm_baf_hat18|British Helmet
+itm_baf_hat18_pl|British Helmet
+itm_cavalry_gloves1|Gloves
+itm_cavalry_gloves1_pl|Gloves
+itm_shotgun_caplock|Double-Barrel Caplock Shotgun
+itm_shotgun_caplock_pl|Double-Barrel Caplock Shotgun
+itm_shotgun_caplock_m|Double-Barrel Caplock Shotgun
+itm_shotgun_caplock_m_pl|Double-Barrel Caplock Shotgun
+itm_shotgun_doublebarrel|Double-Barrel Shotgun
+itm_shotgun_doublebarrel_pl|Double-Barrel Shotgun
+itm_shotgun_doublebarrel_m|Double-Barrel Shotgun
+itm_shotgun_doublebarrel_m_pl|Double-Barrel Shotgun
+itm_shotgun_doublebarrel_short|Shortened Double-Barrel Shotgun
+itm_shotgun_doublebarrel_short_pl|Shortened Double-Barrel Shotgun
+itm_shotgun_doublebarrel_short_m|Shortened Double-Barrel Shotgun
+itm_shotgun_doublebarrel_short_m_pl|Shortened Double-Barrel Shotgun
+itm_shotgun_winchester_m1887|Winchester M1887
+itm_shotgun_winchester_m1887_pl|Winchester M1887
+itm_shotgun_winchester_m1887_m|Winchester M1887
+itm_shotgun_winchester_m1887_m_pl|Winchester M1887
+itm_shotgun_greener|Greener Shotgun
+itm_shotgun_greener_pl|Greener Shotgun
+itm_shotgun_greener_m|Greener Shotgun
+itm_shotgun_greener_m_pl|Greener Shotgun
+itm_urban_dress1_trousers|Skirt
+itm_urban_dress1_trousers_pl|Skirt
+itm_hat_afab1|Hat
+itm_hat_afab1_pl|Hat
+itm_edt_infantry1|Spanish Military Uniform
+itm_edt_infantry1_pl|Spanish Military Uniform
+itm_edt_infantry2|Spanish Military Uniform
+itm_edt_infantry2_pl|Spanish Military Uniform
+itm_edt_infantry3|Spanish Military Uniform
+itm_edt_infantry3_pl|Spanish Military Uniform
+itm_edt_infantry4|Spanish Military Uniform
+itm_edt_infantry4_pl|Spanish Military Uniform
+itm_edt_infantry5|Spanish Military Uniform
+itm_edt_infantry5_pl|Spanish Military Uniform
+itm_edt_infantry6|Spanish Military Uniform
+itm_edt_infantry6_pl|Spanish Military Uniform
+itm_edt_cavalry1|Spanish Military Uniform
+itm_edt_cavalry1_pl|Spanish Military Uniform
+itm_edt_cavalry2|Spanish Military Uniform
+itm_edt_cavalry2_pl|Spanish Military Uniform
+itm_edt_cavalry3|Spanish Military Uniform
+itm_edt_cavalry3_pl|Spanish Military Uniform
+itm_edt_cavalry4|Spanish Military Uniform
+itm_edt_cavalry4_pl|Spanish Military Uniform
+itm_edt_trousers1|Spanish Military Trousers
+itm_edt_trousers1_pl|Spanish Military Trousers
+itm_edt_trousers2|Spanish Military Trousers
+itm_edt_trousers2_pl|Spanish Military Trousers
+itm_edt_trousers3|Spanish Military Trousers
+itm_edt_trousers3_pl|Spanish Military Trousers
+itm_edt_trousers4|Spanish Military Trousers
+itm_edt_trousers4_pl|Spanish Military Trousers
+itm_edt_trousers5|Spanish Military Trousers
+itm_edt_trousers5_pl|Spanish Military Trousers
+itm_edt_trousers6|Spanish Military Trousers
+itm_edt_trousers6_pl|Spanish Military Trousers
+itm_edt_trousers7|Spanish Military Trousers
+itm_edt_trousers7_pl|Spanish Military Trousers
+itm_edt_trousers8|Spanish Military Trousers
+itm_edt_trousers8_pl|Spanish Military Trousers
+itm_edt_hat1|Spanish Shako
+itm_edt_hat1_pl|Spanish Shako
+itm_edt_hat2|Spanish Shako
+itm_edt_hat2_pl|Spanish Shako
+itm_edt_hat3|Spanish Shako
+itm_edt_hat3_pl|Spanish Shako
+itm_edt_hat4|Spanish Shako
+itm_edt_hat4_pl|Spanish Shako
+itm_edt_hat5|Spanish Shako
+itm_edt_hat5_pl|Spanish Shako
+itm_edt_hat6|Spanish Shako
+itm_edt_hat6_pl|Spanish Shako
+itm_edt_hat7|Spanish Shako
+itm_edt_hat7_pl|Spanish Shako
+itm_edt_hat8|Spanish Shako
+itm_edt_hat8_pl|Spanish Shako
+itm_rifle_spanish_m1859|Spanish Pattern 1859 Musket
+itm_rifle_spanish_m1859_pl|Spanish Pattern 1859 Musket
+itm_rifle_spanish_m1859_m|Spanish Pattern 1859 Musket
+itm_rifle_spanish_m1859_m_pl|Spanish Pattern 1859 Musket
+itm_rifle_spanish_m1859_carbine|Spanish Pattern 1859 Carbine
+itm_rifle_spanish_m1859_carbine_pl|Spanish Pattern 1859 Carbine
+itm_rifle_spanish_m1859_carbine_m|Spanish Pattern 1859 Carbine
+itm_rifle_spanish_m1859_carbine_m_pl|Spanish Pattern 1859 Carbine
+itm_rifle_spanish_m1865|Spanish Pattern 1865 Rifle
+itm_rifle_spanish_m1865_pl|Spanish Pattern 1865 Rifle
+itm_rifle_spanish_m1865_m|Spanish Pattern 1865 Rifle
+itm_rifle_spanish_m1865_m_pl|Spanish Pattern 1865 Rifle
+itm_rifle_spanish_m1865_carbine|Spanish Pattern 1865 Carbine
+itm_rifle_spanish_m1865_carbine_pl|Spanish Pattern 1865 Carbine
+itm_rifle_spanish_m1865_carbine_m|Spanish Pattern 1865 Carbine
+itm_rifle_spanish_m1865_carbine_m_pl|Spanish Pattern 1865 Carbine
+itm_rifle_rollingblock|Remington Rolling Block Rifle
+itm_rifle_rollingblock_pl|Remington Rolling Block Rifle
+itm_rifle_rollingblock_m|Remington Rolling Block Rifle
+itm_rifle_rollingblock_m_pl|Remington Rolling Block Rifle
+itm_rifle_rollingblock_carbine|Remington Rolling Block Carbine
+itm_rifle_rollingblock_carbine_pl|Remington Rolling Block Carbine
+itm_rifle_rollingblock_carbine_m|Remington Rolling Block Carbine
+itm_rifle_rollingblock_carbine_m_pl|Remington Rolling Block Carbine
+itm_rifle_spanish_mauser|Mauser M1893 Rifle
+itm_rifle_spanish_mauser_pl|Mauser M1893 Rifle
+itm_rifle_spanish_mauser_m|Mauser M1893 Rifle
+itm_rifle_spanish_mauser_m_pl|Mauser M1893 Rifle
+itm_rifle_spanish_mauser_carbine|Mauser M1893 Carbine
+itm_rifle_spanish_mauser_carbine_pl|Mauser M1893 Carbine
+itm_rifle_spanish_mauser_carbine_m|Mauser M1893 Carbine
+itm_rifle_spanish_mauser_carbine_m_pl|Mauser M1893 Carbine
+itm_far_infantry1|Romanian Military Uniform
+itm_far_infantry1_pl|Romanian Military Uniform
+itm_far_infantry2|Romanian Military Uniform
+itm_far_infantry2_pl|Romanian Military Uniform
+itm_far_infantry3|Romanian Military Uniform
+itm_far_infantry3_pl|Romanian Military Uniform
+itm_far_infantry4|Romanian Military Uniform
+itm_far_infantry4_pl|Romanian Military Uniform
+itm_far_infantry5|Romanian Military Uniform
+itm_far_infantry5_pl|Romanian Military Uniform
+itm_far_infantry6|Romanian Military Uniform
+itm_far_infantry6_pl|Romanian Military Uniform
+itm_far_infantry7|Romanian Military Uniform
+itm_far_infantry7_pl|Romanian Military Uniform
+itm_far_infantry8|Romanian Military Uniform
+itm_far_infantry8_pl|Romanian Military Uniform
+itm_far_infantry9|Romanian Military Uniform
+itm_far_infantry9_pl|Romanian Military Uniform
+itm_far_infantry10|Romanian Military Uniform
+itm_far_infantry10_pl|Romanian Military Uniform
+itm_far_infantry11|Romanian Military Uniform
+itm_far_infantry11_pl|Romanian Military Uniform
+itm_far_cavalry1|Romanian Military Uniform
+itm_far_cavalry1_pl|Romanian Military Uniform
+itm_far_cavalry2|Romanian Military Uniform
+itm_far_cavalry2_pl|Romanian Military Uniform
+itm_far_trousers1|Romanian Military Trousers
+itm_far_trousers1_pl|Romanian Military Trousers
+itm_far_trousers2|Romanian Military Trousers
+itm_far_trousers2_pl|Romanian Military Trousers
+itm_far_trousers3|Romanian Military Trousers
+itm_far_trousers3_pl|Romanian Military Trousers
+itm_far_trousers4|Romanian Military Trousers
+itm_far_trousers4_pl|Romanian Military Trousers
+itm_far_trousers5|Romanian Military Trousers
+itm_far_trousers5_pl|Romanian Military Trousers
+itm_far_hat1|Romanian Shako
+itm_far_hat1_pl|Romanian Shako
+itm_far_hat2|Romanian Shako
+itm_far_hat2_pl|Romanian Shako
+itm_far_hat3|Romanian Shako
+itm_far_hat3_pl|Romanian Shako
+itm_far_hat4|Romanian Shako
+itm_far_hat4_pl|Romanian Shako
+itm_far_hat5|Romanian Shako
+itm_far_hat5_pl|Romanian Shako
+itm_far_hat6|Romanian Shako
+itm_far_hat6_pl|Romanian Shako
+itm_far_hat7|Romanian Hat
+itm_far_hat7_pl|Romanian Hat
+itm_far_hat8|Romanian Hat
+itm_far_hat8_pl|Romanian Hat
+itm_far_hat9|Romanian Helmet
+itm_far_hat9_pl|Romanian Helmet
+itm_sta_infantry1|Dutch Military Uniform
+itm_sta_infantry1_pl|Dutch Military Uniform
+itm_sta_infantry2|Dutch Military Uniform
+itm_sta_infantry2_pl|Dutch Military Uniform
+itm_sta_infantry3|Dutch Military Uniform
+itm_sta_infantry3_pl|Dutch Military Uniform
+itm_sta_infantry4|Dutch Military Uniform
+itm_sta_infantry4_pl|Dutch Military Uniform
+itm_sta_infantry5|Dutch Military Uniform
+itm_sta_infantry5_pl|Dutch Military Uniform
+itm_sta_infantry6|Dutch Military Uniform
+itm_sta_infantry6_pl|Dutch Military Uniform
+itm_sta_infantry7|Dutch Military Uniform
+itm_sta_infantry7_pl|Dutch Military Uniform
+itm_sta_infantry8|Dutch Military Uniform
+itm_sta_infantry8_pl|Dutch Military Uniform
+itm_sta_infantry9|Dutch Military Uniform
+itm_sta_infantry9_pl|Dutch Military Uniform
+itm_sta_infantry10|Dutch Military Uniform
+itm_sta_infantry10_pl|Dutch Military Uniform
+itm_sta_infantry11|Dutch Military Uniform
+itm_sta_infantry11_pl|Dutch Military Uniform
+itm_sta_infantry12|Dutch Military Uniform
+itm_sta_infantry12_pl|Dutch Military Uniform
+itm_sta_infantry13|Dutch Military Uniform
+itm_sta_infantry13_pl|Dutch Military Uniform
+itm_sta_infantry14|Dutch Military Uniform
+itm_sta_infantry14_pl|Dutch Military Uniform
+itm_sta_infantry15|Dutch Military Uniform
+itm_sta_infantry15_pl|Dutch Military Uniform
+itm_sta_infantry16|Dutch Military Uniform
+itm_sta_infantry16_pl|Dutch Military Uniform
+itm_sta_cavalry1|Dutch Military Uniform
+itm_sta_cavalry1_pl|Dutch Military Uniform
+itm_sta_cavalry2|Dutch Military Uniform
+itm_sta_cavalry2_pl|Dutch Military Uniform
+itm_sta_trousers1|Dutch Military Trousers
+itm_sta_trousers1_pl|Dutch Military Trousers
+itm_sta_trousers2|Dutch Military Trousers
+itm_sta_trousers2_pl|Dutch Military Trousers
+itm_sta_trousers3|Dutch Military Trousers
+itm_sta_trousers3_pl|Dutch Military Trousers
+itm_sta_trousers4|Dutch Military Trousers
+itm_sta_trousers4_pl|Dutch Military Trousers
+itm_sta_trousers5|Dutch Military Trousers
+itm_sta_trousers5_pl|Dutch Military Trousers
+itm_sta_trousers6|Dutch Military Trousers
+itm_sta_trousers6_pl|Dutch Military Trousers
+itm_sta_trousers7|Dutch Military Trousers
+itm_sta_trousers7_pl|Dutch Military Trousers
+itm_sta_hat1|Dutch Shako
+itm_sta_hat1_pl|Dutch Shako
+itm_sta_hat2|Dutch Shako
+itm_sta_hat2_pl|Dutch Shako
+itm_sta_hat3|Dutch Hat
+itm_sta_hat3_pl|Dutch Hat
+itm_sta_hat4|Dutch Hat
+itm_sta_hat4_pl|Dutch Hat
+itm_sta_hat5|Dutch Hat
+itm_sta_hat5_pl|Dutch Hat
+itm_sta_hat6|Dutch Hat
+itm_sta_hat6_pl|Dutch Hat
+itm_sta_hat7|Dutch Helmet
+itm_sta_hat7_pl|Dutch Helmet
+itm_sta_hat8|Dutch Helmet
+itm_sta_hat8_pl|Dutch Helmet
+itm_sta_hat9|Dutch Helmet
+itm_sta_hat9_pl|Dutch Helmet
+itm_def_infantry1|Belgian Military Uniform
+itm_def_infantry1_pl|Belgian Military Uniform
+itm_def_infantry2|Belgian Military Uniform
+itm_def_infantry2_pl|Belgian Military Uniform
+itm_def_infantry3|Belgian Military Uniform
+itm_def_infantry3_pl|Belgian Military Uniform
+itm_def_infantry4|Belgian Military Uniform
+itm_def_infantry4_pl|Belgian Military Uniform
+itm_def_infantry5|Belgian Military Uniform
+itm_def_infantry5_pl|Belgian Military Uniform
+itm_def_infantry6|Belgian Military Uniform
+itm_def_infantry6_pl|Belgian Military Uniform
+itm_def_infantry7|Belgian Military Uniform
+itm_def_infantry7_pl|Belgian Military Uniform
+itm_def_infantry8|Belgian Military Uniform
+itm_def_infantry8_pl|Belgian Military Uniform
+itm_def_cavalry1|Belgian Military Uniform
+itm_def_cavalry1_pl|Belgian Military Uniform
+itm_def_cavalry2|Belgian Military Uniform
+itm_def_cavalry2_pl|Belgian Military Uniform
+itm_def_trousers1|Belgian Military Trousers
+itm_def_trousers1_pl|Belgian Military Trousers
+itm_def_trousers2|Belgian Military Trousers
+itm_def_trousers2_pl|Belgian Military Trousers
+itm_def_trousers3|Belgian Military Trousers
+itm_def_trousers3_pl|Belgian Military Trousers
+itm_def_trousers4|Belgian Military Trousers
+itm_def_trousers4_pl|Belgian Military Trousers
+itm_def_trousers5|Belgian Military Trousers
+itm_def_trousers5_pl|Belgian Military Trousers
+itm_def_hat1|Belgian Shako
+itm_def_hat1_pl|Belgian Shako
+itm_def_hat2|Belgian Shako
+itm_def_hat2_pl|Belgian Shako
+itm_def_hat3|Belgian Hat
+itm_def_hat3_pl|Belgian Hat
+itm_def_hat4|Belgian Hat
+itm_def_hat4_pl|Belgian Hat
+itm_def_hat5|Belgian Hat
+itm_def_hat5_pl|Belgian Hat
+itm_def_hat6|Belgian Hat
+itm_def_hat6_pl|Belgian Hat
+itm_def_hat7|Belgian Hat
+itm_def_hat7_pl|Belgian Hat
+itm_def_hat8|Belgian Hat
+itm_def_hat8_pl|Belgian Hat
+itm_def_hat9|Belgian Hat
+itm_def_hat9_pl|Belgian Hat
+itm_saber2|British Pattern 1821 Light Cavalry Sword
+itm_saber2_pl|British Pattern 1821 Light Cavalry Sword
+itm_saber3|British Pattern 1864 Trooper Sword
+itm_saber3_pl|British Pattern 1864 Trooper Sword
+itm_sar_infantry1|Swiss Military Uniform
+itm_sar_infantry1_pl|Swiss Military Uniform
+itm_sar_infantry2|Swiss Military Uniform
+itm_sar_infantry2_pl|Swiss Military Uniform
+itm_sar_infantry3|Swiss Military Uniform
+itm_sar_infantry3_pl|Swiss Military Uniform
+itm_sar_infantry4|Swiss Military Uniform
+itm_sar_infantry4_pl|Swiss Military Uniform
+itm_sar_trousers1|Swiss Military Trousers
+itm_sar_trousers1_pl|Swiss Military Trousers
+itm_sar_trousers2|Swiss Military Trousers
+itm_sar_trousers2_pl|Swiss Military Trousers
+itm_sar_hat1|Swiss Shako
+itm_sar_hat1_pl|Swiss Shako
+itm_sar_hat2|Swiss Shako
+itm_sar_hat2_pl|Swiss Shako
+itm_rifle_swiss_m1842|Swiss Smoothbore Musket
+itm_rifle_swiss_m1842_pl|Swiss Smoothbore Musket
+itm_rifle_swiss_m1842_m|Swiss Smoothbore Musket
+itm_rifle_swiss_m1842_m_pl|Swiss Smoothbore Musket
+itm_rifle_swiss_m1842_carbine|Swiss Smoothbore Carbine
+itm_rifle_swiss_m1842_carbine_pl|Swiss Smoothbore Carbine
+itm_rifle_swiss_m1842_carbine_m|Swiss Smoothbore Carbine
+itm_rifle_swiss_m1842_carbine_m_pl|Swiss Smoothbore Carbine
+itm_rifle_swiss_vetterli|Vetterli M1869 Rifle
+itm_rifle_swiss_vetterli_pl|Vetterli M1869 Rifle
+itm_rifle_swiss_vetterli_m|Vetterli M1869 Rifle
+itm_rifle_swiss_vetterli_m_pl|Vetterli M1869 Rifle
+itm_rifle_swiss_vetterli_carbine|Vetterli M1869 Carbine
+itm_rifle_swiss_vetterli_carbine_pl|Vetterli M1869 Carbine
+itm_rifle_swiss_vetterli_carbine_m|Vetterli M1869 Carbine
+itm_rifle_swiss_vetterli_carbine_m_pl|Vetterli M1869 Carbine
+itm_esp_infantry1|Papal States' Military Uniform
+itm_esp_infantry1_pl|Papal States' Military Uniform
+itm_esp_infantry2|Papal States' Military Uniform
+itm_esp_infantry2_pl|Papal States' Military Uniform
+itm_esp_infantry3|Papal States' Military Uniform
+itm_esp_infantry3_pl|Papal States' Military Uniform
+itm_esp_cavalry1|Papal States' Military Uniform
+itm_esp_cavalry1_pl|Papal States' Military Uniform
+itm_esp_cavalry2|Papal States' Military Uniform
+itm_esp_cavalry2_pl|Papal States' Military Uniform
+itm_esp_trousers1|Papal States' Military Trousers
+itm_esp_trousers1_pl|Papal States' Military Trousers
+itm_esp_trousers2|Papal States' Military Trousers
+itm_esp_trousers2_pl|Papal States' Military Trousers
+itm_esp_trousers3|Papal States' Military Trousers
+itm_esp_trousers3_pl|Papal States' Military Trousers
+itm_esp_trousers4|Papal States' Military Trousers
+itm_esp_trousers4_pl|Papal States' Military Trousers
+itm_esp_trousers5|Papal States' Military Trousers
+itm_esp_trousers5_pl|Papal States' Military Trousers
+itm_esp_hat1|Papal States' Shako
+itm_esp_hat1_pl|Papal States' Shako
+itm_esp_hat2|Papal States' Shako
+itm_esp_hat2_pl|Papal States' Shako
+itm_esp_hat3|Papal States' Shako
+itm_esp_hat3_pl|Papal States' Shako
+itm_exp_infantry1|Portuguese Military Uniform
+itm_exp_infantry1_pl|Portuguese Military Uniform
+itm_exp_infantry2|Portuguese Military Uniform
+itm_exp_infantry2_pl|Portuguese Military Uniform
+itm_exp_infantry3|Portuguese Military Uniform
+itm_exp_infantry3_pl|Portuguese Military Uniform
+itm_exp_infantry4|Portuguese Military Uniform
+itm_exp_infantry4_pl|Portuguese Military Uniform
+itm_exp_infantry5|Portuguese Military Uniform
+itm_exp_infantry5_pl|Portuguese Military Uniform
+itm_exp_infantry6|Portuguese Military Uniform
+itm_exp_infantry6_pl|Portuguese Military Uniform
+itm_exp_infantry7|Portuguese Military Uniform
+itm_exp_infantry7_pl|Portuguese Military Uniform
+itm_exp_infantry8|Portuguese Military Uniform
+itm_exp_infantry8_pl|Portuguese Military Uniform
+itm_exp_cavalry1|Portuguese Military Uniform
+itm_exp_cavalry1_pl|Portuguese Military Uniform
+itm_exp_cavalry2|Portuguese Military Uniform
+itm_exp_cavalry2_pl|Portuguese Military Uniform
+itm_exp_trousers1|Portuguese Military Trousers
+itm_exp_trousers1_pl|Portuguese Military Trousers
+itm_exp_trousers2|Portuguese Military Trousers
+itm_exp_trousers2_pl|Portuguese Military Trousers
+itm_exp_trousers3|Portuguese Military Trousers
+itm_exp_trousers3_pl|Portuguese Military Trousers
+itm_exp_trousers4|Portuguese Military Trousers
+itm_exp_trousers4_pl|Portuguese Military Trousers
+itm_exp_hat1|Portuguese Shako
+itm_exp_hat1_pl|Portuguese Shako
+itm_exp_hat2|Portuguese Shako
+itm_exp_hat2_pl|Portuguese Shako
+itm_exp_hat3|Portuguese Shako
+itm_exp_hat3_pl|Portuguese Shako
+itm_exp_hat4|Portuguese Shako
+itm_exp_hat4_pl|Portuguese Shako
+itm_exp_hat5|Portuguese Shako
+itm_exp_hat5_pl|Portuguese Shako
+itm_exp_hat6|Portuguese Shako
+itm_exp_hat6_pl|Portuguese Shako
+itm_rifle_kropatschek|Kropatschek Rifle
+itm_rifle_kropatschek_pl|Kropatschek Rifle
+itm_rifle_kropatschek_m|Kropatschek Rifle
+itm_rifle_kropatschek_m_pl|Kropatschek Rifle
+itm_rifle_kropatschek_carbine|Kropatschek Carbine
+itm_rifle_kropatschek_carbine_pl|Kropatschek Carbine
+itm_rifle_kropatschek_carbine_m|Kropatschek Carbine
+itm_rifle_kropatschek_carbine_m_pl|Kropatschek Carbine
+itm_rifle_guedes|Guedes Rifle
+itm_rifle_guedes_pl|Guedes Rifle
+itm_rifle_guedes_m|Guedes Rifle
+itm_rifle_guedes_m_pl|Guedes Rifle
+itm_rifle_guedes_carbine|Guedes Rifle
+itm_rifle_guedes_carbine_pl|Guedes Rifle
+itm_rifle_guedes_carbine_m|Guedes Rifle
+itm_rifle_guedes_carbine_m_pl|Guedes Rifle
+itm_els_infantry1|Greek Military Uniform
+itm_els_infantry1_pl|Greek Military Uniform
+itm_els_infantry2|Greek Military Uniform
+itm_els_infantry2_pl|Greek Military Uniform
+itm_els_infantry3|Greek Military Uniform
+itm_els_infantry3_pl|Greek Military Uniform
+itm_els_infantry4|Greek Military Uniform
+itm_els_infantry4_pl|Greek Military Uniform
+itm_els_infantry5|Greek Military Uniform
+itm_els_infantry5_pl|Greek Military Uniform
+itm_els_infantry6|Greek Military Uniform
+itm_els_infantry6_pl|Greek Military Uniform
+itm_els_cavalry1|Greek Military Uniform
+itm_els_cavalry1_pl|Greek Military Uniform
+itm_els_cavalry2|Greek Military Uniform
+itm_els_cavalry2_pl|Greek Military Uniform
+itm_els_trousers1|Greek Military Trousers
+itm_els_trousers1_pl|Greek Military Trousers
+itm_els_trousers2|Greek Military Trousers
+itm_els_trousers2_pl|Greek Military Trousers
+itm_els_trousers3|Greek Military Trousers
+itm_els_trousers3_pl|Greek Military Trousers
+itm_els_trousers4|Greek Military Trousers
+itm_els_trousers4_pl|Greek Military Trousers
+itm_els_trousers5|Greek Military Trousers
+itm_els_trousers5_pl|Greek Military Trousers
+itm_els_trousers6|Greek Military Trousers
+itm_els_trousers6_pl|Greek Military Trousers
+itm_els_hat1|Greek Shako
+itm_els_hat1_pl|Greek Shako
+itm_els_hat2a|Greek Shako
+itm_els_hat2a_pl|Greek Shako
+itm_els_hat2b|Greek Shako
+itm_els_hat2b_pl|Greek Shako
+itm_els_hat2c|Greek Shako
+itm_els_hat2c_pl|Greek Shako
+itm_els_hat3|Greek Shako
+itm_els_hat3_pl|Greek Shako
+itm_els_hat4|Greek Shako
+itm_els_hat4_pl|Greek Shako
+itm_els_hat5|Greek Shako
+itm_els_hat5_pl|Greek Shako
+itm_els_hat6|Greek Shako
+itm_els_hat6_pl|Greek Shako
+itm_els_hat7|Greek Hat
+itm_els_hat7_pl|Greek Hat
+itm_rifle_gras|Fusil Gras M1874
+itm_rifle_gras_pl|Fusil Gras M1874
+itm_rifle_gras_m|Fusil Gras M1874
+itm_rifle_gras_m_pl|Fusil Gras M1874
+itm_rifle_gras_carbine|Fusil Gras M1874 Carbine
+itm_rifle_gras_carbine_pl|Fusil Gras M1874 Carbine
+itm_rifle_gras_carbine_m|Fusil Gras M1874 Carbine
+itm_rifle_gras_carbine_m_pl|Fusil Gras M1874 Carbine
+itm_rifle_dutch_smoothbore|Dutch M1815 Musket
+itm_rifle_dutch_smoothbore_pl|Dutch M1815 Musket
+itm_rifle_dutch_smoothbore_m|Dutch M1815 Musket
+itm_rifle_dutch_smoothbore_m_pl|Dutch M1815 Musket
+itm_rifle_dutch_smoothbore_carbine|Dutch M1815 Carbine
+itm_rifle_dutch_smoothbore_carbine_pl|Dutch M1815 Carbine
+itm_rifle_dutch_smoothbore_carbine_m|Dutch M1815 Carbine
+itm_rifle_dutch_smoothbore_carbine_m_pl|Dutch M1815 Carbine
+itm_rifle_belgian_smoothbore|Belgian M1842 Musket
+itm_rifle_belgian_smoothbore_pl|Belgian M1842 Musket
+itm_rifle_belgian_smoothbore_m|Belgian M1842 Musket
+itm_rifle_belgian_smoothbore_m_pl|Belgian M1842 Musket
+itm_rifle_belgian_smoothbore_carbine|Belgian M1842 Carbine
+itm_rifle_belgian_smoothbore_carbine_pl|Belgian M1842 Carbine
+itm_rifle_belgian_smoothbore_carbine_m|Belgian M1842 Carbine
+itm_rifle_belgian_smoothbore_carbine_m_pl|Belgian M1842 Carbine
+itm_rifle_greek_smoothbore|Ktoros M1837 Musket
+itm_rifle_greek_smoothbore_pl|Ktoros M1837 Musket
+itm_rifle_greek_smoothbore_m|Ktoros M1837 Musket
+itm_rifle_greek_smoothbore_m_pl|Ktoros M1837 Musket
+itm_rifle_greek_smoothbore_carbine|Ktoros M1837 Carbine
+itm_rifle_greek_smoothbore_carbine_pl|Ktoros M1837 Carbine
+itm_rifle_greek_smoothbore_carbine_m|Ktoros M1837 Carbine
+itm_rifle_greek_smoothbore_carbine_m_pl|Ktoros M1837 Carbine
+itm_rifle_portuguese_smoothbore|Spanish M1752 Musket
+itm_rifle_portuguese_smoothbore_pl|Spanish M1752 Musket
+itm_rifle_portuguese_smoothbore_m|Spanish M1752 Musket
+itm_rifle_portuguese_smoothbore_m_pl|Spanish M1752 Musket
+itm_rifle_portuguese_smoothbore_carbine|Spanish M1752 Carbine
+itm_rifle_portuguese_smoothbore_carbine_pl|Spanish M1752 Carbine
+itm_rifle_portuguese_smoothbore_carbine_m|Spanish M1752 Carbine
+itm_rifle_portuguese_smoothbore_carbine_m_pl|Spanish M1752 Carbine
+itm_rifle_romanian_smoothbore|Charleville M1844 Musket
+itm_rifle_romanian_smoothbore_pl|Charleville M1844 Musket
+itm_rifle_romanian_smoothbore_m|Charleville M1844 Musket
+itm_rifle_romanian_smoothbore_m_pl|Charleville M1844 Musket
+itm_rifle_romanian_smoothbore_carbine|Charleville M1844 Carbine
+itm_rifle_romanian_smoothbore_carbine_pl|Charleville M1844 Carbine
+itm_rifle_romanian_smoothbore_carbine_m|Charleville M1844 Carbine
+itm_rifle_romanian_smoothbore_carbine_m_pl|Charleville M1844 Carbine
+itm_rifle_serbian_smoothbore|Charleville Musket
+itm_rifle_serbian_smoothbore_pl|Charleville Musket
+itm_rifle_serbian_smoothbore_m|Charleville Musket
+itm_rifle_serbian_smoothbore_m_pl|Charleville Musket
+itm_rifle_serbian_smoothbore_carbine|Charleville Carbine
+itm_rifle_serbian_smoothbore_carbine_pl|Charleville Carbine
+itm_rifle_serbian_smoothbore_carbine_m|Charleville Carbine
+itm_rifle_serbian_smoothbore_carbine_m_pl|Charleville Carbine
+itm_rifle_ottoman_smoothbore|Charleville M1844 Musket
+itm_rifle_ottoman_smoothbore_pl|Charleville M1844 Musket
+itm_rifle_ottoman_smoothbore_m|Charleville M1844 Musket
+itm_rifle_ottoman_smoothbore_m_pl|Charleville M1844 Musket
+itm_rifle_ottoman_smoothbore_carbine|Charleville M1844 Carbine
+itm_rifle_ottoman_smoothbore_carbine_pl|Charleville M1844 Carbine
+itm_rifle_ottoman_smoothbore_carbine_m|Charleville M1844 Carbine
+itm_rifle_ottoman_smoothbore_carbine_m_pl|Charleville M1844 Carbine
+itm_rifle_egyptian_smoothbore|Charleville M1844 Musket
+itm_rifle_egyptian_smoothbore_pl|Charleville M1844 Musket
+itm_rifle_egyptian_smoothbore_m|Charleville M1844 Musket
+itm_rifle_egyptian_smoothbore_m_pl|Charleville M1844 Musket
+itm_rifle_egyptian_smoothbore_carbine|Charleville M1844 Carbine
+itm_rifle_egyptian_smoothbore_carbine_pl|Charleville M1844 Carbine
+itm_rifle_egyptian_smoothbore_carbine_m|Charleville M1844 Carbine
+itm_rifle_egyptian_smoothbore_carbine_m_pl|Charleville M1844 Carbine
+itm_rifle_danish_smoothbore|Danish M1828/46 Musket
+itm_rifle_danish_smoothbore_pl|Danish M1828/46 Musket
+itm_rifle_danish_smoothbore_m|Danish M1828/46 Musket
+itm_rifle_danish_smoothbore_m_pl|Danish M1828/46 Musket
+itm_rifle_danish_smoothbore_carbine|Danish M1828/46 Carbine
+itm_rifle_danish_smoothbore_carbine_pl|Danish M1828/46 Carbine
+itm_rifle_danish_smoothbore_carbine_m|Danish M1828/46 Carbine
+itm_rifle_danish_smoothbore_carbine_m_pl|Danish M1828/46 Carbine
+itm_rifle_swedish_smoothbore|Swedish M1815/45 Musket
+itm_rifle_swedish_smoothbore_pl|Swedish M1815/45 Musket
+itm_rifle_swedish_smoothbore_m|Swedish M1815/45 Musket
+itm_rifle_swedish_smoothbore_m_pl|Swedish M1815/45 Musket
+itm_rifle_swedish_smoothbore_carbine|Swedish M1815/45 Carbine
+itm_rifle_swedish_smoothbore_carbine_pl|Swedish M1815/45 Carbine
+itm_rifle_swedish_smoothbore_carbine_m|Swedish M1815/45 Carbine
+itm_rifle_swedish_smoothbore_carbine_m_pl|Swedish M1815/45 Carbine
+itm_rifle_bavarian_smoothbore|Bavarian M1842 Musket
+itm_rifle_bavarian_smoothbore_pl|Bavarian M1842 Musket
+itm_rifle_bavarian_smoothbore_m|Bavarian M1842 Musket
+itm_rifle_bavarian_smoothbore_m_pl|Bavarian M1842 Musket
+itm_rifle_bavarian_smoothbore_carbine|Bavarian M1842 Carbine
+itm_rifle_bavarian_smoothbore_carbine_pl|Bavarian M1842 Carbine
+itm_rifle_bavarian_smoothbore_carbine_m|Bavarian M1842 Carbine
+itm_rifle_bavarian_smoothbore_carbine_m_pl|Bavarian M1842 Carbine
+itm_rifle_bulgarian_smoothbore|Papal M1777 Conversion Musket
+itm_rifle_bulgarian_smoothbore_pl|Papal M1777 Conversion Musket
+itm_rifle_bulgarian_smoothbore_m|Papal M1777 Conversion Musket
+itm_rifle_bulgarian_smoothbore_m_pl|Papal M1777 Conversion Musket
+itm_rifle_bulgarian_smoothbore_carbine|Papal M1777 Conversion Carbine
+itm_rifle_bulgarian_smoothbore_carbine_pl|Papal M1777 Conversion Carbine
+itm_rifle_bulgarian_smoothbore_carbine_m|Papal M1777 Conversion Carbine
+itm_rifle_bulgarian_smoothbore_carbine_m_pl|Papal M1777 Conversion Carbine
+itm_rifle_norwegian_smoothbore|Smoothbore Musket
+itm_rifle_norwegian_smoothbore_pl|Smoothbore Musket
+itm_rifle_norwegian_smoothbore_m|Smoothbore Carbine
+itm_rifle_norwegian_smoothbore_m_pl|Smoothbore Carbine
+itm_rifle_norwegian_smoothbore_carbine|Papal M1777 Conversion Carbine
+itm_rifle_norwegian_smoothbore_carbine_pl|Papal M1777 Conversion Carbine
+itm_rifle_norwegian_smoothbore_carbine_m|Papal M1777 Conversion Carbine
+itm_rifle_norwegian_smoothbore_carbine_m_pl|Papal M1777 Conversion Carbine
+itm_rifle_papal_smoothbore|Papal M1777 Conversion Musket
+itm_rifle_papal_smoothbore_pl|Papal M1777 Conversion Musket
+itm_rifle_papal_smoothbore_m|Papal M1777 Conversion Musket
+itm_rifle_papal_smoothbore_m_pl|Papal M1777 Conversion Musket
+itm_rifle_papal_smoothbore_carbine|Papal M1777 Conversion Carbine
+itm_rifle_papal_smoothbore_carbine_pl|Papal M1777 Conversion Carbine
+itm_rifle_papal_smoothbore_carbine_m|Papal M1777 Conversion Carbine
+itm_rifle_papal_smoothbore_carbine_m_pl|Papal M1777 Conversion Carbine
+itm_bkh_infantry1|Bukharan Military Clothes
+itm_bkh_infantry1_pl|Bukharan Military Clothes
+itm_bkh_infantry2|Bukharan Military Clothes
+itm_bkh_infantry2_pl|Bukharan Military Clothes
+itm_bkh_cavalry1|Bukharan Military Clothes
+itm_bkh_cavalry1_pl|Bukharan Military Clothes
+itm_bkh_cavalry2|Bukharan Military Clothes
+itm_bkh_cavalry2_pl|Bukharan Military Clothes
+itm_bkh_cavalry3|Bukharan Military Clothes
+itm_bkh_cavalry3_pl|Bukharan Military Clothes
+itm_bkh_cavalry4|Bukharan Military Clothes
+itm_bkh_cavalry4_pl|Bukharan Military Clothes
+itm_bkh_cavalry5|Bukharan Military Clothes
+itm_bkh_cavalry5_pl|Bukharan Military Clothes
+itm_bkh_cavalry6|Bukharan Military Clothes
+itm_bkh_cavalry6_pl|Bukharan Military Clothes
+itm_bkh_trousers1|Bukharan Military Trousers
+itm_bkh_trousers1_pl|Bukharan Military Trousers
+itm_bkh_trousers2|Bukharan Military Trousers
+itm_bkh_trousers2_pl|Bukharan Military Trousers
+itm_bkh_hat1|Bukharan Hat
+itm_bkh_hat1_pl|Bukharan Hat
+itm_khi_infantry1|Middle Asian Clothes
+itm_khi_infantry1_pl|Middle Asian Clothes
+itm_khi_infantry2|Middle Asian Clothes
+itm_khi_infantry2_pl|Middle Asian Clothes
+itm_khi_infantry3|Middle Asian Clothes
+itm_khi_infantry3_pl|Middle Asian Clothes
+itm_khi_infantry4|Middle Asian Clothes
+itm_khi_infantry4_pl|Middle Asian Clothes
+itm_khi_infantry5|Middle Asian Clothes
+itm_khi_infantry5_pl|Middle Asian Clothes
+itm_khi_infantry6|Middle Asian Clothes
+itm_khi_infantry6_pl|Middle Asian Clothes
+itm_khi_trousers1|Middle Asian Trousers
+itm_khi_trousers1_pl|Middle Asian Trousers
+itm_khi_trousers2|Middle Asian Trousers
+itm_khi_trousers2_pl|Middle Asian Trousers
+itm_khi_hat1|Middle Asian Hat
+itm_khi_hat1_pl|Middle Asian Hat
+itm_afg_infantry1|Middle Asian Clothes
+itm_afg_infantry1_pl|Middle Asian Clothes
+itm_afg_infantry2|Middle Asian Clothes
+itm_afg_infantry2_pl|Middle Asian Clothes
+itm_afg_infantry3|Middle Asian Clothes
+itm_afg_infantry3_pl|Middle Asian Clothes
+itm_afg_infantry4|Middle Asian Clothes
+itm_afg_infantry4_pl|Middle Asian Clothes
+itm_afg_trousers1|Middle Asian Trousers
+itm_afg_trousers1_pl|Middle Asian Trousers
+itm_afg_trousers2|Middle Asian Trousers
+itm_afg_trousers2_pl|Middle Asian Trousers
+itm_afg_hat1|Middle Asian Hat
+itm_afg_hat1_pl|Middle Asian Hat
+itm_afg_hat2|Middle Asian Hat
+itm_afg_hat2_pl|Middle Asian Hat
+itm_shovel1|Shovel
+itm_shovel1_pl|Shovel
+itm_rifle_comblain|M1870 Belgian Comblain
+itm_rifle_comblain_pl|M1870 Belgian Comblain
+itm_rifle_comblain_m|M1870 Belgian Comblain
+itm_rifle_comblain_m_pl|M1870 Belgian Comblain
+itm_rifle_comblain_carbine|M1870 Belgian Comblain Carbine
+itm_rifle_comblain_carbine_pl|M1870 Belgian Comblain Carbine
+itm_rifle_comblain_carbine_m|M1870 Belgian Comblain Carbine
+itm_rifle_comblain_carbine_m_pl|M1870 Belgian Comblain Carbine
+itm_mg1|Machine Gun
+itm_mg1_pl|Machine Gun
+itm_mg_weapon|Machine Gun
+itm_mg_weapon_pl|Machine Gun
+itm_rifle_beaumont1871|Beaumont M1871
+itm_rifle_beaumont1871_pl|Beaumont M1871
+itm_rifle_beaumont1871_m|Beaumont M1871
+itm_rifle_beaumont1871_m_pl|Beaumont M1871
+itm_rifle_beaumont1871_carbine|Beaumont M1871 Carbine
+itm_rifle_beaumont1871_carbine_pl|Beaumont M1871 Carbine
+itm_rifle_beaumont1871_carbine_m|Beaumont M1871 Carbine
+itm_rifle_beaumont1871_carbine_m_pl|Beaumont M1871 Carbine
+itm_rifle_beaumont1871_88|Beaumont M1871/88
+itm_rifle_beaumont1871_88_pl|Beaumont M1871/88
+itm_rifle_beaumont1871_88_m|Beaumont M1871/88
+itm_rifle_beaumont1871_88_m_pl|Beaumont M1871/88
+itm_rifle_beaumont1871_88_carbine|Beaumont M1871/88 Carbine
+itm_rifle_beaumont1871_88_carbine_pl|Beaumont M1871/88 Carbine
+itm_rifle_beaumont1871_88_carbine_m|Beaumont M1871/88 Carbine
+itm_rifle_beaumont1871_88_carbine_m_pl|Beaumont M1871/88 Carbine
+itm_rifle_peabody|Peabody Rifle
+itm_rifle_peabody_pl|Peabody Rifle
+itm_rifle_peabody_m|Peabody Rifle
+itm_rifle_peabody_m_pl|Peabody Rifle
+itm_rifle_peabody_carbine|Peabody Carbine
+itm_rifle_peabody_carbine_pl|Peabody Carbine
+itm_rifle_peabody_carbine_m|Peabody Carbine
+itm_rifle_peabody_carbine_m_pl|Peabody Carbine
+itm_yuruyuri_chinatsu|Yuru Yuri Chinatsu Yoshikawa
+itm_yuruyuri_chinatsu_pl|Yuru Yuri Chinatsu Yoshikawa
+itm_yuruyuri_akari|Yuru Yuri Akari Akaza
+itm_yuruyuri_akari_pl|Yuru Yuri Akari Akaza
+itm_ddlc_monika|DDLC Monika
+itm_ddlc_monika_pl|DDLC Monika
+itm_sailor_moon_usagi_tsukino|Sailor Moon Usagi Tsukino
+itm_sailor_moon_usagi_tsukino_pl|Sailor Moon Usagi Tsukino
+itm_be_chan1|BE chan
+itm_be_chan1_pl|BE chan
+itm_horse_carriage1|Carriage Horse
+itm_horse_carriage1_pl|Carriage Horse
+itm_rifle_krag|Krag-Jorgensen Rifle
+itm_rifle_krag_pl|Krag-Jorgensen Rifle
+itm_rifle_krag_m|Krag-Jorgensen Rifle
+itm_rifle_krag_m_pl|Krag-Jorgensen Rifle
+itm_rifle_krag_carbine|Krag-Jorgensen Carbine
+itm_rifle_krag_carbine_pl|Krag-Jorgensen Carbine
+itm_rifle_krag_carbine_m|Krag-Jorgensen Carbine
+itm_rifle_krag_carbine_m_pl|Krag-Jorgensen Carbine
+itm_shotgun_winchester_m1897|Winchester M1897
+itm_shotgun_winchester_m1897_pl|Winchester M1897
+itm_shotgun_winchester_m1897_m|Winchester M1897
+itm_shotgun_winchester_m1897_m_pl|Winchester M1897
+itm_shotgun_spencer_m1882|Spencer Shotgun Model 1882
+itm_shotgun_spencer_m1882_pl|Spencer Shotgun Model 1882
+itm_shotgun_spencer_m1882_m|Spencer Shotgun Model 1882
+itm_shotgun_spencer_m1882_m_pl|Spencer Shotgun Model 1882
+itm_shovel_melee|Shovel
+itm_shovel_melee_pl|Shovel
+itm_lmg_lewis|Lewis Machine Gun
+itm_lmg_lewis_pl|Lewis Machine Gun
+itm_lmg_lewis_m|Lewis Machine Gun
+itm_lmg_lewis_m_pl|Lewis Machine Gun
+itm_lmg_chauchat|Chauchat Machine Gun
+itm_lmg_chauchat_pl|Chauchat Machine Gun
+itm_lmg_chauchat_m|Chauchat Machine Gun
+itm_lmg_chauchat_m_pl|Chauchat Machine Gun
+itm_lmg_madsen|Madsen Machine Gun
+itm_lmg_madsen_pl|Madsen Machine Gun
+itm_lmg_madsen_m|Madsen Machine Gun
+itm_lmg_madsen_m_pl|Madsen Machine Gun
+itm_lmg_mg0815|Maschinengewehr 08/15
+itm_lmg_mg0815_pl|Maschinengewehr 08/15
+itm_lmg_mg0815_m|Maschinengewehr 08/15
+itm_lmg_mg0815_m_pl|Maschinengewehr 08/15
+itm_lmg_hotchkiss1909|Hotchkiss Model 1909
+itm_lmg_hotchkiss1909_pl|Hotchkiss Model 1909
+itm_lmg_hotchkiss1909_m|Hotchkiss Model 1909
+itm_lmg_hotchkiss1909_m_pl|Hotchkiss Model 1909
+itm_lmg_mp18|MP-18
+itm_lmg_mp18_pl|MP-18
+itm_lmg_mp18_m|MP-18
+itm_lmg_mp18_m_pl|MP-18
+itm_lmg_fedorov|Fedorov Machine Gun
+itm_lmg_fedorov_pl|Fedorov Machine Gun
+itm_lmg_fedorov_m|Fedorov Machine Gun
+itm_lmg_fedorov_m_pl|Fedorov Machine Gun
+itm_lmg_beretta1918|Beretta 1918 Machine Gun
+itm_lmg_beretta1918_pl|Beretta 1918 Machine Gun
+itm_lmg_beretta1918_m|Beretta 1918 Machine Gun
+itm_lmg_beretta1918_m_pl|Beretta 1918 Machine Gun
+itm_grenade_mills|Mills Bomb
+itm_grenade_mills_pl|Mills Bomb
+itm_grenade_m15|M15 Stick Grenade
+itm_grenade_m15_pl|M15 Stick Grenade
+itm_grenade_rg_12|RG 12 Grenade
+itm_grenade_rg_12_pl|RG 12 Grenade
+itm_rifle_austrian_m1895|Steyr Mannlicher M1895
+itm_rifle_austrian_m1895_pl|Steyr Mannlicher M1895
+itm_rifle_austrian_m1895_m|Steyr Mannlicher M1895
+itm_rifle_austrian_m1895_m_pl|Steyr Mannlicher M1895
+itm_rifle_austrian_m1895_carbine|Steyr Mannlicher M1895 Carbine
+itm_rifle_austrian_m1895_carbine_pl|Steyr Mannlicher M1895 Carbine
+itm_rifle_austrian_m1895_carbine_m|Steyr Mannlicher M1895 Carbine
+itm_rifle_austrian_m1895_carbine_m_pl|Steyr Mannlicher M1895 Carbine
+itm_rifle_smle|Lee–Enfield Mk I
+itm_rifle_smle_pl|Lee–Enfield Mk I
+itm_rifle_smle_m|Lee–Enfield Mk I
+itm_rifle_smle_m_pl|Lee–Enfield Mk I
+itm_rifle_smle_carbine|Lee–Enfield Mk I
+itm_rifle_smle_carbine_pl|Lee–Enfield Mk I
+itm_rifle_smle_carbine_m|Lee–Enfield Mk I
+itm_rifle_smle_carbine_m_pl|Lee–Enfield Mk I
+itm_rifle_gewehr98|Gewehr 98
+itm_rifle_gewehr98_pl|Gewehr 98
+itm_rifle_gewehr98_m|Gewehr 98
+itm_rifle_gewehr98_m_pl|Gewehr 98
+itm_rifle_gewehr98_carbine|Karabiner 98
+itm_rifle_gewehr98_carbine_pl|Karabiner 98
+itm_rifle_gewehr98_carbine_m|Karabiner 98
+itm_rifle_gewehr98_carbine_m_pl|Karabiner 98
+itm_damage_pure|damage pure
+itm_damage_pure_pl|damage pure
+itm_gasmask_russian|Zelinsky-Kummant Gas Mask
+itm_gasmask_russian_pl|Zelinsky-Kummant Gas Mask
+itm_gasmask_german|Leather Gas Mask
+itm_gasmask_german_pl|Leather Gas Mask
+itm_gasmask_british|Small Box Respirator
+itm_gasmask_british_pl|Small Box Respirator
+itm_gasmask_french|M2 Gas Mask
+itm_gasmask_french_pl|M2 Gas Mask
+itm_gasmask_imrovised1|Improvised Face Bandage
+itm_gasmask_imrovised1_pl|Improvised Face Bandage
+itm_gasmask_imrovised2|Improvised Face Bandage
+itm_gasmask_imrovised2_pl|Improvised Face Bandage
+itm_gasmask_imrovised3|Improvised Face Bandage
+itm_gasmask_imrovised3_pl|Improvised Face Bandage
+itm_mg2_russian|Machine Gun
+itm_mg2_russian_pl|Machine Gun
+itm_mg3_german|Machine Gun
+itm_mg3_german_pl|Machine Gun
+itm_mg4_french|Machine Gun
+itm_mg4_french_pl|Machine Gun
+itm_mg5_austrian|Machine Gun
+itm_mg5_austrian_pl|Machine Gun
+itm_mg6_british|Machine Gun
+itm_mg6_british_pl|Machine Gun
+itm_mg7_american|Machine Gun
+itm_mg7_american_pl|Machine Gun
+itm_ramrod1|Cannon Ramrod
+itm_ramrod1_pl|Cannon Ramrod
+itm_rifle_mauser_m1887|Mauser M1887 Rifle
+itm_rifle_mauser_m1887_pl|Mauser M1887 Rifle
+itm_rifle_mauser_m1887_m|Mauser M1887 Rifle
+itm_rifle_mauser_m1887_m_pl|Mauser M1887 Rifle
+itm_rifle_mauser_m1887_carbine|Mauser M1887 Carbine
+itm_rifle_mauser_m1887_carbine_pl|Mauser M1887 Carbine
+itm_rifle_mauser_m1887_carbine_m|Mauser M1887 Carbine
+itm_rifle_mauser_m1887_carbine_m_pl|Mauser M1887 Carbine
+itm_sidearm_c96|Mauser C96
+itm_sidearm_c96_pl|Mauser C96
+itm_sidearm_nagant|Nagant M1895
+itm_sidearm_nagant_pl|Nagant M1895
+itm_sidearm_mle_1892|Revolver Model 1892
+itm_sidearm_mle_1892_pl|Revolver Model 1892
+itm_sidearm_rastgasser|Rast & Gasser M1898
+itm_sidearm_rastgasser_pl|Rast & Gasser M1898
+itm_sidearm_luger|Luger P08 Parabellum
+itm_sidearm_luger_pl|Luger P08 Parabellum
+itm_sidearm_mannlicherpistol1896|Mannlicher Pistol M1896
+itm_sidearm_mannlicherpistol1896_pl|Mannlicher Pistol M1896
+itm_sidearm_ruby|Ruby Pistol
+itm_sidearm_ruby_pl|Ruby Pistol
+itm_sidearm_steyr|Steyr M1912
+itm_sidearm_steyr_pl|Steyr M1912
+itm_sidearm_bergman|Bergmann Bayard
+itm_sidearm_bergman_pl|Bergmann Bayard
+itm_sidearm_frommerstop|Frommer Stop
+itm_sidearm_frommerstop_pl|Frommer Stop
+itm_sidearm_fn1900|FN Browning M1900
+itm_sidearm_fn1900_pl|FN Browning M1900
+itm_sidearm_colt1911|Colt M1911
+itm_sidearm_colt1911_pl|Colt M1911
+itm_bul_infantry1|Bulgarian Military Uniform
+itm_bul_infantry1_pl|Bulgarian Military Uniform
+itm_bul_infantry2|Bulgarian Military Uniform
+itm_bul_infantry2_pl|Bulgarian Military Uniform
+itm_bul_infantry3|Bulgarian Military Uniform
+itm_bul_infantry3_pl|Bulgarian Military Uniform
+itm_bul_infantry4|Bulgarian Military Uniform
+itm_bul_infantry4_pl|Bulgarian Military Uniform
+itm_bul_infantry5|Bulgarian Military Uniform
+itm_bul_infantry5_pl|Bulgarian Military Uniform
+itm_bul_infantry6|Bulgarian Military Uniform
+itm_bul_infantry6_pl|Bulgarian Military Uniform
+itm_bul_infantry7|Bulgarian Military Uniform
+itm_bul_infantry7_pl|Bulgarian Military Uniform
+itm_bul_infantry8|Bulgarian Military Uniform
+itm_bul_infantry8_pl|Bulgarian Military Uniform
+itm_bul_infantry9|Bulgarian Military Uniform
+itm_bul_infantry9_pl|Bulgarian Military Uniform
+itm_bul_infantry10|Bulgarian Military Uniform
+itm_bul_infantry10_pl|Bulgarian Military Uniform
+itm_bul_infantry11|Bulgarian Military Uniform
+itm_bul_infantry11_pl|Bulgarian Military Uniform
+itm_bul_infantry12|Bulgarian Military Uniform
+itm_bul_infantry12_pl|Bulgarian Military Uniform
+itm_bul_infantry13|Bulgarian Military Uniform
+itm_bul_infantry13_pl|Bulgarian Military Uniform
+itm_bul_trousers1|Bulgarian Military Trousers
+itm_bul_trousers1_pl|Bulgarian Military Trousers
+itm_bul_trousers2|Bulgarian Military Trousers
+itm_bul_trousers2_pl|Bulgarian Military Trousers
+itm_bul_trousers3|Bulgarian Military Trousers
+itm_bul_trousers3_pl|Bulgarian Military Trousers
+itm_bul_trousers4|Bulgarian Military Trousers
+itm_bul_trousers4_pl|Bulgarian Military Trousers
+itm_bul_trousers5|Bulgarian Military Trousers
+itm_bul_trousers5_pl|Bulgarian Military Trousers
+itm_bul_trousers6|Bulgarian Military Trousers
+itm_bul_trousers6_pl|Bulgarian Military Trousers
+itm_bul_trousers7|Bulgarian Military Trousers
+itm_bul_trousers7_pl|Bulgarian Military Trousers
+itm_bul_hat1|Bulgarian Hat
+itm_bul_hat1_pl|Bulgarian Hat
+itm_bul_hat2|Bulgarian Hat
+itm_bul_hat2_pl|Bulgarian Hat
+itm_bul_hat3|Bulgarian Hat
+itm_bul_hat3_pl|Bulgarian Hat
+itm_bul_hat4|Bulgarian Hat
+itm_bul_hat4_pl|Bulgarian Hat
+itm_bul_hat5|Bulgarian Hat
+itm_bul_hat5_pl|Bulgarian Hat
+itm_bul_hat6|Bulgarian Hat
+itm_bul_hat6_pl|Bulgarian Hat
+itm_bul_hat7|Bulgarian Hat
+itm_bul_hat7_pl|Bulgarian Hat
+itm_bul_hat8|Bulgarian Hat
+itm_bul_hat8_pl|Bulgarian Hat
+itm_bul_hat9|Bulgarian Hat
+itm_bul_hat9_pl|Bulgarian Hat
+itm_rifle_mannlicher_m1893|Mannlicher M1893
+itm_rifle_mannlicher_m1893_pl|Mannlicher M1893
+itm_rifle_mannlicher_m1893_m|Mannlicher M1893
+itm_rifle_mannlicher_m1893_m_pl|Mannlicher M1893
+itm_rifle_mannlicher_m1893_carbine|Mannlicher M1893 Carbine
+itm_rifle_mannlicher_m1893_carbine_pl|Mannlicher M1893 Carbine
+itm_rifle_mannlicher_m1893_carbine_m|Mannlicher M1893 Carbine
+itm_rifle_mannlicher_m1893_carbine_m_pl|Mannlicher M1893 Carbine
+itm_rifle_mannlicher_schoenauer|Mannlicher-Schoenauer
+itm_rifle_mannlicher_schoenauer_pl|Mannlicher-Schoenauer
+itm_rifle_mannlicher_schoenauer_m|Mannlicher-Schoenauer
+itm_rifle_mannlicher_schoenauer_m_pl|Mannlicher-Schoenauer
+itm_rifle_mannlicher_schoenauer_carbine|Mannlicher-Schoenauer Carbine
+itm_rifle_mannlicher_schoenauer_carbine_pl|Mannlicher-Schoenauer Carbine
+itm_rifle_mannlicher_schoenauer_carbine_m|Mannlicher-Schoenauer Carbine
+itm_rifle_mannlicher_schoenauer_carbine_m_pl|Mannlicher-Schoenauer Carbine
+itm_rifle_mauser_m1889|Mauser M1889 Rifle
+itm_rifle_mauser_m1889_pl|Mauser M1889 Rifle
+itm_rifle_mauser_m1889_m|Mauser M1889 Rifle
+itm_rifle_mauser_m1889_m_pl|Mauser M1889 Rifle
+itm_rifle_mauser_m1889_carbine|Mauser M1889 Carbine
+itm_rifle_mauser_m1889_carbine_pl|Mauser M1889 Carbine
+itm_rifle_mauser_m1889_carbine_m|Mauser M1889 Carbine
+itm_rifle_mauser_m1889_carbine_m_pl|Mauser M1889 Carbine
+itm_rifle_mauser_m1896|Gevär m/96 Rifle
+itm_rifle_mauser_m1896_pl|Gevär m/96 Rifle
+itm_rifle_mauser_m1896_m|Gevär m/96 Rifle
+itm_rifle_mauser_m1896_m_pl|Gevär m/96 Rifle
+itm_rifle_mauser_m1896_carbine|Gevär m/96 Carbine
+itm_rifle_mauser_m1896_carbine_pl|Gevär m/96 Carbine
+itm_rifle_mauser_m1896_carbine_m|Gevär m/96 Carbine
+itm_rifle_mauser_m1896_carbine_m_pl|Gevär m/96 Carbine
+itm_nor_infantry1|Norwegian Military Uniform
+itm_nor_infantry1_pl|Norwegian Military Uniform
+itm_nor_infantry2|Norwegian Military Uniform
+itm_nor_infantry2_pl|Norwegian Military Uniform
+itm_nor_infantry3|Norwegian Military Uniform
+itm_nor_infantry3_pl|Norwegian Military Uniform
+itm_nor_infantry4|Norwegian Military Uniform
+itm_nor_infantry4_pl|Norwegian Military Uniform
+itm_nor_trousers1|Norwegian Military Trousers
+itm_nor_trousers1_pl|Norwegian Military Trousers
+itm_nor_trousers2|Norwegian Military Trousers
+itm_nor_trousers2_pl|Norwegian Military Trousers
+itm_nor_hat1|Norwegian Hat
+itm_nor_hat1_pl|Norwegian Hat
+itm_nor_hat2|Norwegian Hat
+itm_nor_hat2_pl|Norwegian Hat
+itm_balkan_torso1|Civilian Clothes
+itm_balkan_torso1_pl|Civilian Clothes
+itm_balkan_torso2|Civilian Clothes
+itm_balkan_torso2_pl|Civilian Clothes
+itm_balkan_torso3|Civilian Clothes
+itm_balkan_torso3_pl|Civilian Clothes
+itm_polish_torso1|Civilian Clothes
+itm_polish_torso1_pl|Civilian Clothes
+itm_polish_torso2|Civilian Clothes
+itm_polish_torso2_pl|Civilian Clothes
+itm_polish_torso3|Civilian Clothes
+itm_polish_torso3_pl|Civilian Clothes
+itm_polish_torso4|Civilian Clothes
+itm_polish_torso4_pl|Civilian Clothes
+itm_polish_torso5|Civilian Clothes
+itm_polish_torso5_pl|Civilian Clothes
+itm_polish_torso6|Civilian Clothes
+itm_polish_torso6_pl|Civilian Clothes
+itm_polish_torso7|Civilian Clothes
+itm_polish_torso7_pl|Civilian Clothes
+itm_polish_torso8|Civilian Clothes
+itm_polish_torso8_pl|Civilian Clothes
+itm_polish_torso9|Civilian Clothes
+itm_polish_torso9_pl|Civilian Clothes
+itm_polish_torso10|Civilian Clothes
+itm_polish_torso10_pl|Civilian Clothes
+itm_polish_torso11|Civilian Clothes
+itm_polish_torso11_pl|Civilian Clothes
+itm_polish_torso12|Civilian Clothes
+itm_polish_torso12_pl|Civilian Clothes
+itm_polish_hat1|Polish Hat
+itm_polish_hat1_pl|Polish Hat
+itm_polish_hat2|Polish Hat
+itm_polish_hat2_pl|Polish Hat
+itm_rifle_carcano1891|Carcano M1891
+itm_rifle_carcano1891_pl|Carcano M1891
+itm_rifle_carcano1891_m|Carcano M1891
+itm_rifle_carcano1891_m_pl|Carcano M1891
+itm_rifle_carcano1891_carbine|Carcano M1891 Carbine
+itm_rifle_carcano1891_carbine_pl|Carcano M1891 Carbine
+itm_rifle_carcano1891_carbine_m|Carcano M1891 Carbine
+itm_rifle_carcano1891_carbine_m_pl|Carcano M1891 Carbine
+itm_paimon1|Emergency Food
+itm_paimon1_pl|Emergency Food
+itm_items_end|Items End
+itm_items_end_pl|Items End

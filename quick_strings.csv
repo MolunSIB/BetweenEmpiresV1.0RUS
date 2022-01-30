@@ -1,0 +1,1431 @@
+qstr_res_cape1|res cape1
+qstr_res_cape2|res cape2
+qstr_thawb1_belt1|thawb1 belt1
+qstr_banner_ria1|banner ria1
+qstr_Next_Page|Next Page
+qstr_Game_Rules:^|Game Rules:^
+qstr_0|0
+qstr_Lv._{reg0}|Lv. {reg0}
+qstr_Show_game_rules|Show game rules
+qstr_Choose_name_for_your|Choose name for your faction:
+qstr_Continue...|Continue...
+qstr_Candidate_#1:_{s1}|Candidate #1: {s1}
+qstr_Candidate_#2:_{s1}|Candidate #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s3} of {s4} wishes to select a new marshall and invites his vassals for a counsel. {s1} and {s2} are the likely candidates.
+qstr_Who_do_you_wish_to_s|Who do you wish to support?
+qstr_{s1}_gives_his_suppo|{s1} gives his support to {s2}.
+qstr_Number_of_Supporters|Number of Supporters: {reg0}
+qstr_{s2}_has_heard_his_v|{s2} has heard his vassals' counsel. He selects {s1} as the marshall of {s3}.
+qstr__| 
+qstr_Mount|Mount
+qstr_Attack_Type|Attack Type
+qstr_Retreat|Retreat
+qstr_Charge|Charge
+qstr_Follow_Me|Follow Me
+qstr_Form_Square|Form Square
+qstr_Spread_Out|Spread Out
+qstr_Stand_Closer|Stand Closer
+qstr_Fall_Back|Fall Back
+qstr_Advance|Advance
+qstr_Dismount|Dismount
+qstr_Fire_At_Will|Fire At Will
+qstr_Hold_Your_Fire|Hold Your Fire
+qstr_Use_Ranged_Weapons|Use Ranged Weapons
+qstr_Use_Melee_Weapons|Use Melee Weapons
+qstr_Ready|Ready
+qstr_Wounded|Wounded
+qstr_Dead|Dead
+qstr_Cannot_form_square:_|Cannot form square: too many companies selected.
+qstr_Cannot_form_square:_w|Cannot form square: wrong company types (only line infantry and guard inantry can form square).
+qstr_Number_of_men_knocke|Number of men knocked down: {reg1}
+qstr_Number_of_men_left:_|Number of men left: {reg1}
+qstr_Opponents_Beaten:_{r|Opponents Beaten: {reg1}
+qstr_Opponents_Remaining:|Opponents Remaining: {reg1}
+qstr_Remain_in_retirement|Remain in retirement.
+qstr_Go_back_to_the_adven|Go back to the adventuring.
+qstr_You_have_retired_at_|You have retired at level {reg4} after {reg5} days of adventuring.
+qstr_Effect_on_Score|Effect on Score
+qstr_Settlements_owned_by|Settlements owned by you: {reg0}
+qstr_Friendly_Settlements|Friendly Settlements: {reg0}
+qstr_Hostile_Settlements:|Hostile Settlements: {reg0}
+qstr_Friendly_Lords:_{reg|Friendly Lords: {reg0}
+qstr_Enemy_Lords:_{reg0}|Enemy Lords: {reg0}
+qstr_Victories:_{reg0}|Victories: {reg0}
+qstr_Defeats:_{reg0}|Defeats: {reg0}
+qstr_Quests_Completed:_{r|Quests Completed: {reg0}
+qstr_Companions_Found:_{r|Companions Found: {reg0}
+qstr_Companions_Lost/Depa|Companions Lost/Departed: {reg0}
+qstr_Wealth:_{reg0}_$|Wealth: {reg0} $
+qstr_Inventory:_{reg0}_$|Inventory: {reg0} $
+qstr_Renown:_{reg0}|Renown: {reg0}
+qstr_Experience:_{reg0}|Experience: {reg0}
+qstr_Days_Passed:_{reg0}|Days Passed: {reg0}
+qstr_Difficulty:_{reg0}%|Difficulty: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|TOTAL SCORE: {reg0}
+qstr_Income_from_factorie|Income from factories share:
+qstr_{reg10}|{reg10}
+qstr_None|None
+qstr_Back|Back
+qstr_Empty|Empty
+qstr_1._{s1}|1. {s1}
+qstr___c.|  c.
+qstr_90%|90%
+qstr_2._{s1}|2. {s1}
+qstr__%| %
+qstr_3._{s1}|3. {s1}
+qstr_4._{s1}|4. {s1}
+qstr_5._{s1}|5. {s1}
+qstr_6._{s1}|6. {s1}
+qstr_7._{s1}|7. {s1}
+qstr_8._{s1}|8. {s1}
+qstr_Form_Square^^Selecte|Form Square^^Selected companies (not more than two)^will form a square formation. It is effective in melee^fighting, especially against cavalry, but vulnarable^to an enemy fire. To selected companies be able to^form square, they need to have at least 25 soldiers^in total.^Company types: Line infantry, Guard.
+qstr_pbs_activeability_me|pbs activeability merge
+qstr_Merge_Companies^^Sel|Merge Companies^^Selected companies (not less than one)^will be merged into one that has highest number of soldiers.
+qstr_pbs_activeability_di|pbs activeability digin
+qstr_Dig_In^^Selected_com|Dig In^^Selected companies will dig in,^creating trenches on their position.^Only available once per battle.^Company types: Line infantry, Guard.
+qstr_pbs_activeability_co|pbs activeability coveringfire on
+qstr_pbs_activeability_ga|pbs activeability gas
+qstr_Gas_Attack^^.^Compan|Gas Attack^^.^Company types: Field Guns and Howitzers.
+qstr_pbs_activeability_gr|pbs activeability grenades
+qstr_Grenade_Attack^^Sele|Grenade Attack^^Selected companies launch a grenade attack at range up to 50 meters, throwing^hand grenades at enemies which are at close distance.^Only available once per 3 minutes.^Company types: Shock troops.
+qstr_Suppression_fire:_on|Suppression fire: on
+qstr_Suppression_fire:_of|Suppression fire: off
+qstr_pbs_activeability_cov|pbs activeability coveringfire off
+qstr_Suppression_fire:_on/|Suppression fire: on/off
+qstr_pbs_activeability_cove|pbs activeability coveringfire onoff
+qstr_No_companies_selecte|No companies selected
+qstr_pbs_activeability_cover|pbs activeability coveringfire noselected
+qstr_{s1}^^Turning_on_sup|{s1}^^Turning on suppression fire will increase shooting speed^and decreasing enemy discipline level two times faster,^on exchange of drastically decreasing your own accuracy.^Company types: any.
+qstr_Gas_masks:_always_we|Gas masks: always wear
+qstr_pbs_activeability_gas|pbs activeability gasmasks on
+qstr_Gas_masks:_at_will|Gas masks: at will
+qstr_pbs_activeability_gasm|pbs activeability gasmasks off
+qstr_Gas_masks:_always_wea|Gas masks: always wear/at will
+qstr_pbs_activeability_gasma|pbs activeability gasmasks onoff
+qstr_pbs_activeability_gasmas|pbs activeability gasmasks noselected
+qstr_{s1}^^Gas_masks_make|{s1}^^Gas masks make troops invulnerable to poison gas, but decrease shooting accuracy and energy level.^Company types: any.
+qstr_{reg0}%|{reg0}%
+qstr_{reg0}_c.|{reg0} c.
+qstr_Cannot_dig_in:_wrong|Cannot dig in: wrong company types (only line infantry and guard infantry can dig in).
+qstr_Cannot_launch_gas_at|Cannot launch gas attack: wrong company types (only artillery can use gas attack).
+qstr_Cannot_launch_grenad|Cannot launch grenade attack: wrong company types (only shock troops can throw grenades).
+qstr_Select_2_or_more_com|Select 2 or more companies with soldiers to merge.
+qstr_Others|Others
+qstr_Outlaws|Outlaws
+qstr_Mercenary|Mercenary
+qstr_Close|Close
+qstr_Click_the_center_but|Click the center button to toggle faction^Click the avatars to view details of them
+qstr_Level:_{reg3}^Health|Level: {reg3}^Health: {reg4}
+qstr_Attributes|Attributes
+qstr_STR^AGI^INT^CHA|STR^AGI^INT^CHA
+qstr_{reg2}|{reg2}
+qstr_{s1}^{reg2}|{s1}^{reg2}
+qstr_Skills|Skills
+qstr_Ironflesh^Power_Stri|Ironflesh^Power Strike^Power Throw^Power Draw^Shield^Athletics^Riding^Horse Archery
+qstr_Proficiencies|Proficiencies
+qstr_1H_Weapons^2H_Weapon|1H Weapons^2H Weapons^Polearms^Archery^Rifles^Throwing
+qstr_Equipments|Equipments
+qstr_Factions|Factions
+qstr_Show_towns|Show towns
+qstr_Show_castles|Show castles
+qstr_Show_villages|Show villages
+qstr_Tip:_move_the_mouse_|Tip: move the mouse onto the black blocks to show their names.
+qstr_The_World_Map|The World Map
+qstr_Done|Done
+qstr_Language:|Language:
+qstr_English|English
+qstr_Russian|Russian
+qstr_German|German
+qstr_Turkish|Turkish
+qstr_Spanish|Spanish
+qstr_Italian|Italian
+qstr_French|French
+qstr_Polish|Polish
+qstr_Press_Escape_to_clos|Press Escape to close menu...
+qstr_Army_of_{s7}|Army of {s7}
+qstr_Attribute_points_{re|Attribute points {reg40}
+qstr_Skill_points_{reg41}|Skill points {reg41}
+qstr_Weapon_points_{reg42|Weapon points {reg42}
+qstr_Save|Save
+qstr_Reset|Reset
+qstr_Current:{s1}|Current:{s1}
+qstr_{s2}^Base_Attribute:|{s2}^Base Attribute:CHA
+qstr_{s2}^Base_Attribute:I|{s2}^Base Attribute:INT
+qstr_{s2}^Base_Attribute:A|{s2}^Base Attribute:AGI
+qstr_{s2}^Base_Attribute:S|{s2}^Base Attribute:STR
+qstr_Battle_role:|Battle role:
+qstr_Line_Infantry|Line Infantry
+qstr_Light_Infantry|Light Infantry
+qstr_Guard_Infantry|Guard Infantry
+qstr_Melee_Cavalry|Melee Cavalry
+qstr_Ranged_Cavalry|Ranged Cavalry
+qstr_Guard_Cavalry|Guard Cavalry
+qstr_Next|Next
+qstr_Price_{reg42}^Weight|Price {reg42}^Weight {reg43}
+qstr_{reg5}_to_{reg6}|{reg5} to {reg6}
+qstr_You_can_t_equip_this|You can't equip this item - wrong slot.
+qstr_Military_Technologie|Military Technologies of the {s1}
+qstr_Research|Research
+qstr_Select_technology|Select technology
+qstr_Rifled_Caplock^^Musk|Rifled Caplock^^Muskets
+qstr_Conversion_Breech_lo|Conversion Breech-loaded^^Rifles
+qstr_Modern^^Breech_loade|Modern^^Breech-loaded Rifles
+qstr_Breech_loaded^^Canno|Breech-loaded^^Cannons
+qstr_Improved_Percussion^|Improved Percussion^^Mechanisms
+qstr_Early_Magazine^^Rifl|Early Magazine^^Rifles
+qstr_Machine_Guns|Machine Guns
+qstr_Modern_Magazine_Rifl|Modern Magazine Rifles
+qstr_Light_Machine^^Guns|Light Machine^^Guns
+qstr_Landships|Landships
+qstr_Crimean_War^^Experie|Crimean War^^Experience
+qstr_Skirmish_Line^^Tacti|Skirmish Line^^Tactics
+qstr_Modern_Defence^^Tact|Modern Defence^^Tactics
+qstr_Modern_Attack_Tactic|Modern Attack Tactics
+qstr_Rapid_Firing^^Artill|Rapid Firing^^Artillery
+qstr_Infantry_Machine^^Gu|Infantry Machine^^Gun Tactics
+qstr_Covering_Fire|Covering Fire
+qstr_Gas_Attacks|Gas Attacks
+qstr_Shock_Troops|Shock Troops
+qstr_Country_does_not_hav|Country does not have enough budget to start research.
+qstr_faction_technologies|faction technologies tech available
+qstr_faction_technologies_|faction technologies tech inprogress
+qstr_Rifled_Caplock^Muske|Rifled Caplock^Muskets
+qstr_faction_technologies_p|faction technologies photo riflesrifled
+qstr_Rapid_Firing^Artille|Rapid Firing^Artillery
+qstr_faction_technologies_ph|faction technologies photo modernartillery
+qstr_faction_technologies_pho|faction technologies photo modernattack
+qstr_Crimean_War^Experien|Crimean War^Experience
+qstr_faction_technologies_phot|faction technologies photo crimeanwar
+qstr_Modern_Magazine^Rifl|Modern Magazine^Rifles
+qstr_faction_technologies_photo|faction technologies photo riflesboltactionmodern
+qstr_Conversion_Breech_loa|Conversion Breech-loaded^Rifles
+qstr_faction_technologies_photo_|faction technologies photo riflesconverted
+qstr_Infantry_Machine^Gun|Infantry Machine^Gun Tactics
+qstr_faction_technologies_photo_i|faction technologies photo infantrymgtactics
+qstr_faction_technologies_photo_c|faction technologies photo coveringfire
+qstr_faction_technologies_photo_g|faction technologies photo gasattacks
+qstr_Converted_breech_loa|Converted breech-loaded rifles have several issues. They have big caliber, because of which during fast shooting the barrel heats up so much that it becomes hard to handle rifle during reload or melee fighting. Inserted breech-loading mechanisms are not perfect and often cause cartridge case to jam inside after shot, and being hard to get out. Next step in firearms rearmament should be adopting new breech-loaded rifle: it will have much smaller caliber than before, which will improve bullet ballistics, and will have improved breech-loading mechanism, that will further increase rate of fire by making reloading process easier.^^Effects: army changes it's firearms to small-caliber breech-loading rifles.
+qstr_faction_technologies_photo_r|faction technologies photo riflessmallcaliber
+qstr_faction_technologies_photo_t|faction technologies photo tanks
+qstr_Skirmish_Line^Tactic|Skirmish Line^Tactics
+qstr_faction_technologies_photo_s|faction technologies photo skirmishline
+qstr_Light_Machine^Guns|Light Machine^Guns
+qstr_faction_technologies_photo_l|faction technologies photo lmgs
+qstr_Early_Magazine^Rifle|Early Magazine^Rifles
+qstr_faction_technologies_photo_ri|faction technologies photo riflesboltaction
+qstr_Breech_loaded^Cannon|Breech-loaded^Cannons
+qstr_faction_technologies_photo_ca|faction technologies photo cannonsbreechloading
+qstr_faction_technologies_photo_m|faction technologies photo machineguns
+qstr_Improved_Percussion^M|Improved Percussion^Mechanisms
+qstr_faction_technologies_photo_la|faction technologies photo lateshells
+qstr_faction_technologies_photo_sh|faction technologies photo shocktroops
+qstr_Modern_Defence^Tacti|Modern Defence^Tactics
+qstr_faction_technologies_photo_mo|faction technologies photo moderndefence
+qstr___already_funded_| (already funded)
+qstr___already_researched| (already researched)
+qstr__Current_progress___| Current progress - {reg2}%.
+qstr_Cost___{reg0}_${s1}.|Cost - {reg0} ${s1}.^Available after {reg1} year.{s2}
+qstr_Select_Faction|Select Faction
+qstr_Start_Game|Start Game
+qstr_Chosen_Faction:^{s1}|Chosen Faction:^{s1}
+qstr_Select_flag_for_your|Select flag for your faction
+qstr_Peace_negotiations_w|Peace negotiations with {s1}
+qstr_Stop_Negotiations|Stop Negotiations
+qstr_Make_Peace|Make Peace
+qstr_Opposite_side_diplom|Opposite side diplomats^cannot agree with terms
+qstr_Current_winner:_{s1}|Current winner: {s1}
+qstr_War_reparations_amou|War reparations amount: {reg11} $
+qstr_Infamy_penalty:_{reg|Infamy penalty: {reg12}
+qstr_Cannot_claim_{s31}__|Cannot claim {s31} - it doesn't have supply routes to your faction.
+qstr_Diplomats_from_{s32}|Diplomats from {s32} refuse to give {s31} to the {s33}.
+qstr_{s1}|{s1}
+qstr_Executive_Branch_Com|Executive Branch Composition 
+qstr_Not_a_ruling_party.^|Not a ruling party.^Click to make this party^ a ruling party.
+qstr_Upper_Class___Aristo|Upper Class - Aristocracy
+qstr_Upper_Class___Bourge|Upper Class - Bourgeoisie
+qstr_Middle_Class|Middle Class
+qstr_Lower_Class___Urban|Lower Class - Urban
+qstr_Lower_Class___Rural|Lower Class - Rural
+qstr_Loyalty_to_parties:|Loyalty to parties:
+qstr_Wealth:_{reg1}%|Wealth: {reg1}%
+qstr_Satisfaction_with_ne|Satisfaction with needs: {reg4}%
+qstr_Political_activity:_|Political activity: {reg3}%
+qstr_State_Laws:|State Laws:
+qstr_Nomination_Rules|Nomination Rules
+qstr_Upper_Class_Only|Upper Class Only
+qstr_Universal|Universal
+qstr_Vote_Franchise|Vote Franchise
+qstr_Aristocracy_Only|Aristocracy Only
+qstr_Upper_and_Middle_Cla|Upper and Middle Class Only
+qstr_Universal_Weighted|Universal Weighted
+qstr_Voting_System|Voting System
+qstr_Ruling_Party_Influen|Ruling Party Influence
+qstr_Non_secret_Ballot|Non-secret Ballot
+qstr_Secret_Ballot|Secret Ballot
+qstr_Press_Censorship|Press Censorship
+qstr_State_Press|State Press
+qstr_Heavy_Censorship|Heavy Censorship
+qstr_Light_Censorship|Light Censorship
+qstr_Free_Press|Free Press
+qstr_Executive_Branch_Ele|Executive Branch Elective Posts
+qstr_Selected_by_State|Selected by State
+qstr_Partially_Elected|Partially Elected
+qstr_Mostly_Elected|Mostly Elected
+qstr_Maximum_Work_Hours|Maximum Work Hours
+qstr_Unlimited|Unlimited
+qstr_12_hours_a_day|12 hours a day
+qstr_10_hours_a_day|10 hours a day
+qstr_8_hours_a_day|8 hours a day
+qstr_Minimum_Wage|Minimum Wage
+qstr_No_Minimum|No Minimum
+qstr_Low_Minimum|Low Minimum
+qstr_Acceptable_Minimum|Acceptable Minimum
+qstr_Good_Minimum|Good Minimum
+qstr_Trade_Unions|Trade Unions
+qstr_Banned|Banned
+qstr_Allowed|Allowed
+qstr_Public_Meetings|Public Meetings
+qstr_Authorized_only|Authorized only
+qstr_Child_labour|Child labour
+qstr_Restrictions|Restrictions
+qstr_Outlawed|Outlawed
+qstr_Political_movements|Political movements
+qstr_Liberal_movement|Liberal movement
+qstr_Socialist_movement|Socialist movement
+qstr_Peace_movement|Peace movement
+qstr_You_cannot_change_ru|You cannot change ruling party ({reg1} days cooldown).
+qstr_Income_tax:_{reg10}%|Income tax: {reg10}%
+qstr_Goods_and_Services_t|Goods and Services tax: {reg10}%
+qstr_Import/Export_tax:_{|Import/Export tax: {reg11}%/{reg12}%
+qstr_Military_Expenses:_{|Military Expenses: {reg10}%
+qstr_Education_Expenses:_|Education Expenses: {reg10}%
+qstr_Infrastructure_Expen|Infrastructure Expenses: {reg10}%
+qstr_Healthcare_Expenses:|Healthcare Expenses: {reg10}%
+qstr_Slot:_not_selected|Slot: not selected
+qstr_Party:_not_selected|Party: not selected
+qstr_Party:_{reg1}___{s1}|Party: {reg1} - {s1}
+qstr_{reg1}|{reg1}
+qstr_N_A|N A
+qstr_Slot:_{reg1}|Slot: {reg1}
+qstr_JUST_MONIKA_JUST_MON|JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^JUST MONIKA JUST MONIKA JUST MONIKA^
+qstr_monika1|monika1
+qstr_00|00
+qstr_{reg1}.{s2}{reg2}_mi|{reg1}.{s2}{reg2} millions of population
+qstr_Literacy_is_{reg1}.{|Literacy is {reg1}.{reg2}%
+qstr_Urbanization_is_{reg|Urbanization is {reg1}.{reg2}%
+qstr_Daily_GDP_is_{reg1}_|Daily GDP is {reg1} $.
+qstr_{reg1}_craftsmen_{re|{reg1} craftsmen, {reg2} of which are employed^in mass production, and {reg3} are^occupied in handicraft production.
+qstr_Region_of_{s1}|Region of {s1}
+qstr_Resource_Menu|Resource Menu
+qstr_X_thousands_of_popul|X thousands of population
+qstr_Literacy_is_X%|Literacy is X%
+qstr_Urbanization_is_X%|Urbanization is X%
+qstr__+| +
+qstr_Balance_change:{s1}{|Balance change:{s1}{reg10} $.
+qstr_BUY|BUY
+qstr_SELL|SELL
+qstr_Balance_change:_+0_$|Balance change: +0 $.
+qstr_Manage_share__Now_is|Manage share (Now is {reg10})%.
+qstr_Not_enough_money.|Not enough money.
+qstr_Price_history_chart:|Price history chart:
+qstr_Country|Country
+qstr_Supply|Supply
+qstr_Demand|Demand
+qstr_Number_of^Factories|Number of^Factories
+qstr_Quality|Quality
+qstr_GDP|GDP
+qstr_Population|Population
+qstr_Literacy|Literacy
+qstr_Urbanization|Urbanization
+qstr_Select_factory_to_bu|Select factory to build:
+qstr_Your_current_balance|Your current balance is {reg10} $.
+qstr_Initial_Capital:_500|Initial Capital: 50000 $.
+qstr_*Rest_of_initial_bud|*Rest of initial budget will be found via investitions.^Speed of funding depends on region and country.
+qstr_Start_Enterprise|Start Enterprise
+qstr_pes_region_factoryca|pes region factorycard2
+qstr_{s3}|{s3}
+qstr_{s2}|{s2}
+qstr_Same_type_of_factory|Same type of factory does already exist in this town.
+qstr_Initial_Capital:_{re|Initial Capital: {reg10} $.
+qstr_Army_of_{s1}|Army of {s1}
+qstr_Army_size:_{reg1}%|Army size: {reg1}%
+qstr__{reg2}.{reg3}%_to_q|-{reg2}.{reg3}% to quality of life
+qstr_Divisions|Divisions
+qstr_{reg1}_soldiers|{reg1} soldiers
+qstr_Garrisons|Garrisons
+qstr_soldiers_total|soldiers total
+qstr_Equipped_with_milita|Equipped with military supplies by
+qstr_{reg1}%|{reg1}%
+qstr_Supplied_with_ammuni|Supplied with ammunition by
+qstr_Equipped_with_weapon|Equipped with weapons by
+qstr_Combat_efficiency_of|Combat efficiency of army is
+qstr_vSeason|vSeason
+qstr_{s1}_of_{s3}_was_def|{s1} of {s3} was defeated in battle but managed to escape.
+qstr_{s54}_is_a_claimant_|{s54} is a claimant to the throne of {s56}.
+qstr_nowhere|nowhere
+qstr_{s57}_and_{s58}|{s57} and {s58}
+qstr_{reg3?She:He}|{reg3?She:He}
+qstr_The_town_of_{s50}|The town of {s50}
+qstr_The_village_of_{s50}|The village of {s50} near {s52}
+qstr_{s51}_belongs_to_{s1|{s51} belongs to {s1} of {s2}.^
+qstr_{s7}_and_{s8}|{s7} and {s8}
+qstr_{s2}It_has_no_villag|{s2}It has no villages.^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?Its villages are:Its village is} {s8}.^
+qstr_{s63}_is_connected_t|{s63} is connected to the cities of {s60}, {s61} and {s62} by the local road network. Region of this center has access to a seaport.
+qstr_{s63}_is_connected_to|{s63} is connected to the cities of {s60}, {s61} and {s62} by the local road network.
+qstr_{s2}Its_prosperity_i|{s2}Its prosperity is: {s50}.^{s20}
+qstr_noone|noone
+qstr_{s9}_and_{s10}|{s9} and {s10}
+qstr_{s21}^*_The_{s5}_is_|{s21}^* The {s5} is in alliance with {s14} ({reg11}).
+qstr_{s21}^*_The_{s5}_has|{s21}^* The {s5} has friendly diplomatic relationship with {s14} ({reg11}).
+qstr_{s21}^*_The_{s5}_has_|{s21}^* The {s5} has warm diplomatic relationship with {s14} ({reg11}).
+qstr_{s21}^*_The_{s5}_has_i|{s21}^* The {s5} has indifferent diplomatic relationship with {s14} ({reg11}).
+qstr_{s5}_has_been_defeat|{s5} has been defeated.
+qstr_{s7}_opened_the_gate|{s7} opened the gate
+qstr_{s7}_closed_the_gate|{s7} closed the gate
+qstr_Has_second_barrel__p|Has second barrel (press action^key while aiming to fire a buckshot)
+qstr_Uses_pistol_cartridg|Uses pistol cartridges
+qstr_Smoothbore_musket|Smoothbore musket
+qstr_Rifled_musket|Rifled musket
+qstr_Converted_breech_load|Converted breech loaded rifle
+qstr_Modern_breech_loaded|Modern breech loaded rifle
+qstr_Smoothbore_pistol|Smoothbore pistol
+qstr_Revolver__7_rounds_|Revolver (7 rounds)
+qstr_Revolver__8_rounds_|Revolver (8 rounds)
+qstr_Revolver__6_rounds_|Revolver (6 rounds)
+qstr_Pocket_Revolver__6_r|Pocket Revolver (6 rounds)
+qstr_Self_Loading_Pistol_|Self-Loading Pistol (7 rounds)
+qstr_Self_Loading_Pistol__|Self-Loading Pistol (6 rounds)
+qstr_Self_Loading_Pistol__1|Self-Loading Pistol (10 rounds)
+qstr_Self_Loading_Pistol__8|Self-Loading Pistol (8 rounds)
+qstr_Revolver__9_rounds_|Revolver (9 rounds)
+qstr_Pump_shotgun__6_roun|Pump shotgun (6 rounds)
+qstr_Shotgun__2_rounds_|Shotgun (2 rounds)
+qstr_Lever_action_shotgun|Lever action shotgun (6 rounds)
+qstr_Lever_action_shotgun_|Lever action shotgun (1 round)
+qstr_Bolt_action_magazine|Bolt-action magazine rifle (5 rounds)
+qstr_Straight_pull_bolt_a|Straight-pull bolt-action^magazine rifle (5 rounds)
+qstr_Bolt_action_magazine_|Bolt-action magazine rifle (4 rounds)
+qstr_Bolt_action_magazine_r|Bolt-action magazine rifle (8 rounds)
+qstr_Bolt_action_magazine_ri|Bolt-action magazine rifle (10 rounds)
+qstr_Pocket_Pistol__6_rou|Pocket Pistol (6 rounds)
+qstr_Pocket_Pistol__4_rou|Pocket Pistol (4 rounds)
+qstr_Breech_loaded_rifle|Breech loaded rifle
+qstr_Lever_action_magazin|Lever action magazine rifle (8 rounds)
+qstr_Lever_action_magazine|Lever action magazine rifle (5 rounds)
+qstr_Lever_action_magazine_|Lever action magazine rifle (9 rounds)
+qstr_Lever_action_magazine_r|Lever action magazine rifle (16 rounds)
+qstr_Lever_action_magazine_ri|Lever action magazine rifle (7 rounds)
+qstr_+{reg1}_to_party_mor|+{reg1} to party morale
+qstr_Requires_{reg1}_inte|Requires {reg1} intelligence to read
+qstr_Reading_Progress:_{r|Reading Progress: {reg1}%
+qstr_wound_treament|wound treament
+qstr_trainer|trainer
+qstr_surgery|surgery
+qstr_+1_to_{s1}_while_in_|+1 to {s1} while in inventory
+qstr_Move_here|Move here
+qstr_View_notes|View notes
+qstr_Accompany|Accompany
+qstr_killed|killed
+qstr_wounded|wounded
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOTAL: {reg3} ({s2})
+qstr_^None|^None
+qstr_nothing|nothing
+qstr_{reg0}_village{reg1?|{reg0} village{reg1?s:}
+qstr_{reg0}_castle{reg1?s|{reg0} castle{reg1?s:}
+qstr_{reg0}_castle{reg1?s:|{reg0} castle{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} town{reg1?s:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} town{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} town{reg1?s:}, {s0}
+qstr_Your_opponents_are_r|Your opponents are ready for the fight.
+qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
+qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
+qstr_Battle_Advantage_=_{|Battle Advantage = {reg0}.
+qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
+qstr__Being_Raided_|(Being Raided)
+qstr__Looted_|(Looted)
+qstr__Under_Siege_|(Under Siege)
+qstr_The_village_of_{s1}_|The village of {s1} has been looted by {s2}.
+qstr_{s3}_is_no_longer_un|{s3} is no longer under siege.
+qstr_Small_bands_of_enemi|Small bands of enemies spotted near {s1}.
+qstr_Enemy_patrols_spotte|Enemy patrols spotted near {s1}.
+qstr_Medium_sized_group_o|Medium-sized group of enemies spotted near {s1}.
+qstr_Significant_group_of|Significant group of enemies spotted near {s1}.
+qstr_Army_of_enemies_spot|Army of enemies spotted near {s1}.
+qstr_Large_army_of_enemie|Large army of enemies spotted near {s1}.
+qstr_Great_host_of_enemie|Great host of enemies spotted near {s1}.
+qstr_{s1}_has_been_besieg|{s1} has been besieged by {s2} of {s3}.
+qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
+qstr_{s14}__{s21}_|{s14} ({s21})
+qstr_{s1}_is_the_new_mars|{s1} is the new marshal of {s2}.
+qstr_You_gained_{reg12}_r|You gained {reg12} renown.
+qstr_You_lose_{reg12}_ren|You lose {reg12} renown.
+qstr_Your_relation_with_{|Your relation with {s1} has improved.
+qstr_Your_relation_with_{s|Your relation with {s1} has deteriorated.
+qstr_You_gain_honour.|You gain honour.
+qstr_You_lose_honour.|You lose honour.
+qstr_{s1}_has_declared_wa|{s1} has declared war against {s2}.
+qstr_{s1}_has_declared_war|{s1} has declared war against {s2} in support of {s31}.
+qstr_{s1}_and_{s2}_have_m|{s1} and {s2} have made peace with each other.
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?was:is currently} at {s3}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?was:is} travelling to {s3} and {reg4?she:he} {reg3?was:should be} close to {s4}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?was:is} in the field and {reg4?she:he} {reg3?was:should be} close to {s3}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?was:is} being held captive at {s3}.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?was:has been} taken captive by {reg4?her:his} enemies.
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}'s location was unknown:I don't know where {s2} is}.
+qstr_{s6}_has_joined_your|{s6} has joined your party.
+qstr_You_now_owe_{reg2}_$|You now owe {reg2} $ to {s1}.
+qstr_Renown_value_for_thi|Renown value for this battle is {reg8}.
+qstr_You_have_run_into_a_|You have run into a trap!
+qstr_You_are_attacked_by_|You are attacked by a group of bandits!
+qstr_Holding|Holding
+qstr_Following|Following
+qstr_Charging|Charging
+qstr_Advancing|Advancing
+qstr_Falling_Back|Falling Back
+qstr_Standing_Closer|Standing Closer
+qstr_Spreading_Out|Spreading Out
+qstr_Standing|Standing
+qstr_N/A|N/A
+qstr_Free|Free
+qstr_Any_Weapon|Any Weapon
+qstr_Blunt_Weapons|Blunt Weapons
+qstr_{s1}_Rebels|{s1} Rebels
+qstr_Given_by:_{s62}|Given by: {s62}
+qstr_Given_on:_{s60}|Given on: {s60}
+qstr_You_have_{reg0}_days|You have {reg0} days to finish this quest.
+qstr_This_quest_has_been_|This quest has been concluded. Talk to {s59} to finish it.
+qstr_This_quest_has_been_s|This quest has been successfully completed. Talk to {s59} to claim your reward.
+qstr_This_quest_has_faile|This quest has failed. Talk to {s59} to explain the situation.
+qstr_At_the_time_quest_wa|At the time quest was given:^{s1}
+qstr_{s5}_has_a_strength_|{s5} has a strength of {reg1} men in total.
+qstr_The_last_time_you_sa|The last time you saw {reg1?her:him}, {s1}
+qstr_The_last_time_you_he|The last time you heard about {reg1?her:him}, {s1}
+qstr_Current_garrison_con|Current garrison consists of {reg5} men.^Has food stock for {reg6} days.
+qstr_Very_Poor|Very Poor
+qstr_Poor|Poor
+qstr_Average|Average
+qstr_Rich|Rich
+qstr_Very_Rich|Very Rich
+qstr_Manor|Manor
+qstr_A_manor_lets_you_res|A manor lets you rest at the village and pay your troops half wages while you rest.
+qstr_Mill|Mill
+qstr_A_mill_increases_vil|A mill increases village prosperity by 5%.
+qstr_Watch_Tower|Watch Tower
+qstr_A_watch_tower_lets_t|A watch tower lets the villagers raise alarm earlier. The time it takes for enemies to loot the village increases by 50%.
+qstr_School|School
+qstr_A_shool_increases_th|A shool increases the loyality of the villagers to you by +1 every month.
+qstr_Messenger_Post|Messenger Post
+qstr_A_messenger_post_let|A messenger post lets the inhabitants send you a message whenever enemies are nearby, even if you are far away from here.
+qstr_Prison_Tower|Prison Tower
+qstr_A_prison_tower_reduc|A prison tower reduces the chance of captives held here running away successfully.
+qstr_{s4}_looks_upset.|{s4} looks upset.
+qstr_your_party|your party
+qstr_{reg0?One_of_your_pr|{reg0?One of your prisoners, :}{s1} of {s3} has escaped from captivity!
+qstr_You_brought_{reg3}_h|You brought {reg3} heads of cattle to {s1}.
+qstr_I_heard_that_there_w|I heard that there will be a tournament in {s62} soon.
+qstr_I_heard_that_one_can|I heard that one can buy {s62} very cheap at {s63}.
+qstr_I_heard_that_they_pa|I heard that they pay a very high price for {s62} at {s63}.
+qstr_two_days_ago|two days ago
+qstr_Best_threat_of_{s4}_|Best threat of {s4} has value level of {reg1}
+qstr_No_center_found_to_d|No center found to defend
+qstr_You_gain_right_to_ru|You gain right to rule.
+qstr_You_lose_right_to_ru|You lose right to rule.
+qstr_Added_money_for_your|Added money for your old horse
+qstr_Line_Infantry_Compan|Line Infantry Company
+qstr_Light_Infantry_Compa|Light Infantry Company
+qstr_Guard_Infantry_Compa|Guard Infantry Company
+qstr_Cavalry_Squadron|Cavalry Squadron
+qstr_Mounted_Rifles_Squad|Mounted Rifles Squadron
+qstr_Cavalry_Guard_Squadr|Cavalry Guard Squadron
+qstr_Field_Guns_Battery|Field Guns Battery
+qstr_Howitzers_Battery|Howitzers Battery
+qstr_Heavy_Howitzers_Batt|Heavy Howitzers Battery
+qstr_Machine_Guns_Crew|Machine Guns Crew
+qstr_Shock_Troops_Company|Shock Troops Company
+qstr_Armor_Squadron|Armor Squadron
+qstr__I.| I.
+qstr_L.I.|L.I.
+qstr__G.| G.
+qstr_M.C.|M.C.
+qstr_M.R.|M.R.
+qstr_C.G.|C.G.
+qstr_G.B.|G.B.
+qstr_H.B.|H.B.
+qstr_H.H.|H.H.
+qstr_M.G.|M.G.
+qstr_S.I.|S.I.
+qstr_A.|A.
+qstr_Cannot_form_square:_t|Cannot form square: too few soldiers (need at least 25).
+qstr_{reg0}|{reg0}
+qstr_1_{reg1}|1 {reg1}
+qstr_flag1_0|flag1 0
+qstr_{s31}_created_a_casu|{s31} created a casus belli for {s32} for {reg10} days.
+qstr_{s31}_s_infamy_is_in|{s31}'s infamy is increased by {reg10} and is now {reg11}.
+qstr_{s31}_s_infamy_is_de|{s31}'s infamy is decreased by {reg10} and is now {reg11}.
+qstr_Belongs_to_{s31}|Belongs to {s31}
+qstr_Controlled_by_{s31}^|Controlled by {s31}^Legitimate owner is {s32}
+qstr_{s31}_becomes_an_all|{s31} becomes an ally of {s32}.
+qstr_{s31}_breaks_an_alli|{s31} breaks an alliance with {s32}.
+qstr_As_a_result_of_the_e|As a result of the elections, {s1} became the ruling party.
+qstr_Parliament_Compositi|Parliament Composition
+qstr_{s1}:_{reg1}%|{s1}: {reg1}%
+qstr_Not_a_ruling_party|Not a ruling party
+qstr_Ruling_party|Ruling party
+qstr_Influence:_{reg1}%|Influence: {reg1}%
+qstr_Annual_Income:_{reg1|Annual Income: {reg1}.{reg10} $
+qstr_Quality_of_life:_{re|Quality of life: {reg2}.{reg10}%
+qstr_Current_budget:|Current budget:
+qstr_{reg10}_$|{reg10} $
+qstr_Corruption_level:_{r|Corruption level: {reg10}%
+qstr_+{reg10}_$|+{reg10} $
+qstr_Goods_and_services_t|Goods and services tax: {reg10}%
+qstr__{reg10}_$|-{reg10} $
+qstr_Public_servants_wage|Public servants wage expenses:^-{reg10} $
+qstr_Other_expenses:^_{re|Other expenses:^-{reg10} $
+qstr_Lost_from_corruption|Lost from corruption: -{reg10} $
+qstr_Last_budget_change:^|Last budget change:^^{s1}{reg10} $
+qstr_{reg1}.{reg2}%|{reg1}.{reg2}%
+qstr____| - 
+qstr_PPS_Faction_iteratio|PPS Faction iteration of {s1}.
+qstr_Center_iteration_of_|Center iteration of {s1}.
+qstr_{s1}_s_{s2}_Iteratio|{s1}'s {s2} Iteration:
+qstr_price_item_{s1}_raw_|price item {s1} raw resource1 {reg10} raw resource1 amount {reg11} output size {reg12}.
+qstr_Produced_{reg10}_wit|Produced {reg10} with {reg20} workers, raw resources multiplier was {reg30}.
+qstr_Spent_{reg10}_$_for_|Spent {reg10} $ for wage.
+qstr_Searching_for_{s1}_i|Searching for {s1} in {reg10} centers.
+qstr_{s1}_has_{reg10}_of_|{s1} has {reg10} of {s2}.
+qstr_In_sum_bought_{reg1}|In sum, bought {reg1}/{reg10} of {s1}.
+qstr_Workers_unemployed__|Workers unemployed - {reg1}, employed {reg2} workers.
+qstr_{reg1}_thousands_of_|{reg1} thousands of population
+qstr_Daily_GDP_is_{reg1}_$|Daily GDP is {reg1} $^({reg2}% of {s1}'s economy).
+qstr_This_region_produces|This region produces increased amount of {s2}.
+qstr_Add_Workplaces^^Buyi|Add Workplaces^^Buying more equipment will increase^number of workplaces.
+qstr_Improve_Worker_Condi|Improve Worker Conditions^^Improving working conditions means inceasing^worker wage, improving production safety and,^in the end, introducing social benefits to workers.^This will increase quality of product^and increase factory attractiveness^for potential workers.
+qstr_Improve_Equipment^^T|Improve Equipment^^Thorough maintaining and improving factory^equipment increases quality of product, making^it more likely to be sold.
+qstr_No_development_mode.|No development mode.
+qstr_Workers_of_this_fact|Workers of this factory are on strike,^which means that its production output^is decreased by 95%.^^Strike is going to end in {reg10} days.
+qstr_{reg10}/{reg11}_work|{reg10}/{reg11} workers
+qstr_Budget:_{reg10}_$.|Budget: {reg10} $.
+qstr_Income:_{reg10}_$.|Income: {reg10} $.
+qstr_Spent_{reg10}_$_and_|Spent {reg10} $ and earnt {reg11} $.
+qstr_Managed_to_buy_{reg1|Managed to buy {reg10}% of needed raw resources^needed for production.
+qstr_Produced_{reg10}.{re|Produced {reg10}.{reg12} {s1} (sold {reg11}%).
+qstr_Quality_of_product_i|Quality of product is {reg10}%.
+qstr_Engineers_percentage|Engineers percentage is {reg10}%.
+qstr_Deterioration_of_mac|Deterioration of machine tools is {reg10}%.
+qstr_bad|bad
+qstr_medium|medium
+qstr_good|good
+qstr_exellent|exellent
+qstr_Worker_wage_is_{s1};|Worker wage is {s1}; Working conditions are {s2}.
+qstr_Select_development_m|Select development mode:
+qstr_Set_workers_wage_lev|Set workers wage level:
+qstr_Sell_factory__{reg10|Sell factory ({reg10} $)
+qstr_Building^{s1}^_{reg1|Building^{s1}^({reg10}%)
+qstr_pes_region_factory_p|pes region factory photo notavailable
+qstr_pes_region_factory_ph|pes region factory photo empty
+qstr_Steel_Factory|Steel Factory
+qstr_pes_region_factory_pho|pes region factory photo steel
+qstr_Ammunition_Factory|Ammunition Factory
+qstr_pes_region_factory_phot|pes region factory photo ammunition
+qstr_Lumber_Mill|Lumber Mill
+qstr_pes_region_factory_photo|pes region factory photo timber
+qstr_Machinery_Parts_Plan|Machinery Parts Plant
+qstr_pes_region_factory_photo_|pes region factory photo machineparts
+qstr_Cotton_Mill|Cotton Mill
+qstr_pes_region_factory_photo_f|pes region factory photo fabric
+qstr_Paper_Mill|Paper Mill
+qstr_pes_region_factory_photo_p|pes region factory photo paper
+qstr_Construction_Materia|Construction Materials^Factory
+qstr_Construction_Material|Construction Materials Factory
+qstr_pes_region_factory_photo_c|pes region factory photo constructionmaterials
+qstr_Weaponry_Factory|Weaponry Factory
+qstr_pes_region_factory_photo_w|pes region factory photo weaponry
+qstr_Military_Supplies^Fa|Military Supplies^Factory
+qstr_Military_Supplies_Fa|Military Supplies Factory
+qstr_pes_region_factory_photo_m|pes region factory photo militarysupplies
+qstr_Clothing_Factory|Clothing Factory
+qstr_pes_region_factory_photo_cl|pes region factory photo clothes
+qstr_Furniture_Factory|Furniture Factory
+qstr_pes_region_factory_photo_fu|pes region factory photo furniture
+qstr_tons_of_steel|tons of steel
+qstr_ammunition|ammunition
+qstr_tons_of_timber|tons of timber
+qstr_tons_of_lumber|tons of lumber
+qstr_weapons|weapons
+qstr_clothings|clothings
+qstr_tons_of_coal|tons of coal
+qstr_tons_of_iron|tons of iron
+qstr_tons_of_constr._mate|tons of constr. materials
+qstr_kilograms_of_cotton|kilograms of cotton
+qstr_kilograms_of_fabric|kilograms of fabric
+qstr_pieces_of_furniture|pieces of furniture
+qstr_machine_parts|machine parts
+qstr_tons_of_military_sup|tons of military supplies
+qstr_kilograms_of_paper|kilograms of paper
+qstr_tons_of_meat|tons of meat
+qstr_tons_of_flour|tons of flour
+qstr_{reg12}_{s3}_has_bou|{reg12} {s3} has bought {reg10} {s1} from {s4} for {reg11}.
+qstr_{s1}_s_{s2}_decided_|{s1}'s {s2} decided to fire {reg10} workers.
+qstr_Population_of_{s1}_i|Population of {s1} is buying resources. Literacy {reg10}, population {reg11}, urbanization {reg12}.
+qstr_Steel|Steel
+qstr_Ammunition|Ammunition
+qstr_Lumber|Lumber
+qstr_Wood|Wood
+qstr_Weaponry|Weaponry
+qstr_Clothes|Clothes
+qstr_Coal|Coal
+qstr_Iron|Iron
+qstr_Construction_materia|Construction materials
+qstr_Cotton|Cotton
+qstr_Fabric|Fabric
+qstr_Furniture|Furniture
+qstr_Machine_parts|Machine parts
+qstr_Military_supplies|Military supplies
+qstr_Paper|Paper
+qstr_Meat|Meat
+qstr_Flour|Flour
+qstr_Price___{reg10}.{reg|Price - {reg10}.{reg11} $
+qstr_Supply___{reg11}.{re|Supply - {reg11}.{reg12} {s1}
+qstr_Demand___{reg11}.{re|Demand - {reg11}.{reg12} {s1}
+qstr_{reg10}._{s1}|{reg10}. {s1}
+qstr_{reg10}.{reg11}|{reg10}.{reg11}
+qstr_{reg10}%|{reg10}%
+qstr_handicraft^only|handicraft^only
+qstr_{reg10}k_$|{reg10}k $
+qstr_{reg10}_mil.|{reg10} mil.
+qstr_{reg10}_th.|{reg10} th.
+qstr_{reg10}.{reg11}%|{reg10}.{reg11}%
+qstr_{s1}_produced_{reg10|{s1} produced {reg10} {s2}.
+qstr_Produces_steel_out^o|Produces steel out^of iron and coal.
+qstr_Produces_ammunition_|Produces ammunition out^of steel.
+qstr_Produces_lumber_out^|Produces lumber out^of wood.
+qstr_Produces_weaponry_ou|Produces weaponry out^of steel and lumber.
+qstr_Produces_clothes_out|Produces clothes out^of fabric.
+qstr_Produces_constructio|Produces construction^materials out of steel and coal.
+qstr_Produces_fabric_out^|Produces fabric out^ of cotton.
+qstr_Produces_furniture_o|Produces furniture out^ of lumber.
+qstr_Produces_machine_par|Produces machine parts out^ of steel and coal.
+qstr_Produces_military_su|Produces military supplies out^ of steel and fabric.
+qstr_Produces_paper_out^_|Produces paper out^ of wood.
+qstr_Produced_{reg2}_{s1}|Produced {reg2} {s1} with {reg11} artisans, raw resources multiplier was {reg12}.
+qstr_Chance_to_build_fact|Chance to build factory in {s1} is {reg10}.{reg11}%.
+qstr_Building_factory_in_|Building factory in {s1}
+qstr_Price_of_{s1}_has_ch|Price of {s1} has changed by {reg10}.
+qstr_Urbanization_of_{s1}|Urbanization of {s1}'s center {s2} was increased by {reg10}.
+qstr_{s1}_gives_{reg11}%_|{s1} gives {reg11}% votes.
+qstr_{reg10}%_of_parliame|{reg10}% of parliament voted for bill. Bill rejected.
+qstr_{reg10}%_of_parliamen|{reg10}% of parliament voted for bill. Bill accepted.
+qstr_{s1}_rural_wealth_{r|{s1} rural wealth {reg10} urban wealth {reg11} middle wealth {reg12} bourgeoisie wealth {reg13} aristocracy wealth {reg14} sum wage {reg15} gdp rural {reg16} gdp urban {reg17} population root {reg18}
+qstr_{s1}_cannot_launch_g|{s1} cannot launch grenade attack - {reg1} seconds cooldown.
+qstr_{s1}_cannot_launch_ga|{s1} cannot launch gas attack - {reg1} seconds cooldown.
+qstr_You_became_a_high_co|You became a high command officer, which means you are free to act independent during service.
+qstr_You_became_a_non_com|You became a non-commissioned officer, which means you will now command troops in battle.
+qstr_You_became_a_marshal|You became a marshall of {s10}, which means you can start and manage campaigns.
+qstr_{s50}_{s51}|{s50} {s51}
+qstr_Your_government_type|Your government type doesn't allow to manage this factory.
+qstr_Unable_to_manage_ene|Unable to manage enemy faction's factory.
+qstr_{s1}:_Peaceful_demon|{s1}: Peaceful demonstration in support of social welfare! Citizens of {s2} gathered on the main square of the city, calling on the government to intervene in the worsening situation of dire working conditions.
+qstr_The_demonstration_en|The demonstration ended without a response from the government.
+qstr_The_police_dispersed|The police dispersed the crowd, but managed to do it without victims.
+qstr___Massacre_in_{s2}!_|''Massacre in {s2}!'' The police started shooting at peaceful protesters, at least {reg10} people were wounded.
+qstr_{s1}:_Workers_in_{s2|{s1}: Workers in {s2} have sabotaged production in {s3} in protest of bad working conditions! Machinery has been damaged severely.
+qstr_{s1}:_Riot_in_{s2}!_|{s1}: Riot in {s2}! {s3} has been damaged after group of workers caused a commotion in protest of bad working conditions.
+qstr_{s1}:_Workers_of_{s2|{s1}: Workers of {s2} have gone on a strike in the {s3}, in protest of poor working conditions and low wages. The strike is set to continue for the following {reg4} days, strike leaders say.
+qstr_{s1}:_Workers_in_{s2}|{s1}: Workers in {s2} have initiated a strike in the {s3} in protest of bad working conditions. The strike will end in {reg4} days.
+qstr_{s1}:_Strike_in_{s2}|{s1}: Strike in {s2}! All labour activity has stopped in {s3} as workers fight against the current working conditions. The strike will continue for {reg4} more days.
+qstr_{s1}_in_{s2}|{s1} in {s2},
+qstr__{s1}_in_{s2}| {s1} in {s2},
+qstr_{s1}:_Worker_unions_|{s1}: Worker unions have called for a general strike! United in protest, workers have joined the picket lines in {s3}{s4}{s5}{s6}{s7}!
+qstr_{s3}_s_police_arrest|{s3}'s police arrests {reg1} political figures supporting {s1}. Alongside the arrests, the government has also announced the banning of the movements newspaper. ^^Effect: {s1}'s influence decreases.
+qstr_{s3}:_Mass_arrests_o|{s3}: Mass arrests of pro-{s1} politicians. Major portions of {s1} supporters are forced into clandestine efforts as open agitation has become dangerous.^^Effect: {s1}'s influence decreases.
+qstr___Arrested!___Famous|''Arrested!'' Famous opposition politicians from {s1} in {s3} have been publicly declared enemy of the state and have been arrested or forced into hiding.^^Effect: {s1}'s influence decreases.
+qstr_{s3}_s_officials_fac|{s3}'s officials face backlash after efforts to undermining the opposition have been discovered. ^^Effect: {s2}'s influence decreases.
+qstr_{s3}:___Outrageous!_|{s3}: ''Outrageous!'' Political observers have discovered vile plans by the {s2}.^^Effect: {s2}'s influence decreases.
+qstr_{s3}:_{s2}_has_lost_|{s3}: {s2} has lost standing in the public eye after a scandal manifests itself within the party ranks.^^Effect: {s2}'s influence decreases.
+qstr_{s3}:_{s2}_has_been_|{s3}: {s2} has been found guilty of attempting to cover up a break-in of the opposition's headquarters in the capital.^^Effect: {s2}'s influence decreases.
+qstr_{s3}:_{s1}_was_fined|{s3}: {s1} was fined ${reg2} over involvement in an illegal financial scheme. ^^Effect: {s1}'s influence decreases.
+qstr___Corruption_scandal|''Corruption scandal in {s3}'': {s1} faced backlash after members were found trying to bribe officials.^^Effect: {s1}'s influence decreases.
+qstr_{s3}:_Famous_politic|{s3}: Famous politician {s4} from {s1} discovered to have been involved in a recent financial scandal, discrediting his party in the eyes of the voters.^^Effect: {s1}'s influence decreases.
+qstr_{s1}_s_government_ha|{s1}'s government has been changed to {s2}.
+qstr_Constitutional_Dual_|Constitutional Dual Monarchy
+qstr_Absolute_Monarchy|Absolute Monarchy
+qstr_Constitutional_Monar|Constitutional Monarchy
+qstr_Republic|Republic
+qstr_Soviet_Republic|Soviet Republic
+qstr_{reg0}._Company_has_|{reg0}. Company has switched to walking.
+qstr_{reg0}._Company_has_s|{reg0}. Company has switched to running.
+qstr_{s1}_cannot_change_f|{s1} cannot change formation - only light infantry can apply extended line formation.
+qstr_{s1}_cannot_change_fo|{s1} cannot change formation - you need to research Modern Attack Tactics technology to apply line formation.
+qstr_{s1}_cannot_change_for|{s1} cannot change formation - you need to research Skirmish Line Tactics technology to apply dense line formation.
+qstr_{s1}_cannot_change_form|{s1} cannot change formation - you need to research Adaptive Training technology to apply extended line formation.
+qstr_{s1}_cannot_change_forma|{s1} cannot change formation - you need to research Skirmish Line Tactics technology to apply line formation.
+qstr_{s1}_cannot_change_format|{s1} cannot change formation - discipline level is less than 30%.
+qstr_day|day
+qstr_cloud1|cloud1
+qstr_cloud2|cloud2
+qstr_cloud3|cloud3
+qstr_cloud4|cloud4
+qstr_cloud5|cloud5
+qstr_sunset|sunset
+qstr_clouds1|clouds1
+qstr_clouds2|clouds2
+qstr_clouds3|clouds3
+qstr_clouds4|clouds4
+qstr_evening|evening
+qstr_night|night
+qstr_dusk|dusk
+qstr_Hotkeys:_U_to_access|Hotkeys: U to access the aerial view E and Q to rotate camera horizontally Middle mouse button and moving mouse up and down to rotate camera vertically Space and Ctrl to control your height ~ tilde (next to 1) to make selected companies run. You can select companies either by clicking on the units on screen, or by selecting them in the UI in the bottom left Use your right mouse button to place, and orientate your units.
+qstr_{reg0}._Company_was_|{reg0}. Company was forced to retreat.
+qstr_1st_{s1}|1st {s1}
+qstr_2nd_{s1}|2nd {s1}
+qstr_3rd_{s1}|3rd {s1}
+qstr_4th_{s1}|4th {s1}
+qstr_5th_{s1}|5th {s1}
+qstr_6th_{s1}|6th {s1}
+qstr_7th_{s1}|7th {s1}
+qstr_8th_{s1}|8th {s1}
+qstr_debug_YuriCannonOrde|debug YuriCannonOrder Begin
+qstr_debug_YuriCannonOrder|debug YuriCannonOrder End
+qstr_You_got_keys_of_dung|You got keys of dungeon.
+qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
+qstr_Tutorial|Tutorial
+qstr_Your_current_rank_is|Your current rank is {s1}.^^Current points/points needed for promotion: {reg10}/{reg11}
+qstr_^{s32}_s_Infamy:_{re|^{s32}'s Infamy: {reg10}
+qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of a minor noble, who's influence was decreasing with the new times. You had everything you needed: good education, happy childhood. You visited noble feasts and celebrations with your father, so you were welcome after his death, as also you managed to save family funds.
+qstr_You_were_born_the_{re|You were born the {reg3?daughter:son} of a small businessman, always dealing with different sorts of customers and partners. Your parents were wealth enough to send you to a private school. You father wasn't able to deal with the new times, which changed trading technoligies, so after his death you had only a small part of his business.
+qstr_You_were_born_the_{reg|You were born the {reg3?daughter:son} of a minor staff officer, who took a part in a lot of conflicts of the early 19th century. Born in one of his campaigns, you never knew your mother. Although your father tried to teach you everything he knew, he wasn't a good teacher, so after his death you had only some army skills and his last bought gun.
+qstr_{reg3?daughter:son}|{reg3?daughter:son}
+qstr_You_were_born_the_{reg3|You were born the {reg3?daughter:son} of a mafia capo, who was a respected member of a local band. Your father didn't want you to follow his steps, so you had a chance for a lawful life. But circumstances of the new times left you no choice, so after his death you replaced him with his mafia heritage.
+qstr_You_were_born_the_{reg3?|You were born the {reg3?daughter:son} of a university professor. As a son of a science man, you got a very good education. Although your family wasn't rich your father tought you that money aren't the most important, so after his death you entered the world with a good amount of knowledge.
+qstr_You_were_born_the_{reg3?d|You were born the {reg3?daughter:son} of a regular factory labourer, who spent his life toughly working for his family. Although you were tought to live fairly, your father gave you freedom of chosing your future profession. After his death, you still was seeking for a business to get in your live.
+qstr_You_were_a_child_of_|You were a child of the steppe, born to a tribe of wandering nomads who lived in great camps throughout the arid grasslands. Like the other tribesmen, your family revered horses above almost everything else, and they taught you how to ride almost before you learned how to walk. 
+qstr_As_the_{reg3?daughte|As the {reg3?daughter:son} of a thief, you had very little 'formal' education. Instead you were out on the street, begging until you learned how to cut purses, cutting purses until you learned how to pick locks, all the way through your childhood. Still, these long years made you streetwise and sharp to the secrets of cities and shadowy backways.
+qstr_You_were_as_far_as_a|You were, as far as anyone outside the university could tell, a studious person. Always obeying the rules, always getting good grades. If that was an illusion or not, only you know. But suffice you say, you were in university, be it because of a patronage from someone wealthy or because your family was rich enough to afford it, and even if you were a student whose record was questionable at best, it gained you valuable insight and experience.
+qstr_The_thrumming_of_mac|The thrumming of machines and the pounding of metal is a sound you know better than anyone. It was hard work, waking up real early and going to bed real late, working every second between those two events under the watchful eye of demanding overseers. You became intimately familiar with technology, particularly industry, as you worked. Your calloused hands are proof that you know hard work, and though you left the factory life behind, it will never leave you.
+qstr_Living_on_the_street|Living on the streets was tough. Stealing to live, if you could call the scraps you could get any sort of proper life, was part and parcel of your existence. Everyone looked down at you as a street urchin, as someone to be reviled and pitied at best, or actively driven out at worst. This hard life gave you perspective, it gave you skills others may see as unsavory. Luckily, in war, unsavory skills are quite useful.
+qstr_Extra_extra!_Local_n|Extra extra! Local newspaper has a bunch of stories that you never really cared for! Hawking newspapers all day certainly improved your skills at speaking, making people who otherwise wouldn't care for the goings-on to buy a newspaper. Of course, a keen knowledge of business is hardly a bad thing. Perhaps the skills you learned will do you well in the new world you find yourself in.
+qstr_As_a_{reg3?girl:boy}|As a {reg3?girl:boy} growing out of childhood, you rode the great steppes on a horse of your own, learning the ways of the grass and the desert. Although you sometimes went hungry, you became a skillful hunter and pathfinder in this trackless country. Your body too started to harden with muscle as you grew into the life of a nomad {reg3?woman:man}.
+qstr_You_were_drawn_to_th|You were drawn to the human body, and how it functioned. Perhaps a family member got sick, and you vowed to help others through the same. Perhaps you liked giving people hope and treating them. Maybe you just liked cutting things apart. Either way, in college, you went into the fields of medicine.
+qstr_Perhaps_you_live_som|Perhaps you live somewhere where grand architecture spirals up into the sky, or where imposing walls surrounded you. Or a small village, with beautiful and ancientchurches, was where your interest in buildings came. It doesn’t matter, because you loved buildings,and learned to raise them up in university. Perhaps now, you shall use that to tear them down. 
+qstr_Philology_the_study_|Philology, the study of languages and how they compare, is extremely important to the diplomacy of Europe, where besides Latin, language like English, Russian, French, and so forth mustbe mastered. Studying this in university gave you a keen tongue and learned how to speak and communicate withthe high lords and common folk across the many realms of Europe.
+qstr_{reg3?daughter:man}|{reg3?daughter:man}
+qstr_{reg3?woman:man}|{reg3?woman:man}
+qstr_You_decided_to_lead_|You decided to lead a bohemian life, travelling from place to place playing music. This has put you in touch with the common people, and most of your interactions with higher society consisted of a tip of the hat when they tossed a coin into your cup. But still, you have learned how to advertise yourself, how to speak to a crowd, and how to entertain. All very useful skills, indeed.
+qstr_You’re_a_businessp|You’re a businessperson, someone who has capital and funds enough to make more   capital. Perhaps you rose from the working class, or perhaps you started with a small loan from your family.   Either way, you’re well-off and can definitely get a foot in wherever you go now.
+qstr_You_fell_into_crimin|You fell into criminal life, and never really got out. The police know who you are    in some places, and in others they leer as if they should know you. No matter, of course, since between arrests   and brief jail times, you’ve learned how to survive outside the law.
+qstr_You_went_to_the_Amer|You went to the Americas to seek a new life, perhaps to escape persecution   in Europe, perhaps to make a new life free from debts. Whatever your reasons, you took the journey   across to the Atlantic. And now, for whatever reason, you have returned to Europe.
+qstr_You_fought_in_the_Cr|You fought in the Crimea, either with or against Russia, and your   experiences in that war were invaluable and horrific. You saw men die, you saw foolish cavalry   charges, you saw the awesome power of cannons. As you returned home, weary and war-shocked, you knew you would never be the same.
+qstr_Only_you_know_exactl|Only you know exactly what caused you to give up your old life and become an adventurer. Still, it was not a difficult choice to leave, with the rage burning brightly in your heart. You want vengeance. You want justice. What was done to you cannot be undone, and these debts can only be paid in blood...
+qstr_Only_you_know_exactly|Only you know exactly what caused you to give up your old life and become an adventurer. All you can say is that you couldn't bear to stay, not with the memories of those you loved so close and so painful. Perhaps your new life will let you forget, or honour the name that you can no longer bear to speak...
+qstr_Only_you_know_exactly_|Only you know exactly what caused you to give up your old life and become an adventurer. You're not even sure when your home became a prison, when the familiar became mundane, but your dreams of wandering have taken over your life. Whether you yearn for some faraway place or merely for the open road and the freedom to travel, you could no longer bear to stay in the same place. You simply went and never looked back...
+qstr_Only_you_know_exactly_w|Only you know exactly what caused you to give up your old life and become an adventurer. However, you know you cannot go back. There's nothing to go back to. Whatever home you may have had is gone now, and you must face the fact that you're out in the wide wide world. Alone to sink or swim...
+qstr_Only_you_know_exactly_wh|Only you know exactly what caused you to give up your old life and become an adventurer. To everyone else, it's clear that you're now motivated solely by personal gain. You want to be rich, powerful, respected, feared. You want to be the one whom others hurry to obey. You want people to know your name, and tremble whenever it is spoken. You want everything, and you won't let anyone stop you from having it...
+qstr_Back_to_the_beginnin|Back to the beginning...
+qstr_View_next_segment...|View next segment...
+qstr_^No_food:___{reg7}|^No food:  -{reg7}
+qstr_^Wage_debt:___{reg6}|^Wage debt:  -{reg6}
+qstr_On_loan|On loan,
+qstr_Appoint_next_marshal|Appoint next marshal
+qstr_Award_{s12}_as_fief|Award {s12} as fief
+qstr_No_one|No one
+qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
+qstr_You_are_currently_re|You are currently reading {s8}.
+qstr_You_are_not_reading_|You are not reading any books.
+qstr_none|none
+qstr_{s5}_and_{s6}|{s5} and {s6}
+qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
+qstr_Current_party_size_l|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +30^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
+qstr_Loyal|Loyal
+qstr_Devoted|Devoted
+qstr_Fond|Fond
+qstr_Gracious|Gracious
+qstr_Friendly|Friendly
+qstr_Supportive|Supportive
+qstr_Favorable|Favorable
+qstr_Cooperative|Cooperative
+qstr_Accepting|Accepting
+qstr_Indifferent|Indifferent
+qstr_Suspicious|Suspicious
+qstr_Grumbling|Grumbling
+qstr_Hostile|Hostile
+qstr_Resentful|Resentful
+qstr_Angry|Angry
+qstr_Hateful|Hateful
+qstr_Revengeful|Revengeful
+qstr_Vengeful|Vengeful
+qstr_Your_relation_with_t|Your relation with the factions are:^{s2}
+qstr_Player_renown_is_inc|Player renown is increased by 100. 
+qstr_Player_honor_is_incr|Player honor is increased by 1 and it is now {reg7}.
+qstr_north_region|north region
+qstr_middle_region|middle region
+qstr_south_region|south region
+qstr_Ironsight_mode_disab|Ironsight mode disabled.
+qstr_Ironsight_mode_enabl|Ironsight mode enabled.
+qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?accept:accepts} the offer.
+qstr_No_one_accepts_the_o|No one accepts the offer.
+qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
+qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
+qstr_Villagers|Villagers
+qstr_You_have_encountered|You have encountered {s1}.
+qstr_You_have_engaged_{s1|You have engaged {s1} while they were raiding {s3}.
+qstr_You_were_caught_by_{|You were caught by {s1} while your forces were raiding {s3}.
+qstr_You_were_victorious!|You were victorious!
+qstr_Battle_was_lost._You|Battle was lost. Your forces were utterly crushed.
+qstr_Your_companions_carr|Your companions carry you away from the fighting.
+qstr_You_have_defeated_th|You have defeated the enemy.
+qstr_You_have_retreated_f|You have retreated from the fight.
+qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
+qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.
+qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
+qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
+qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
+qstr_Perhaps_I_m_getting_|Perhaps I'm getting unlucky...
+qstr_Retirement_is_starti|Retirement is starting to sound better and better.
+qstr_No_matter!_I_will_pe|No matter! I will persevere!
+qstr_What_did_I_do_to_des|What did I do to deserve this?
+qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
+qstr_{s9}_wants_you_to_fo|{s9} wants you to follow his army until further notice.
+qstr_The_local_road_netwo|The local road network connects {s2} to the cities of {s60}, {s61} and {s62}. This region has access to the sea.
+qstr_The_local_road_networ|The local road network connects {s2} to the cities of {s60}, {s61} and {s62}.
+qstr_{s8}_of_{s9}|{s8} of {s9}
+qstr__Your_nation_flag_fl| Your nation flag flies over the fort gate.
+qstr__You_see_the_banner_| You see the banner of {s7} over the fort gate.
+qstr__Your_own_banner_fli| Your own banner flies over the town gates.
+qstr__You_see_the_banner_o| You see the banner of {s7} over the town gates.
+qstr_Cannot_besiege:_too_|Cannot besiege: too far from any center of your faction (closest centers to this {reg6?town:castle} are {s60}, {s61} and {s62}) and can't be besieged from the sea.
+qstr_The_{reg6?town_s:cas|The {reg6?town's:castle's} food stores should last for {reg3} more days.
+qstr_The_{reg6?town_s:cast|The {reg6?town's:castle's} food stores have run out and the defenders are starving.
+qstr_You_re_preparing_to_|You're preparing to attack the walls, the work should finish in {reg9} hours.
+qstr_Your_forces_are_buil|Your forces are building a siege tower. They estimate another {reg9} hours to complete the build.
+qstr_You_are_ready_to_att|You are ready to attack the walls at any time.
+qstr_The_siege_tower_is_b|The siege tower is built and ready to make an assault.
+qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
+qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. IF you can defeat them, you can perhaps turn the tide and save the day.
+qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
+qstr_The_town_is_yours_bu|The town is yours, but the remaining defenders have retreated to the castle. It must fall before you can complete your victory.
+qstr_The_remaining_defend|The remaining defenders have retreated to the castle as a last defense. You must go in and crush any remaining resistance.
+qstr_However_since_you_ar|However, since you are not a sworn {man/follower} of {s9}, there is no chance he would recognize you as the {lord/lady} of this {reg8?town:castle}.
+qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
+qstr_As_you_approach_you_|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {king/queen}.
+qstr_As_you_approach_you_a|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {lord/lady}.
+qstr__This_village_and_th| This village and the surrounding lands belong to you.
+qstr__You_remember_that_t| You remember that this village and the surrounding lands belong to {s7}.
+qstr__These_lands_belong_| These lands belong to no one.
+qstr__The_village_is_infe| The village is infested by {reg8} {s35}.
+qstr__The_village_has_bee| The village has been looted. A handful of souls scatter as you pass through the burnt out houses.
+qstr__The_village_is_bein| The village is being raided.
+qstr_soldiers|soldiers
+qstr_rebels|rebels
+qstr_No_one_here_seems_to|No one here seems to be willing to join your party.
+qstr_One_{s3}_volunteers_|One {s3} volunteers to follow you.
+qstr_{reg5}_{s3}_voluntee|{reg5} {s3} volunteer to follow you.
+qstr_Try_as_you_might_you|Try as you might, you could not defeat the bandits. Infuriated, they raze the village to the ground to punish the peasants, and then leave the burning wasteland behind to find greener pastures to plunder.
+qstr_village|village
+qstr_town|town
+qstr_castle|castle
+qstr_The_{s17}_has_no_imp|The {s17} has no improvements.
+qstr_The_{s17}_has_the_fo|The {s17} has the following improvements:{s18}.
+qstr_The_assasins_beat_yo|The assasins beat you down and leave you for dead. .
+qstr_You_have_fallen._The|You have fallen. The bandits quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely.
+qstr_Luckily_some_of_your|Luckily some of your companions come to search for you when you do not return, and find you lying by the side of the road. They hurry you to safety and dress your wounds.
+qstr_Luckily_some_passing|Luckily some passing townspeople find you lying by the side of the road, and recognise you as something other than a simple beggar. They carry you to the nearest inn and dress your wounds.
+qstr_You_fail_to_steal_an|You fail to steal any cattle.
+qstr_You_drive_away_{reg1|You drive away {reg17} {reg12?heads:head} of cattle from the village's herd.
+qstr_You_are_at_{s2}.|You are at {s2}.
+qstr__You_see_the_flag_of| You see the flag of {s7} over the fort gate.
+qstr__This_castle_has_no_| This castle has no garrison.
+qstr__Your_own_flag_flies| Your own flag flies over the town gates.
+qstr__You_see_the_flag_of_| You see the flag of {s7} over the town gates.
+qstr__This_town_has_no_ga| This town has no garrison.
+qstr__You_have_successful| You have successfully sneaked in.
+qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
+qstr___Join_the_commander| (Join the commanders' meeteing)
+qstr___{reg1}_pounds_per_| ({reg1} pounds per night)
+qstr_You_are_not_allowed_|You are not allowed here (need to have relation with faction 5 and higher).
+qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} pounds from the clever bets you placed on yourself...
+qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round. 
+qstr_You_have_been_bested|You have been bested in this melee, but the master of ceremonies declares a recognition of your skill and bravery, allowing you to take part in the next round. 
+qstr_You_were_beaten._The|You were beaten. The peasants are heartened by their success, but the lesson you wanted to teach them probably didn't get through...
+qstr_After_beating_your_l|After beating your last opponent, you explain to the peasants how to better defend themselves against such an attack. Hopefully they'll take the experience on board and will be prepared next time.
+qstr_The_bandits_are_brok|The bandits are broken! Those few who remain alive and conscious run off with their tails between their legs, terrified of the peasants and their new champion.
+qstr_{s1}_s_Ship|{s1}'s Ship
+qstr_However_{reg3?You_ar|However, {reg3?You are:{s1} is} unable to find any trade goods that would bring a profit.
+qstr_^Buying_{s4}_here_an|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} pounds per item.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?You find:{s1} finds} out the following:^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} earned {reg0} experience.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1} earned an additional {reg0} experience.
+qstr_^You_earned_{reg0}_e|^You earned {reg0} experience.{s2}
+qstr_The_training_didn_t_|The training didn't go well at all.
+qstr_The_training_didn_t_g|The training didn't go very well.
+qstr_The_training_went_qu|The training went quite well.
+qstr_The_training_went_ve|The training went very well.
+qstr_The_training_went_pe|The training went perfectly.
+qstr_{s13}_asked_you_to_r|{s13} asked you to report to him with at least {reg13} troops.
+qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
+qstr_Find_and_speak_with_|Find and speak with {s3} of {s4} to give him your oath of homage.
+qstr_There_has_been_an_al|There has been an alleged border incident: {s9}
+qstr_^^Note_that_so_long_|^^Note that so long as you remain marshal, the lords of the realm will be expecting you to lead them on campaign. So, if you are awaiting a feast, either for a wedding or for other purposes, you may wish to resign the marshalship by speaking to your liege.
+qstr_Temperature:_+{reg0}|Temperature: +{reg0} C ^Pressure: {reg1} hPa ^Humidity: {reg2}% ^Wind: {reg3} km/h ^Cloudiness: {reg4}% ^Precipitation: {reg5}%
+qstr_Romanian_Principalit|Romanian Principalities
+qstr_Kingdom_of_Wurttembe|Kingdom of Wurttemberg
+qstr_Principality_of_Serb|Principality of Serbia
+qstr_Kingdom_of_Bavaria|Kingdom of Bavaria
+qstr_Kingdom_of_Hannover|Kingdom of Hannover
+qstr_French_Empire|French Empire
+qstr_Austrian_Empire|Austrian Empire
+qstr_Kingdom_of_Sardinia|Kingdom of Sardinia
+qstr_Kingdom_of_Prussia|Kingdom of Prussia
+qstr_Principality_of_Bulg|Principality of Bulgaria
+qstr_French_Republic|French Republic
+qstr_Austria_Hungary|Austria-Hungary
+qstr_Kingdom_of_Italy|Kingdom of Italy
+qstr_German_Empire|German Empire
+qstr_Kingdom_of_Romania|Kingdom of Romania
+qstr_Kingdom_of_Serbia|Kingdom of Serbia
+qstr_Kingdom_of_Bulgaria|Kingdom of Bulgaria
+qstr_Kingdom_of_Norway|Kingdom of Norway
+qstr_Principality_of_Alba|Principality of Albania
+qstr_You_have_bought_a_fi|You have bought a field gun.
+qstr_You_have_exceeded_pa|You have exceeded party size limit.
+qstr_You_have_no_enough_m|You have no enough money.
+qstr_Not_available_in_thi|Not available in this town.
+qstr_You_have_bought_a_ho|You have bought a howizer.
+qstr_You_have_bought_a_he|You have bought a heavy howizer.
+qstr_You_have_bought_a_ma|You have bought a machine gun.
+qstr_Not_available_for_th|Not available for this faction.
+qstr_Declare_war_on_Serbi|Declare war on Serbia.
+qstr_Join_league.|Join league.
+qstr_Join_Serbia_and_Gree|Join Serbia and Greece and declare war on Bulgaria.
+qstr_Days_after_peaceful_|Days after peaceful protests began, backlashes from many organizations, still not yet bore a fruit. The government decided to ignore the demands from the protesters. The government has only given them pain instead of listening them for fair investigations, leading to more and more widespread protests across the country. And now, the government has two decision, whether to comply or just simply, refuse.^^Effects: Socialist movement popularity increased by 10%.
+qstr_After_hearing_about_|After hearing about the protests, being a nuisance for the government, the government decided to dispatch some policemen to disperse the crowd of protesters by non-lethal means. They tried to disperse the crowd with whips and baton and it resulted in a success. Some of the protesters thrown rocks and debris to the officers but all of them have been arrested in the following afternoon. The last of the protesters finally dispersed after some of the demonstration leaders escaped the scene.^^Effects: Socialist movement popularity increased by 5%. Socialist movement radicalism increased by 3%.
+qstr_At_noon_when_the_dem|At noon, when the demonstration leader was making a speech about their demands infront of the crowd of protesters, troops and policemen entered the scene to disperse the crowd. Unfortunately, the government ordered the dispersion with a violent way. Then, soldiers opened fire on the protesters, killing and wounding many people. Others, tried to flee from the scene, ran either wounded or dying. Few managed to hide from the law enforcement and the dispersion is successful. The government quickly received backlashes from peace organizations, socialists and even foreign countries alike, thus souring foreign relations. ^^ Socialist movement radicalism increased by 10%.
+qstr_Breaking_camp...|Breaking camp...
+qstr_The_{s31}_gets_1_inf|The {s31} gets 1 infamy because of the prolonged war with {s32}.
+qstr_Party_has_nothing_to|Party has nothing to eat!
+qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?have:has} escaped from your party during the night.
+qstr_{s1}_of_{s3}_has_bee|{s1} of {s3} has been released from captivity.
+qstr_Building_of_{s0}_in_|Building of {s0} in {s4} has been completed.
+qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits (at night).
+qstr_You_pay_for_accommod|You pay for accommodation.
+qstr_Betrothal_to_{s5}_ex|Betrothal to {s5} expires
+qstr__Your_tactics_skill_| Your tactics skill has increased by 1.
+qstr__Your_persuasion_ski| Your persuasion skill has increased by 1.
+qstr__Your_leadership_ski| Your leadership skill has increased by 1.
+qstr__Your_intelligence_h| Your intelligence has increased by 1.
+qstr__Your_trade_skill_ha| Your trade skill has increased by 1.
+qstr__Your_weapon_master_| Your weapon master skill has increased by 1.
+qstr__Your_engineer_skill| Your engineer skill has increased by 1.
+qstr_You_have_finished_re|You have finished reading {s1}.{s2}
+qstr_Book_Read|Book Read
+qstr_{s1}_is_scouted.|{s1} is scouted.
+qstr_{s1}_has_switched_fr|{s1} has switched from {s2} to {s3}.
+qstr_The_{s1}_has_finishe|The {s1} has finished researching technology '{s2}'.
+qstr_The_year_is_{reg0}.|The year is {reg0}.
+qstr_North_German_Confede|North German Confederation
+qstr_Finished_improving_r|Finished improving relations with {s31}.
+qstr_Interrupted_improvin|Interrupted improving relations with {s31}.
+qstr_Albanian_Howitzer_Cr|Albanian Howitzer Crew Officer
+qstr_Albanian_Howitzer_Cre|Albanian Howitzer Crew Officers
+qstr_Albanian_Heavy_Howit|Albanian Heavy Howitzer Crew Officer
+qstr_Albanian_Heavy_Howitz|Albanian Heavy Howitzer Crew Officers
+qstr_Albanian_Field_Gun_C|Albanian Field Gun Crew Officer
+qstr_Albanian_Field_Gun_Cr|Albanian Field Gun Crew Officers
+qstr_Albanian_Howitzer_Crew|Albanian Howitzer Crew Cannoneer
+qstr_Albanian_Howitzer_Crew_|Albanian Howitzer Crew Cannoneers
+qstr_Albanian_Field_Gun_Cre|Albanian Field Gun Crew Cannoneer
+qstr_Albanian_Field_Gun_Crew|Albanian Field Gun Crew Cannoneers
+qstr_Albanian_MG_Operator|Albanian MG Operator
+qstr_Norwegian_Howitzer_C|Norwegian Howitzer Crew Officer
+qstr_Norwegian_Howitzer_Cr|Norwegian Howitzer Crew Officers
+qstr_Norwegian_Heavy_Howi|Norwegian Heavy Howitzer Crew Officer
+qstr_Norwegian_Heavy_Howit|Norwegian Heavy Howitzer Crew Officers
+qstr_Norwegian_Field_Gun_|Norwegian Field Gun Crew Officer
+qstr_Norwegian_Field_Gun_C|Norwegian Field Gun Crew Officers
+qstr_Norwegian_Howitzer_Cre|Norwegian Howitzer Crew Cannoneer
+qstr_Norwegian_Howitzer_Crew|Norwegian Howitzer Crew Cannoneers
+qstr_Norwegian_Field_Gun_Cr|Norwegian Field Gun Crew Cannoneer
+qstr_Norwegian_Field_Gun_Cre|Norwegian Field Gun Crew Cannoneers
+qstr_Norwegian_MG_Operato|Norwegian MG Operator
+qstr_Bulgarian_Howitzer_C|Bulgarian Howitzer Crew Officer
+qstr_Bulgarian_Howitzer_Cr|Bulgarian Howitzer Crew Officers
+qstr_Bulgarian_Heavy_Howi|Bulgarian Heavy Howitzer Crew Officer
+qstr_Bulgarian_Heavy_Howit|Bulgarian Heavy Howitzer Crew Officers
+qstr_Bulgarian_Field_Gun_|Bulgarian Field Gun Crew Officer
+qstr_Bulgarian_Field_Gun_C|Bulgarian Field Gun Crew Officers
+qstr_Bulgarian_Howitzer_Cre|Bulgarian Howitzer Crew Cannoneer
+qstr_Bulgarian_Howitzer_Crew|Bulgarian Howitzer Crew Cannoneers
+qstr_Bulgarian_Field_Gun_Cr|Bulgarian Field Gun Crew Cannoneer
+qstr_Bulgarian_Field_Gun_Cre|Bulgarian Field Gun Crew Cannoneers
+qstr_Bulgarian_MG_Operato|Bulgarian MG Operator
+qstr_President_Raymond_Po|President Raymond Poincare
+qstr_Tsar_Nicholas_II|Tsar Nicholas II
+qstr_Kaiser_Franz_Joseph_|Kaiser Franz Joseph I
+qstr_King_Victor_Emmanuel|King Victor Emmanuel III
+qstr_Kaiser_Wilhelm_II|Kaiser Wilhelm II
+qstr_Sultan_Mehmed_V|Sultan Mehmed V
+qstr_King_Edward_VII|King Edward VII
+qstr_Queen_Wilhelmina|Queen Wilhelmina
+qstr_President_Armand_Fal|President Armand Fallières
+qstr_Sultan_Abdulhamid_II|Sultan Abdulhamid II
+qstr_President_Sadi_Carno|President Sadi Carnot
+qstr_Tsar_Alexander_III|Tsar Alexander III
+qstr_King_Umberto_I|King Umberto I
+qstr_Queen_Victoria|Queen Victoria
+qstr_President_Patrice_de|President Patrice de MacMahon
+qstr_Kaiser_Wilhelm_I|Kaiser Wilhelm I
+qstr_King_Wilhelm_III|King Wilhelm III
+qstr_Your_country_is_bank|Your country is bankrupt!
+qstr_Government_type_was_|Government type was changed to Republic.
+qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
+qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
+qstr_{reg65?madame:sir}|{reg65?madame:sir}
+qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
+qstr__no_fiefs_|(no fiefs)
+qstr__fiefs:_{s0}_|(fiefs: {s0})
+qstr_It_s_your_money_or_y|It's your money or your life, {mate/girlie}. No sudden moves or we'll run you through.
+qstr_Lucky_for_you_you_ca|Lucky for you, you caught me in a good mood. Give us all your coin and I might just let you live.
+qstr_This_a_robbery_eh?_I|This a robbery, eh? I givin' you one chance to hand over everythin' you got, or me and my mates'll kill you. Understand?
+qstr_we_have_made_very_li|we have made very little progress so far
+qstr_we_have_suceeded_in_|we have suceeded in gaining some ground, but we still have a long way to go
+qstr_we_have_become_a_sig|we have become a significant force, and we have an even chance of victory
+qstr_we_are_winning_the_w|we are winning the war, but our enemies are still holding on.
+qstr_we_are_on_the_verge_|we are on the verge of victory. The remaining enemies pose no threat, but we still need to hunt them down.
+qstr_Ever_since_the_fall_|Ever since the fall of the Holy Roman Empire, the Austrian Emperor has been doing their best to undermine Northern conglomeration efforts. We will have to defeat and dissolve the weak German Confederation, lead by the Austrians, in order to rise to the position of a German hegemon, and annex the Kingdom of Hannover.^^ - Defeat the German Confederation armies belonging to Austria, Wurtemberg and Hannover^ - Conquer and hold the Bavarian fortification of Nuremberg ^ - Conquer the capital city of Stuttgart^ - Sign peace with German Confederation on conditions of taking Nuremberg and Stuttgart^^ We will be able to hold onto any conquests we make during the war, and our ultimate goal is to annex the Northern German states. Victory will pave the way to ultimate unification after we take back Alsace-Lorraine.
+qstr_War_with_France_has_|War with France has broken out, and our goal will be to utterly destroy them, take back German clay in Alsace-Lorraine, and ultimately declare Empire under our soon-to-be Emperor {playername}. It's time to display to the Southern Germans, foremost the Bavarians, that we are indeed capable of defending and leading the German people.^^ - Conquer the French border city of Strasbourg^ - Annihilate the French Army entirely^ - Sign peace with France on conditions of taking Strasbourg^^Let a united Germany rise from the ashes of the 2nd French Empire.
+qstr_The_first_step_towar|The first step towards German unification must be the reconquest of the Northern German regions of Schleswig, Holstein, and Lauenburg, which, for the past centuries, have been under occupation by the Danish Kingdom. Taking back the region, and destroying the Danish in the process, would certainly display might and competence in the eyes of the German states.^^ - Conquer the city of Kiel.^ - Defeat the Danish armies and destroy their economy to force them to surrender.^ - Sign peace with Denmark on conditions of taking Kiel^^Once we've defeated the Danes, we can move on to our Southern rival, the Austro-Hungarian Empire.
+qstr_Papal_State_and_our_|Papal State, and our primary Italian adversary, the Kingdom of Two Sicilies
+qstr_Papal_State_and_our_p|Papal State, and our primary Italian adversary, the Kingdom of Sardinia
+qstr_Kingdom_of_Two_Sicil|Kingdom of Two Sicilies, and our primary Italian adversary, the the Kingdom of Sardinia
+qstr_Your_highness_those_|Your highness, those people are our allies! We will be condemned by the entire international community, and lose a valuable ally! Are you sure?
+qstr_We_ve_agreed_by_truc|We've agreed by truce not to attack them, at least for the moment being. We will face extreme scrutiny if we do, regardless of how righteous our cause my be. Are you sure?
+qstr_Considering_we_have_|Considering we have a valid reason to attack {s31}, I don't see any inherent reason why this should speak against us. If you wish, I will send out a message to their ambassador immediately.
+qstr_I_am_afraid_we_don_t|I am afraid we don't have a justification for conflict at this point in time. We can naturally still declare war against {s31}, but expect international pressure to mount extremely quickly, and for it to put us in the crossfire of future and ongoing conflicts.
+qstr_This_is_my_decision_|This is my decision to make, go ahead anyways.
+qstr_Then_send_that_ambas|Then send that ambassador a message, and one to our generals, too.
+qstr_You_have_my_blessing|You have my blessings, go ahead.
+qstr_Let_s_not_act_rashly|Let's not act rashly. We have all the time we need, let's wait.
+qstr_Hold_it_then_we_can_|Hold it, then, we can't get ourselves condemned by a dozen nations at once!
+qstr_This_will_be_unneces|This will be unnecessary bloodshed through and through. Hold off on it.
+qstr_With_our_state_contr|With our state-controlled press, we can surely achieve a good result.
+qstr_Because_of_free_pres|Because of free press laws in our country, campaign will not be much effective.
+qstr_With_our_censorship_|With our censorship, we will be able to significantly reduce influence of our political opponents and get quite good results.
+qstr_I_want_to_start_repr|I want to start repressions against our political opponents.
+qstr_We_need_to_decrease_|We need to decrease influence of our opponents in the political arena.
+qstr_Most_certainly._Arre|Most certainly. Arrests of influential figures of the political opposition will undermine their positions in the political arena and strengthen ours. Investigation will take 10 days and {reg1} pounds per day.
+qstr_Most_certainly._Few_|Most certainly. Few revelatory articles condemning our opponents in illegal actions, aiding enemy and treason will dishonor them before the eyes of our people, and strengthen our position. The whole process will take 10 days and {reg1} pounds per day.
+qstr_However_in_case_of_f|However, in case of failure, our opponents can condemn us as answer to our actions.
+qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me. And fewer still would be willing to put their lives at risk for my cause. But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and there were times I came close to losing all hope. But with God's help, we prevailed. It is now time for me to leave your company and take what's rightfully mine. From now on, I will carry out the great responsibility of ruling {s3}. There still lie many challanges ahead and I count on your help in overcoming those. And of course, you will always remain as my foremost vassal.
+qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
+qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}
+qstr_I_am_{s4}_a_vassal_o|I am {s4}, a vassal of {s6}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? and the lord of {s8}.:.
+qstr_{s13}_asked_you_to_g|{s13} asked you to gather {reg3} heads of cattle and deliver them back to him.
+qstr_{s9}_asked_you_to_sc|{s9} asked you to scout {s13}, {s14} and {s15}, then report back.
+qstr_you|you
+qstr_You_are_challenging_|You are challenging me to a duel? How droll! As you wish, {playername}, it will be good sport to bash your head in.
+qstr_{s16}_and_{s17}|{s16} and {s17}
+qstr_Very_well_I_will_acc|Very well, I will accept you back into my ranks, if you're ready to swear your solemn oath once more.
+qstr_A_pardon_will_only_b|A pardon will only be possible if you are willing to cede {s17} to me. Do you agree my terms?
+qstr_No._There_is_no_chan|No. There is no chance of peace between us, I am not interested.
+qstr_Our_marshal_{s1}|Our marshal, {s1}
+qstr_{s11}_and_{s12}|{s11} and {s12}
+qstr_We_are_not_at_war_wi|We are not at war with anyone.
+qstr_We_are_at_war_with_{|We are at war with {s12}.
+qstr_go_on_the_offensive_|go on the offensive now.
+qstr_act_to_defend_our_la|act to defend our lands.
+qstr_take_more_time_to_ga|take more time to gather the army.
+qstr_You_promised_to_help|You promised to help {s13} claim the throne of {s14}.
+qstr_What_do_you_say_to_e|What do you say to entering the service of {s9} as a mercenary captain? I have no doubt that you would be up to the task.
+qstr_{s9}_asked_you_to_ta|{s9} asked you to take a message to {s13}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s9}_asked_you_to_tak|{s9} asked you to take a message to {s13} of {s15}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s11}_asked_you_to_e|{s11} asked you to escort his {s17} {s13} to {s14}.
+qstr_{s13}_asked_you_to_d|{s13} asked you to deal with the bandits who are occupying the village of {s15} and then report back to him.
+qstr_{s9}_asked_you_to_ra|{s9} asked you to raise {reg1} {s14} and bring them to him.
+qstr_{s9}_asked_you_to_co|{s9} asked you to collect taxes from {s3}. He offered to leave you one-fifth of all the money you collect there.
+qstr_{s9}_asked_you_to_hu|{s9} asked you to hunt down a fugitive named {s4}. He is currently believed to be at {s3}.
+qstr_{s9}_asked_you_to_as|{s9} asked you to assassinate a local merchant at {s3}.
+qstr_{s9}_has_asked_you_t|{s9} has asked you to meet with a spy in {s13}.
+qstr_{s11}_asked_you_to_f|{s11} asked you to follow the spy that will leave {s12}. Be careful not to let the spy see you on the way, or he may get suspicious and turn back. Once the spy meets with his accomplice, you are to capture them and bring them back to {s11}.
+qstr_{s11}_asked_you_to_c|{s11} asked you to capture a lord from {s13}, any lord, and then drag your victim back to {s11} for safekeeping.
+qstr_{s9}_asked_you_to_le|{s9} asked you to lend your companion {s3} to him for a week.
+qstr_{s9}_asked_you_to_col|{s9} asked you to collect the debt of {reg4} pounds {s3} owes to him. {s3} was at {s4} when you were given this quest.
+qstr_{s11}_gave_you_a_fak|{s11} gave you a fake letter to fool {s13} into banishing his vassal {s16}. You are to go near {s14}, give the letter to one of your {s15} and send him into the town as a messenger, believing his orders to be genuine.
+qstr_{s9}_has_requested_y|{s9} has requested you to bring him {reg1} {s3} as prisoners.
+qstr_Lend_your_experience|Lend your experienced surgeon {s3} to {s1}.
+qstr_Then_take_it_with_my|Then take it, with my eternal thanks. You are a noble {man/woman}. I will never forget that you helped me in my time of need.
+qstr_Forgive_me_{playerna|Forgive me, {playername}, but I must insist you accept it. The money means little to me, and I owe you so much. Here, take it, and let us speak no more of this.
+qstr_{playername}_what_a_|{playername}, what a dear {man/woman} you are, but I will not allow you to refuse this. I owe you far more than I can say, and I am sure you can put this money to far better use than I.
+qstr_{s11}_asked_you_to_r|{s11} asked you to rescue her {s17}, {s13}, from {s14} by switching clothes and taking his place in prison.
+qstr_{s11}_asked_you_to_re|{s11} asked you to rescue her {s17}, {s13}, from {s14}.
+qstr_{s11}_asked_you_to_d|{s11} asked you to deliver a message to {s13}, who is imprisoned at {s14}.
+qstr_You_agreed_to_challe|You agreed to challenge {s13} to defend {s11}'s honour.
+qstr_{s5}__Persuasion_str|{s5} (Persuasion strength: {reg5})
+qstr_Persuasion_Attempt|Persuasion Attempt
+qstr_A_villager_from_{s7}|A villager from {s7} begged you to save their village from the bandits that took refuge there.
+qstr_You_chose_well_{sir/|You chose well, {sir/madam}. My lads know how to keep their word and earn their pay.
+qstr_Well_done_{sir/madam|Well done, {sir/madam}. Keep the money and wine coming our way, and there's no foe in Europe you need fear.
+qstr_We_are_at_your_servi|We are at your service, {sir/madam}. Point us in the direction of those who need hurting, and we'll do the rest.
+qstr_The_Guildmaster_of_{|The Guildmaster of {s13} has asked you to deal with looters in the surrounding countryside.
+qstr_{s9}_of_{s3}_asked_y|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the tavern in {s4} in 7 days.
+qstr_Escort_the_merchant_|Escort the merchant caravan to the town of {s8}.
+qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
+qstr_Guildmaster_of_{s4}_|Guildmaster of {s4} gave you {reg12} pounds to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.
+qstr_Guildmaster_of_{s4}_p|Guildmaster of {s4} promised you {reg12} pounds if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.
+qstr_The_Guildmaster_of_{s|The Guildmaster of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.
+qstr_Guildmaster_of_{s10}|Guildmaster of {s10} asked you to move a cattle herd to {s13}. You will earn {reg8} pounds in return.
+qstr_He_is_not_commanding|He is not commanding any men at the moment.
+qstr_He_currently_command|He currently commands {reg0} men{reg1?, of which around {reg1} are wounded:}.
+qstr_The_elder_of_the_vil|The elder of the village of {s3} asked you to bring them {reg5} packs of grain.
+qstr_The_elder_of_the_vill|The elder of the village of {s13} asked you to train {reg5} peasants to fight against local bandits.
+qstr_The_elder_of_the_villa|The elder of the village of {s3} asked you to bring them {reg5} heads of cattle.
+qstr_{s16}_and_{s15}|{s16} and {s15}
+qstr_I_can_smell_a_fat_pu|I can smell a fat purse a mile away. Methinks yours could do with some lightening, eh?
+qstr_Why_it_be_another_tr|Why, it be another traveller, chance met upon the road! I should warn you, country here's a mite dangerous for a good {fellow/woman} like you. But for a small donation my boys and I'll make sure you get rightways to your destination, eh?
+qstr_Well_well_look_at_th|Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you.
+qstr_There_s_a_toll_for_p|There's a toll for passin' through this land, payable to us, so if you don't mind we'll just be collectin' our due from your purse...
+qstr_Another_fool_come_to|Another fool come to throw {him/her}self on my weapon, eh? Fine, let's fight!
+qstr_We_re_not_afraid_of_|We're not afraid of you, {sirrah/wench}. Time to bust some heads!
+qstr_That_was_a_mistake._|That was a mistake. Now I'm going to have to make your death long and painful.
+qstr_Brave_words._Let_s_s|Brave words. Let's see you back them up with deeds, cur!
+qstr_A_{s5}?_Well..._Yes_|A {s5}? Well... Yes, I suppose it is. What a strange thing to ask.
+qstr_Eh?_No_it_most_certa|Eh? No, it most certainly is not a {s5}. I'd start questioning my eyesight if I were you.
+qstr_This_is_the_{reg4?to|This is the {reg4?town:village} of {s5}, {sir/madam}.
+qstr_{s6}_Our_{reg4?town:|{s6} Our {reg4?town:village} and the surrounding lands belong to you of course, my {lord/lady}.
+qstr_{s6}_Our_{reg4?town:v|{s6} Our {reg4?town:village} and the surrounding lands belong to {s7} of {s8}.
+qstr_{s3}_and_{s5}|{s3} and {s5}
+qstr_{reg20?We_mostly_pro|{reg20?We mostly produce {s5} here:We don't produce much here these days}. If you would like to learn more, you can speak with our {reg4?guildmaster:village elder}. He is nearby, right over there.
+qstr_riot|riot
+qstr__1_| 1 
+qstr_2|2
+qstr_The_truce_between_{s|The truce between {s1} and {s2} has expired.
+qstr_Faction_color:|Faction color:
+qstr_®|®
+qstr_Your_political_party|Your political party:
+qstr_Workers_riot_in_{s1}|Workers riot in {s1}! Initially peaceful, protest demonstration turned into angry crowd destroying everything on their way in {s2}.
+qstr_Crowd_disperses_afte|Crowd disperses after police started shooting, with some rioters trying to shoot back. Police reported at least {reg10} policemen and {reg11} civilians wounded.
+qstr_Crowd_disperses_after|Crowd disperses after police started shooting, with some rioters trying to shoot back. Police reported at least {reg12} policemen and {reg13} civilians wounded.
+qstr_As_the_riot_went_wid|As the riot went widespread, the government dispatched police units to calm down the situation, they tried to suppress the riot with as little casualty as possible by mostly non-lethal means. The riot has been ended but both police units and rioters suffered casualties. Among the casualties, (number) were killed and (number) wounded in the riot.^^Socialist movement popularity decreased by 5%, radicalism increased by 5%.
+qstr_As_the_riot_went_wide|As the riot went widespread, the government dispatched police units to suppress the rioters, they used deadly force against the rioters. The rioters suffered many casualties and some fled the scene, only ended up getting caught hours later. In the incident, (number) died and (number) suffered wounds during the riot. ^^Socialist movement popularity decreased by 10%, radicalism increased by 10%.
+qstr_{s1}_agrees_to_becom|{s1} agrees to become a protectorate! After taking several defeats from {s2}, {s3} signs agreement to become part of {s2}.^^Effects: {s1} becomes part of {s2}
+qstr_Soviet_Russia|Soviet Russia
+qstr_French_Communes|French Communes
+qstr_People_s_State_of_Ge|People's State of Germany
+qstr_Republic_of_Italy|Republic of Italy
+qstr_Union_of_British_Sta|Union of British States
+qstr_Austro_Hungarian_Rep|Austro-Hungarian Republic
+qstr_Civil_war_in_{s1}!_M|Civil war in {s1}! Multiple miltiary commanders of {s1} have resigned their oath and joined new formed {s2} in support of socialist revolution.
+qstr_1|1
+qstr_3|3
+qstr_Civil_war_in_{s1}!_Mu|Civil war in {s1}! Multiple miltiary commanders of {s1} have resigned their oath and joined newly formed {s2} in support of socialist revolution.
+qstr_overall_places_{reg1|overall places {reg1}
+qstr_State_industry_subsi|State industry subsidization :^-{reg10} $
+qstr_Republic_of_Spain|Republic of Spain
+qstr_Iranian_Socialist_So|Iranian Socialist Soviet Republic
+qstr_Socialist_{s50}|Socialist {s50}
+qstr_At_noon_when_the_de|At noon, when the demonstration leader was making a speech about their demands infront of the crowd of protesters, troops and policemen entered the scene to disperse the crowd. Unfortunately, the government ordered the dispersion with a violent way. Then, soldiers opened fire on the protesters, killing and wounding many people. Others, tried to flee from the scene, ran either wounded or dying. Few managed to hide from the law enforcement and the dispersion is successful. The government quickly received backlashes from peace organizations, socialists and even foreign countries alike, thus souring foreign relations.^^Effects: Socialist movement radicalism increased by 10%.
+qstr__{s1}_triumphs_over_| {s1} triumphs over victory of socialist revolution.^^ Effects: socialist parties around the worlds gain influence.
+qstr__{s1}_triumphs_over_v| {s1} triumphs over victory against revolutionaries.
+qstr_Civil_war_is_over_in|Civil war is over in {s1}! {s2} has been fully defeated.{s3}
+qstr__{s1}_triumphs_over_vi| {s1} triumphs over victory of socialist revolution.^Effects: Socialist parties around the worlds gain influence.
+qstr_Rebellion_in_{s1}:_t|Rebellion in {s1}: took up arms and are attacking the government army!
+qstr_Government_of_{s1}_i|Government of {s1} is willing to suppress uprising with force in the following few days, officials say.
+qstr_Rebellion_in_{s1}:_r|Rebellion in {s1}: rebels took up arms and are attacking the government army!
+qstr_Jacobin_riot_in_{s1}|Jacobin riot in {s1}! Initially peaceful, protest demonstration turned into angry crowd destroying everything on their way in {s2}.
+qstr_{s1}:_Peaceful_demons|{s1}: Peaceful demonstration in support of liberal reforms! Citizens of {s2} gathered on the main square of the city, calling on the government to create parliament with universal equal suffrage.
+qstr_{s1}_in_{s2};^|{s1} in {s2};^
+qstr_{s1}:_Worker_unions_h|{s1}: Worker unions have called for a general strike! United in protest, workers have joined the picket lines in:^{s3}{s4}{s5}{s6}{s7}
+qstr_Civil_war_in_{s1}!_Mul|Civil war in {s1}! Multiple miltiary commanders of {s1} have resigned their oath and joined newly formed {s2} in support of democratic revolution.
+qstr_Days_after_peaceful_p|Days after peaceful protests began, backlashes from many organizations, still not yet bore a fruit. The government decided to ignore the demands from the protesters. The government has only given them pain instead of listening them for fair investigations, leading to more and more widespread protests across the country. And now, the government has two decision, whether to comply or just simply, refuse.^^Effects: Liberal movement popularity increased by 10%.
+qstr_After_hearing_about_t|After hearing about the protests, being a nuisance for the government, the government decided to dispatch some policemen to disperse the crowd of protesters by non-lethal means. They tried to disperse the crowd with whips and baton and it resulted in a success. Some of the protesters thrown rocks and debris to the officers but all of them have been arrested in the following afternoon. The last of the protesters finally dispersed after some of the demonstration leaders escaped the scene.^^Effects: Liberal movement popularity increased by 5%. Liberal movement radicalism increased by 3%.
+qstr_At_noon_when_the_demo|At noon, when the demonstration leader was making a speech about their demands infront of the crowd of protesters, troops and policemen entered the scene to disperse the crowd. Unfortunately, the government ordered the dispersion with a violent way. Then, soldiers opened fire on the protesters, killing and wounding many people. Others, tried to flee from the scene, ran either wounded or dying. Few managed to hide from the law enforcement and the dispersion is successful. The government quickly received backlashes from peace organizations, socialists and even foreign countries alike, thus souring foreign relations.^^Effects: Liberal movement radicalism increased by 10%.
+qstr_As_the_riot_went_wides|As the riot went widespread, the government dispatched police units to calm down the situation, they tried to suppress the riot with as little casualty as possible by mostly non-lethal means. The riot has been ended but both police units and rioters suffered casualties. Among the casualties, (number) were killed and (number) wounded in the riot.^^Liberal movement popularity decreased by 5%, radicalism increased by 5%.
+qstr_As_the_riot_went_widesp|As the riot went widespread, the government dispatched police units to suppress the rioters, they used deadly force against the rioters. The rioters suffered many casualties and some fled the scene, only ended up getting caught hours later. In the incident, (number) died and (number) suffered wounds during the riot. ^^Liberal movement popularity decreased by 10%, radicalism increased by 10%.
+qstr_After_negotiations_o|After negotiations of government officials with rebellion leaders, the problem was peacefully settled. Parliament was established, signifying victory of democratic activists.
+qstr_{s50}|{s50}
+qstr_Russian_Republic|Russian Republic
+qstr_Austro_Hungarian_Dem|Austro-Hungarian Democratic Republic
+qstr_People_s_Republic_of|People's Republic of Belgium
+qstr_First_Spanish_Republ|First Spanish Republic
+qstr_British_Republic|British Republic
+qstr_Federal_Republic_of_|Federal Republic of Germany
+qstr_Republic_of_Belgium|Republic of Belgium
+qstr_Republic_of_Netherla|Republic of Netherlands
+qstr_Imperial_State_of_Ir|Imperial State of Iran
+qstr_People_s_United_Prov|People's United Provinces
+qstr_Your_party_laws:|Your party laws:
+qstr_Voting_Franchise:|Voting Franchise:
+qstr_Nomination_Rules:|Nomination Rules:
+qstr_Ruling_Party_Influenc|Ruling Party Influence:
+qstr_Harassment|Harassment
+qstr_Non_secret_ballot|Non-secret ballot
+qstr_Secret_ballot|Secret ballot
+qstr_Executive_Branch_Pos|Executive Branch Posts:
+qstr_Appointed_by_state|Appointed by state
+qstr_Executive_Branch_Post|Executive Branch Posts
+qstr_Appointed_by_State|Appointed by State
+qstr_Press_Censorship:|Press Censorship:
+qstr_Trade_Unions:|Trade Unions:
+qstr_Public_Meetings:|Public Meetings:
+qstr_Authorized_Only|Authorized Only
+qstr_Child_Labour:|Child Labour:
+qstr_Famine:_{reg4}%|Famine: {reg4}%
+qstr_Administration_effic|Administration efficiency: {reg10}%
+qstr_Your_government_type_|Your government type does not allow state to build factories of this type.
+qstr_amount_to_buy_{reg0}|amount to buy {reg0} bought amount {reg1} ratio flour {reg2}
+qstr_Infrastructure_level|Infrastructure level of {s1} is {reg2}.{reg3}, damaged to {reg4}.{reg5}.
+qstr_Infrastructure_level_|Infrastructure level of {s1} is {reg2}.{reg3}.
+qstr_+{reg6}|+{reg6}
+qstr_{reg6}|{reg6}
+qstr_Infrastructure_level_o|Infrastructure level of {s1} is {reg2}.{reg3}, damaged to {reg4}.{reg5} ({s3} per year).
+qstr_Infrastructure_level_of|Infrastructure level of {s1} is {reg2}.{reg3} ({s3} per year).
+qstr_{reg7}.0{reg8}|{reg7}.0{reg8}
+qstr_{reg7}.{reg8}|{reg7}.{reg8}
+qstr_+{s3}|+{s3}
+qstr_Infrastructure_level_of_|Infrastructure level of {s1} is {reg2}.{reg3}, damaged to {reg4}.{reg5} ({s4} per year).
+qstr_Infrastructure_level_of_{|Infrastructure level of {s1} is {reg2}.{reg3} ({s4} per year).
+qstr_VP_of_{s1}_against_{|VP of {s1} against {s2} are {reg10}
+qstr_create_random_war_pe|create random war peace {s1} {s2}
+qstr_{reg0}_{reg60}|{reg0} {reg60}
+qstr_Enemy_is_{s3}|Enemy is {s3}
+qstr_Ally_is_{s3}|Ally is {s3}
+qstr_Infrastructure_level_of_{s|Infrastructure level of {s1} is {reg4}.{reg5}, damaged to {reg2}.{reg3} ({s4} per year).
+qstr_{s4}_per_day|{s4} per day
+qstr_{s4}_per_year|{s4} per year
+qstr_Infrastructure_level_of_{s1|Infrastructure level of {s1} is {reg4}.{reg5}, damaged to {reg2}.{reg3} ({s5}).
+qstr_Infrastructure_level_of_{s1}|Infrastructure level of {s1} is {reg2}.{reg3} ({s5}).
+qstr_People_s_Republic_of_|People's Republic of Denmark
+qstr_People_s_Republic_of_S|People's Republic of Sweden
+qstr_Republic_of_Denmark|Republic of Denmark
+qstr_Republic_of_Sweden|Republic of Sweden
+qstr_{s9}|{s9}
+qstr__This_village_and_the| This village and the surrounding lands belong to your country.
+qstr_North_German_Confeder|North German Confederation is formed.
+qstr_German_Empire_is_for|German Empire is formed.
+qstr_Adding_division_in_{|Adding division in {s1}
+qstr_Removing_division_in|Removing division in {s1}
+qstr_French_Commune|French Commune
+qstr_Association_of_Auton|Association of Autonomous States
+qstr_Austrian_Soviet_Repu|Austrian Soviet Republic
+qstr_Italian_Union|Italian Union
+qstr_Soviet_Germany|Soviet Germany
+qstr_Turkish_People_s_Rep|Turkish People's Republic
+qstr_British_Union|British Union
+qstr_People_s_Republic_of_Sp|People's Republic of Spain
+qstr_People_s_Democratic_|People's Democratic Republic of Tunisia
+qstr_Commune_of_Naples|Commune of Naples
+qstr_United_Cantons|United Cantons
+qstr_People_s_Republic_of_E|People's Republic of Egypt
+qstr_Moroccan_Commune|Moroccan Commune
+qstr_People_s_Republic_of_P|People's Republic of Portugal
+qstr_People_s_Republic_of_O|People's Republic of Oman
+qstr_Danish_Civil_Union|Danish Civil Union
+qstr_Roman_Commune|Roman Commune
+qstr_People_s_Commonwealt|People's Commonwealth of Socialist States
+qstr_Afghan_Democratic_Re|Afghan Democratic Republic
+qstr_Bukharan_People_s_So|Bukharan People's Soviet Republic
+qstr_Khorezm_People_s_Sov|Khorezm People's Soviet Republic
+qstr_Democratic_Republic_|Democratic Republic of Greece
+qstr_Romanian_People_s_Re|Romanian People's Republic
+qstr_Belgian_Commune|Belgian Commune
+qstr_Wurttemberg_Soviet_R|Wurttemberg Soviet Republic
+qstr_Soviet_Serbia|Soviet Serbia
+qstr_Bavarian_Soviet_Repu|Bavarian Soviet Republic
+qstr_Soviet_Norway|Soviet Norway
+qstr_Westphalian_Soviet_R|Westphalian Soviet Republic
+qstr_Republic_of_the_Arab|Republic of the Arabian Assembly
+qstr_Arabian_Republic|Arabian Republic
+qstr_DETACH_{s1}|DETACH {s1}
+qstr_Upper_Class___Aristoc|Upper Class - Aristocracy (former)
+qstr_Upper_Class___Bourgeo|Upper Class - Bourgeoisie (former)
+qstr_State_industry_incom|State industry income:^+{reg10} $
+qstr_State_industry_expen|State industry expenses:^{reg10} $
+qstr_Urban_industry_of_th|Urban industry of this region was nationalised,^which means that factories output is decreased^depending on administration efficiency.^^With current administration efficiency of {reg1},^factories output is decreased by {reg2}.
+qstr_Rural_industry_of_th|Rural industry of this region was nationalised,^which means that raw resources output is decreased^depending on administration efficiency.^^With current administration efficiency of {reg1},^resources output is decreased by {reg2}.
+qstr_Industrialization_ca|Industrialization campaign is now in progress, which means that urbanization process is 4 times faster, quality of life of rural population is decreased by 5%, and administration efficiency is decreased by 5%.
+qstr_Government_type_of_t|Government type of this country does not allow you to build factories.
+qstr_Urban_industry_of_thi|Urban industry of this region was nationalised,^which means that factories output is decreased^depending on administration efficiency.^^With current administration efficiency of {reg1}%,^factories output is decreased by {reg2}%.
+qstr_Rural_industry_of_thi|Rural industry of this region was nationalised,^which means that urban famine level is decreased in 3 times^but raw resources output is decreased^depending on administration efficiency.^^With current administration efficiency of {reg1}%,^resources output is decreased by {reg2}%.
+qstr_Industrialization_cam|Industrialization campaign is now in progress,^which means that urbanization process^is 4 times faster, quality of life of rural population^is decreased by 5%, and administration efficiency^is decreased by 5%.
+qstr_Urban_industry_of_this|Urban industry of this region was nationalised,^which means that factories budget is consolidated^with national budget, factories output is decreased^depending on administration efficiency, and all^capitalist development of region such as investitions are ceased.^^With current administration efficiency of {reg1}%,^factories output is decreased by {reg2}%.
+qstr_Rural_industry_of_this|Rural industry of this region was nationalised,^which means that urban famine level is decreased in 3 times^but raw resources output is decreased^depending on administration efficiency.^Quality of life of rural population is decreased by 20%^^With current administration efficiency of {reg1}%,^resources output is decreased by {reg2}%.
+qstr_Industrialization_camp|Industrialization campaign is now in progress,^which means that urbanization process^is 4 times faster, quality of life of population^is decreased by 20%, and administration efficiency^is decreased by 5%.
+qstr_{s1}:_Anti_war_prote|{s1}: Anti-war protesters are demonstrating in {s2}, demanding to put an end to the ongoing armed conflict between their nation and {s3}.
+qstr_Revolution_in_{s1}!_|Revolution in {s1}! Jacobin radicals have overthrown the national government and declared a new state named {s2} in the early hours of the day. The military has refused to surrender, and the nation is now embroiled in a brutal civil war.
+qstr_Revolution_in_{s1}!_S|Revolution in {s1}! Socialist radicals have overthrown the national government and declared a new state named {s2} in the early hours of the day. The military has refused to surrender, and the nation is now embroiled in a brutal civil war.
+qstr_Unable_to_suppress_t|Unable to suppress the revolt, the rebellion has spread to other cities. Society has been split in two, liberals demanding the immediate disposition of the government, and reactionaries calling for the immediate jackbooted obliteration of the liberal rebellion. Martial law has been declared, and Habeas Corpus has made way for summary executions in the streets and villages.
+qstr_PPS_Faction_iteration|PPS Faction iteration
+qstr_faction_calculate_pp|faction calculate pps pes slots
+qstr_Position:_at_will|Position: at will
+qstr_mesh_pbs_pronemode1|mesh pbs pronemode1
+qstr_Position:_always_cro|Position: always crouch
+qstr_mesh_pbs_pronemode2|mesh pbs pronemode2
+qstr_Position:_always_pro|Position: always prone
+qstr_mesh_pbs_pronemode3|mesh pbs pronemode3
+qstr_Position:_mixed|Position: mixed
+qstr_mesh_pbs_pronemode4|mesh pbs pronemode4
+qstr_{s1}^^This_togglable|{s1}^^This togglable ability allows to choose position for company:^at will, always crouch or always prone. While crouch^and prone positions reduce damage incoming^from shell explosions, they can close view in front of soldiers,^interrupting shooting.^Company types: any infantry company.
+qstr_Under_Fire^^Assault_|Under Fire^^Assault Tactics
+qstr_Under_Fire^Assault_T|Under Fire^Assault Tactics
+qstr_pbs_pronemode1|pbs pronemode1
+qstr_pbs_pronemode2|pbs pronemode2
+qstr_pbs_pronemode3|pbs pronemode3
+qstr_pbs_pronemode4|pbs pronemode4
+qstr_pbs_activeability_pr|pbs activeability pronemode1
+qstr_pbs_activeability_pro|pbs activeability pronemode2
+qstr_pbs_activeability_pron|pbs activeability pronemode3
+qstr_pbs_activeability_prone|pbs activeability pronemode4
+qstr_{s1}^^This_toggleabl|{s1}^^This toggleable ability allows to choose position for company:^at will, always crouch or always prone. Prone^position reduces damage incoming from shell explosions,^but it can close view in front of soldiers,^interrupting shooting.^Company types: any infantry company.
+qstr_Volunteer_army|Volunteer army
+qstr_Limited_conscription|Limited conscription
+qstr_Extended_conscriptio|Extended conscription
+qstr_Wide_conscription|Wide conscription
+qstr__{reg2}%_to_quality_|-{reg2}% to quality of life
+qstr_Conscription_policy:|Conscription policy: {s1}%
+qstr_Army_reinforcements_|Army reinforcements rate:
+qstr__{reg2}%_workers|-{reg2}% workers
+qstr_Reserves:|Reserves:
+qstr_{reg1}/{reg2}_men|{reg1}/{reg2} men
+qstr_Conscription_policy:_|Conscription policy: {s1}
+qstr__{reg3}%_workers|-{reg3}% workers
+qstr_Volunteer_army^_4%_o|Volunteer army^(4% of the population)
+qstr_Limited_conscription^|Limited conscription^(10% of the population)
+qstr_Extended_conscription|Extended conscription^(20% of the population)
+qstr_Wide_conscription^_2|Wide conscription^(25% of the population)
+qstr_{reg1}/{reg2}_men__+|{reg1}/{reg2} men (+{reg3} per day)
+qstr_Volunteer_army^_3%_o|Volunteer army^(3% of the population)
+qstr_Military_management_|Military management is only available to faction marshals.
+qstr_ai_behavior_{reg1}_p|ai behavior {reg1} pas timer {reg2} pas lord state {reg3}
+qstr_{s1}_s_marshal_ai_be|{s1}'s marshal ai behavior {reg1} pas timer {reg2} pas lord state {reg3}
+qstr_{s1}_s_marshal:_ai_b|{s1}'s marshal: ai behavior {reg1} pas timer {reg2} pas lord state {reg3}
+qstr_Heavy_Machine_Gun:|Heavy Machine Gun:
+qstr_Light_Machine_Gun:|Light Machine Gun:
+qstr_Sub_machine_Gun:|Sub-machine Gun:
+qstr_Maxim_Gun|Maxim Gun
+qstr_Maxim_Gun_M1910|Maxim Gun M1910
+qstr_MG_08|MG-08
+qstr_Hotchkiss_Mle_1914|Hotchkiss Mle 1914
+qstr_Schwarzlose_M._7|Schwarzlose M. 7
+qstr_Vickers_Gun|Vickers Gun
+qstr_M1917_Browning|M1917 Browning
+qstr_Lewis|Lewis
+qstr_Chauchat|Chauchat
+qstr_Madsen|Madsen
+qstr_MG_08/15|MG 08/15
+qstr_Hotchkiss_M1909|Hotchkiss M1909
+qstr_MP_18|MP-18
+qstr_Fedorov|Fedorov
+qstr_Beretta_1918|Beretta 1918
+qstr_Previous|Previous
+qstr_mg5_austrian|mg5 austrian
+qstr_mg5_austrian_barrel|mg5 austrian barrel
+qstr_mg_prop_{reg1}|mg prop {reg1}
+qstr_Victory_Points:_{reg|Victory Points: {reg13}
+qstr_Victory_Points_used:|Victory Points used: {reg20}
+qstr_Victory_Points/Point|Victory Points/Points needed for agreement: {reg20}/{reg10}
+qstr_Victory_Points:_{reg2|Victory Points: {reg20}/{reg10}
+qstr_Most_certainly._Arres|Most certainly. Arrests of influential figures of the political opposition will undermine their positions in the political arena and strengthen ours. Investigation will take 10 days and {reg1} pounds.
+qstr_Most_certainly._Few_r|Most certainly. Few revelatory articles condemning our opponents in illegal actions, aiding enemy and treason will dishonor them before the eyes of our people, and strengthen our position. The whole process will take 10 days and {reg1} pounds.
+qstr_Dig_In^^Selected_comp|Dig In^^Selected companies will dig in,^creating trenches on their position.^Only available once per battle.^Company types: any infantry company.
+qstr_Cannot_dig_in:_wrong_|Cannot dig in: wrong company types (only infantry companies can dig in).
