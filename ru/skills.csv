@@ -1,39 +1,39 @@
-skl_trade|Trade
-skl_trade_desc|Every level of this skill reduces your trade penalty by 5%%. (Party skill)
-skl_leadership|Leadership
-skl_leadership_desc|Every point increases maximum number of troops you can command by 5, increases your party morale and reduces troop wages by 5%%. (Leader skill)
-skl_prisoner_management|Prisoner Management
-skl_prisoner_management_desc|Every level of this skill increases maximum number of prisoners by %d. (Leader skill)
-skl_reserved_1|Captain
-skl_reserved_1_desc|Increases discipline level of all companies that are close to player by 1%% per skill level. Area of discipline bonus is 20 meters and increases by 3 meters by skill level. (Leader skill)
-skl_reserved_2|Desperate Stand
-skl_reserved_2_desc|NOEFFECT When company discipline level drops below retreat limit, it will wait for some time before retreating. If discipline level returned to level above retreat limit after waiting time is over, company won't retreat. The time they will wait increases by 0.3 seconds per skill level. (Leader skill)
-skl_reserved_3|Inspirer
-skl_reserved_3_desc|Decreases retreat limit (the percentage of discipline, above of which company will retreat) by 1%% per skill level. Default retreat limit is 15%%. (Leader skill)
+skl_trade|Торговля
+skl_trade_desc|Каждый уровень этого навыка уменьшает штраф за торговлю на 5%%. (Навык отряда)
+skl_leadership|Лидерство
+skl_leadership_desc|Каждое очко увеличивает максимальное количество войск, которыми может командовать игрок, на 5 человек, улучшает мораль и уменьшает жалование солдат на 5%%. (Навык лидера)
+skl_prisoner_management|Обращение с пленными
+skl_prisoner_management_desc| Каждый уровень этого навыка увеличивает максимальное количество пленных в отряде %d. (Навык лидера)
+skl_reserved_1|Капитан
+skl_reserved_1_desc|Повышает уровень дисциплины всех компаний, которые близки к игроку, на 1%% за уровень мастерства. Площадь дисциплинарного бонуса составляет 20 метров и увеличивается на 3 метра в зависимости от уровня мастерства. (Навык лидера)
+skl_reserved_2|Отчаянная оборона
+skl_reserved_2_desc|НИКАКОГО ЭФФЕКТА, когда уровень дисциплины компании падает ниже предела отступления, он подождет некоторое время, прежде чем отступить. Если уровень дисциплины вернется к уровню выше предела отступления по истечении времени ожидания, компания не отступит. Время, которое они будут ждать, увеличивается на 0,3 секунды для каждого уровня мастерства. (Навык лидера)
+skl_reserved_3|Вдохновляющий
+skl_reserved_3_desc|Уменьшает лимит отступления (процент дисциплины, выше которого компания отступит) на 1%% за уровень навыка. Лимит отступления по умолчанию составляет 15%%. (Навык лидера)
 skl_reserved_4|Reserved Skill 4
 skl_reserved_4_desc|This is a reserved skill.
-skl_persuasion|Persuasion
-skl_persuasion_desc|This skill helps you make other people accept your point of view. It also lowers the minimum level of relationship needed to get NPCs to do what you want. (Personal skill)
-skl_engineer|Engineer
-skl_engineer_desc|This skill allows you to construct siege equipment and fief improvements more efficiently. (Party skill)
-skl_first_aid|First Aid
-skl_first_aid_desc|Heroes regain 5%% per skill level of hit-points lost during mission. (Party skill)
-skl_surgery|Surgery
-skl_surgery_desc|Each point to this skill gives a 4%% chance that a mortally struck party member will be wounded rather than killed. (Party skill)
-skl_wound_treatment|Wound Treatment
-skl_wound_treatment_desc|Party healing speed is increased by 20%% per level of this skill. (Party skill)
-skl_inventory_management|Inventory Management
-skl_inventory_management_desc|Increases inventory capacity by +6 per skill level. (Leader skill)
-skl_spotting|Spotting
-skl_spotting_desc|Party seeing range is increased by 10%% per skill level. (Party skill)
-skl_pathfinding|Path-finding
-skl_pathfinding_desc|Party map speed is increased by 3%% per skill level. (Party skill)
-skl_tactics|Tactics
-skl_tactics_desc|Every two levels of this skill increases starting battle advantage by 1. (Party skill)
-skl_tracking|Tracking
-skl_tracking_desc|Tracks become more informative. (Party skill)
-skl_trainer|Trainer
-skl_trainer_desc|Every day, each hero with this skill adds some experience to every other member of the party whose level is lower than his/hers. Experience gained goes as: {0,4,10,16,23,30,38,46,55,65,80}. (Personal skill)
+skl_persuasion|Убеждение
+skl_persuasion_desc|Этот скилл помогает Вам склонять других людей к своей точке зрения. Он также опускает минимальный уровень отношений необходимый для того, чтобы заставить НПС делать все, что Вы хотите. (Личный навык)
+skl_engineer|Инженер
+skl_engineer_desc|Этот навык позволяет строить осадное оборудование и усовершенствовать Ваш фьеф более эффективно. (Навык отряда)
+skl_first_aid|Первая помощь
+skl_first_aid_desc|Герои с каждым уровнем восстанавливают дополнительных 5%% хит-поинтов утраченных во время миссии. (Навык отряда)
+skl_surgery|Хирургия
+skl_surgery_desc|Каждое очко этого навыка дает 4%% шанс что смертельно раненный член отряда будет всего лишь ранен, а не убит. (Навык отряда)
+skl_wound_treatment| Лечение
+skl_wound_treatment_desc|Скорость лечения отряда увеличивается на 20%% за каждый уровень этого навыка. (Навык отряда)
+skl_inventory_management|Упревление инвентарём
+skl_inventory_management_desc|Увеличивает вместительность инвентаря на +6 за каждый уровень навыка. (Навык лидера)
+skl_spotting|Обнаружение
+skl_spotting_desc|Радиус обзора отряда увеличивается на 10%% с каждым уровнем навыка. (Навык отряда)
+skl_pathfinding|Логистика
+skl_pathfinding_desc|Скорость отряда на карте увеличивается на 3%% с каждым уровнем навыка. (Навык отряда)
+skl_tactics|Тактика
+skl_tactics_desc|Каждые два уровня этого навыка увеличивают начальное превосходство в живой силе в бою на 1. (Навык отряда)
+skl_tracking|Следопытство
+skl_tracking_desc|Следы дают больше информации о прошедших. (Навык отряда)
+skl_trainer|Тренер
+skl_trainer_desc|Ежедневно каждый герой с этим навыком добавляет некоторое количество опыта каждому другому члеу отряда, чей уровень ниже чем его/ее. Опыт получается следующим образом: {0,4,10,16,23,30,38,46,55,65,80}. (Личный навык)
 skl_reserved_5|Reserved Skill 5
 skl_reserved_5_desc|This is a reserved skill.
 skl_reserved_6|Reserved Skill 6
@@ -42,18 +42,18 @@ skl_reserved_7|Reserved Skill 7
 skl_reserved_7_desc|This is a reserved skill.
 skl_reserved_8|Reserved Skill 8
 skl_reserved_8_desc|This is a reserved skill.
-skl_looting|Looting
-skl_looting_desc|This skill increases the amount of loot obtained by 10%% per skill level. (Party skill)
-skl_horse_archery|Horse Archery
-skl_horse_archery_desc|Reduces damage and accuracy penalties for archery and throwing from horseback. (Personal skill)
-skl_riding|Riding
-skl_riding_desc|Enables you to ride horses of higher difficulty levels and increases your riding speed and manuever. (Personal skill)
-skl_athletics|Athletics
-skl_athletics_desc|Improves your running speed. (Personal skill)
-skl_shield|Shield
-skl_shield_desc|Reduces damage to shields (by 8%% per skill level) and improves shield speed and coverage. (Personal skill)
-skl_weapon_master|Weapon Master
-skl_weapon_master_desc|Makes it easier to learn weapon proficiencies and increases the proficiency limits. Limits go as: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Personal skill)
+skl_looting|Сбор трофеев
+skl_looting_desc|Этот навык увеличивает количество обнаруженных трофеев на  10%% с каждым уровнем навыка. (Навык отряда)
+skl_horse_archery|Стрельба из лука с коня
+skl_horse_archery_desc| Снижает штрафы для нанесения урона и точности стрельбы из лука, а также падения с коня. (Личный навык)
+skl_riding|Верховая езда
+skl_riding_desc|Позволяет ездить на более сложных лошадях и повышает скорость и маневренность езды. (Личный навык)
+skl_athletics|Атлетика
+skl_athletics_desc|Повышает скорость бега персонажа. (Личный навык)
+skl_shield|Щит
+skl_shield_desc|Уменьшает повреждения, наносимые щитам (на 8%% с каждым уровнем навыка) и повышает скорость и площадь защиты щита. (Личный навык)
+skl_weapon_master|Оружейный мастер
+skl_weapon_master_desc|Позволяет легче совершенствовать умения владения оружием и повышает лимиты умений следующим образом: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Личный навык)
 skl_reserved_9|Reserved Skill 9
 skl_reserved_9_desc|This is a reserved skill.
 skl_reserved_10|Reserved Skill 10
@@ -64,14 +64,14 @@ skl_reserved_12|Reserved Skill 12
 skl_reserved_12_desc|This is a reserved skill.
 skl_reserved_13|Reserved Skill 13
 skl_reserved_13_desc|This is a reserved skill.
-skl_power_draw|Power Draw
-skl_power_draw_desc|Lets character use more powerful bows. Each point to this skill (up to four plus power-draw requirement of the bow) increases bow damage by 14%%. (Personal skill)
-skl_power_throw|Power Throw
-skl_power_throw_desc|Each point to this skill increases throwing damage by 10%%. (Personal skill)
-skl_power_strike|Power Strike
-skl_power_strike_desc|Each point to this skill increases melee damage by 8%%. (Personal skill)
-skl_ironflesh|Ironflesh
-skl_ironflesh_desc|Each point to this skill increases hit points by +2. (Personal skill)
+skl_power_draw|Сила натяжения
+skl_power_draw_desc|Позволяет персонажу использовать более мощные луки. Каждое очко этого навыка (до четырех плюс требования лука по силе натяжения) увеличивают наносимые луком повреждения на 14%%. (Личный навык)
+skl_power_throw|Сила броска
+skl_power_throw_desc|Каждое очко этого навыка увеличивает наносимые броском повреждения на 10%%. (Личный навык)
+skl_power_strike|Сила удара
+skl_power_strike_desc| Каждое очко этого навыка увеличивает повреждения, наносимые в рукопашной на 8%%. (Личный навык)
+skl_ironflesh|Железные мышци
+skl_ironflesh_desc|Каждое очко этого навыка увеличивает хит поинты на +2. (Личный навык)
 skl_reserved_14|Reserved Skill 14
 skl_reserved_14_desc|This is a reserved skill.
 skl_reserved_15|Reserved Skill 15
