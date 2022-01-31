@@ -1,50 +1,50 @@
-pt_none|none
-pt_rescued_prisoners|Rescued Prisoners
-pt_enemy|Enemy
-pt_hero_party|Hero Party
-pt_village_defenders|Village Defenders
-pt_cattle_herd|Cattle Herd
-pt_looters|Rural Outlaws
-pt_manhunters|Manhunters
-pt_steppe_bandits|Steppe Raiders
-pt_taiga_bandits|Bandits
-pt_desert_bandits|Desert Bandits
-pt_forest_bandits|Suburban Outlaws
-pt_mountain_bandits|Bandits
-pt_sea_raiders|Urban Outlaws
-pt_deserters|Deserters
-pt_merchant_caravan|Merchant Caravan
-pt_troublesome_bandits|Troublesome Bandits
-pt_bandits_awaiting_ransom|Bandits Awaiting Ransom
-pt_kidnapped_girl|Kidnapped Girl
-pt_village_farmers|Village Farmers
-pt_spy_partners|Unremarkable Travellers
-pt_runaway_serfs|Runaway Serfs
-pt_spy|Ordinary Townsman
-pt_sacrificed_messenger|Sacrificed Messenger
-pt_forager_party|Foraging Party
-pt_scout_party|Scouts
-pt_patrol_party|Patrol
-pt_messenger_party|Messenger
-pt_raider_party|Raiders
-pt_raider_captives|Raider Captives
-pt_kingdom_caravan_party|Caravan
-pt_prisoner_train_party|Prisoner Train
-pt_default_prisoners|Default Prisoners
-pt_routed_warriors|Routed Enemies
-pt_center_reinforcements|Reinforcements
-pt_kingdom_hero_party|War Party
-pt_steppe_bandit_lair|Steppe Bandit Lair
-pt_taiga_bandit_lair|Tundra Bandit Lair
-pt_desert_bandit_lair|Desert Bandit Lair
-pt_forest_bandit_lair|Forest Bandit Camp
-pt_mountain_bandit_lair|Mountain Bandit Hideout
-pt_sea_raider_lair|Sea Raider Landing
-pt_looter_lair|Kidnappers' Hideout
-pt_leaded_looters|Band of robbers
-pt_persian_bandits|Persian Bandits
-pt_turkish_bandits|Middle East Bandits
-pt_indian_bandits|Indian Bandits
-pt_middleasia_bandits|Middle Asian Bandits
-pt_balkan_bandits|Balkan Bandits
-pt_pps_rebels|Rebels
+pt_none|Никто
+pt_rescued_prisoners|Спасенные заключенные
+pt_enemy|Враг
+pt_hero_party|Отряд ГГ
+pt_village_defenders|Защитники деревни
+pt_cattle_herd|Стадо Крупного рогатого скота
+pt_looters|Сельские преступники
+pt_manhunters|Охотники за людьми
+pt_steppe_bandits|Степные налетчики
+pt_taiga_bandits|Бандиты
+pt_desert_bandits|Пустынные Бандиты
+pt_forest_bandits|Пригородные преступники
+pt_mountain_bandits|Бандиты
+pt_sea_raiders|Городские преступники
+pt_deserters|Дезертиры
+pt_merchant_caravan|Торговый караван
+pt_troublesome_bandits|Беспокойные бандиты
+pt_bandits_awaiting_ransom|Бандиты, Ожидающие Выкупа
+pt_kidnapped_girl|Похищенная Девушка
+pt_village_farmers|Деревенские фермеры
+pt_spy_partners|Непримечательные Путешественники
+pt_runaway_serfs|Беглые крепостные
+pt_spy|Обычный горожанин
+pt_sacrificed_messenger|Принесенный в жертву Посланник
+pt_forager_party|Поисковая группа
+pt_scout_party|Разведчики
+pt_patrol_party|Патруль
+pt_messenger_party|Посыльный
+pt_raider_party|Налетчики
+pt_raider_captives|Пленники-налетчики
+pt_kingdom_caravan_party|Караван
+pt_prisoner_train_party|Тюремный Поезд
+pt_default_prisoners|Обыные Заключенные
+pt_routed_warriors|Поверженные враги
+pt_center_reinforcements|Подкрепление
+pt_kingdom_hero_party|Военная группа
+pt_steppe_bandit_lair|Логово степных бандитов
+pt_taiga_bandit_lair|Логово бандитов в Тундре
+pt_desert_bandit_lair|Логово бандитов в пустыне
+pt_forest_bandit_lair|Лагерь лесных бандитов
+pt_mountain_bandit_lair|Убежище горных бандитов
+pt_sea_raider_lair|Место высадки морских Налетчиков
+pt_looter_lair|Убежище похитителей
+pt_leaded_looters|Банда разбойников
+pt_persian_bandits|Персидские головорезы
+pt_turkish_bandits|Ближневосточные головорезы
+pt_indian_bandits|Индийские головорезы
+pt_middleasia_bandits|Среднеазиатские головорезы
+pt_balkan_bandits|Балканские головорезы
+pt_pps_rebels|Повстанцы
