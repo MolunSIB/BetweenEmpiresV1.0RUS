@@ -12,7 +12,7 @@
 |6|`info_pages.csv`|Информационные страницы|4 из 4|:heavy_check_mark:|
 |7|`item_kinds.csv`|Предметы|0 из 3904|:x:|
 |8|`item_modifiers.csv`|Модификаты предметов|0 из 43|:x:|
-|9|`parties.csv`|Города|150 из 1033|:x:|
+|9|`parties.csv`|Города|150 из 1033|:clock3:|
 |10|`party_templates.csv`|Отряды|0 из 50|:x:|
 |11|`quests.csv`|Квесты|0 из 77|:x:|
 |12|`quick_strings.csv`|Краткие надписи|0 из 1431|:x:|
