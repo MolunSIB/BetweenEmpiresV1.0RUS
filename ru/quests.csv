@@ -1,77 +1,77 @@
-qst_deliver_message|Deliver Message to {s13}
-qst_deliver_message_to_enemy_lord|Deliver Message to {s13}
-qst_raise_troops|Raise {reg1} {s14}
-qst_escort_lady|Escort {s13} to {s14}
-qst_deal_with_bandits_at_lords_village|Save the Village of {s15} from Marauding Bandits
-qst_collect_taxes|Collect Taxes from {s3}
-qst_hunt_down_fugitive|Hunt Down {s4}
-qst_kill_local_merchant|Assassinate Local Merchant at {s3}
-qst_bring_back_runaway_serfs|Bring Back Runaway Serfs
-qst_follow_spy|Follow the Spy to Meeting
-qst_capture_enemy_hero|Capture a Lord from {s13}
-qst_lend_companion|Lend Your Companion {s3} to {s9}
-qst_collect_debt|Collect the Debt {s3} Owes to {s9}
-qst_incriminate_loyal_commander|Incriminate the Loyal Commander of {s13}, {s16}
-qst_meet_spy_in_enemy_town|Meet Spy in {s13}
-qst_capture_prisoners|Bring {reg1} {s3} Prisoners
-qst_lend_surgeon|Lend Your Surgeon {s3} to {s1}
-qst_follow_army|Follow {s9}'s Army
-qst_report_to_army|Report to {s13}, the Marshall
-qst_deliver_cattle_to_army|Deliver {reg3} Heads of Cattle to {s13}
-qst_join_siege_with_army|Join the Siege of {s14}
-qst_screen_army|Screen the Advance of {s13}'s Army
-qst_scout_waypoints|Scout {s13}, {s14} and {s15}
-qst_rescue_lord_by_replace|Rescue {s13} from {s14}
-qst_deliver_message_to_prisoner_lord|Deliver Message to {s13} at {s14}
-qst_duel_for_lady|Challenge {s13} to a Trial of Arms
-qst_duel_courtship_rival|Challenge {s13} to a Trial of Arms (optional)
-qst_duel_avenge_insult|Challenge {s13} to a Trial of Arms
-qst_move_cattle_herd|Move Cattle Herd to {s13}
-qst_escort_merchant_caravan|Escort Merchant Caravan to {s8}
-qst_deliver_wine|Deliver {reg5} Units of {s6} to {s4}
-qst_troublesome_bandits|Hunt Down Troublesome Bandits
-qst_kidnapped_girl|Ransom Girl from Bandits
-qst_persuade_lords_to_make_peace|Make Sure Two Lords Do Not Object to Peace
-qst_deal_with_looters|Deal with Looters
-qst_deal_with_night_bandits|Deal with Night Bandits
-qst_deliver_grain|Bring wheat to {s3}
-qst_deliver_cattle|Deliver {reg5} Heads of Cattle to {s3}
-qst_train_peasants_against_bandits|Train the Peasants of {s13} Against Bandits.
-qst_eliminate_bandits_infesting_village|Save the Village of {s7} from Marauding Bandits
-qst_visit_lady|Visit Lady
-qst_formal_marriage_proposal|Formal Marriage Proposal
-qst_obtain_liege_blessing|Formal Marriage Proposal
-qst_wed_betrothed|Wed Your Betrothed
-qst_wed_betrothed_female|Wed Your Betrothed
-qst_join_faction|Give Oath of Homage to {s1}
-qst_rebel_against_kingdom|Help {s13} Claim the Throne of {s14}
-qst_consult_with_minister|Consult With Minister
-qst_organize_feast|Organize Feast
-qst_resolve_dispute|Resolve Dispute
-qst_offer_gift|Procure Gift
-qst_denounce_lord|Denounce Lord
-qst_intrigue_against_lord|Intrigue against Lord
-qst_track_down_bandits|Track Down Bandits
-qst_track_down_provocateurs|Track Down Provocateurs
-qst_retaliate_for_border_incident|Retaliate for a Border Incident
-qst_raid_caravan_to_start_war|Attack a Neutral Caravan to Provoke War
-qst_cause_provocation|Give a Kingdom Provocation to Attack Another
-qst_rescue_prisoner|Rescue or Ransom a Prisoner
-qst_destroy_bandit_lair|Destroy Bandit Lair
-qst_collect_men|Collect Five Men
-qst_learn_where_merchant_brother_is|Learn Where the Hostages are Held.
-qst_save_relative_of_merchant|Attack the Bandit Lair
-qst_save_town_from_bandits|Save Town from Bandits
-qst_italy_unification_defeat_sardinia|Italian Unification: Conquer the Kingdom of Sardinia
-qst_italy_unification_defeat_sardinia_text|In order to unite Italy, {s1} will have to conquer the two Italian states still remaining on the Italian Peninsula. One of those states is the Kingdom ofSardinia. In order to force her government to surrender to our forces, we will have to focus on two strategic goals.^^-Conquer the Sardinian capital of Turin.^-Cripple the Kingdom of Sardinia by defeating their armies, laying waste to settlements, and conquering cities.^^Once we've caused enough damage to the Sardinian military and economy, they will be forced to surrender to our army, allowing us to begin integration procedures.
-qst_italy_unification_defeat_sicily|Italian Unification: Conquer the Kingdom of Two Sicilies
-qst_italy_unification_defeat_sicily_text|In order to unite Italy, {s1} will have to conquer the two Italian states still remaining on the Italian Peninsula. One of those states is the Kingdom of TwoSicilies. In order to force her government to surrender to our forces, we will have to focus on two strategic goals.^^-Conquer the Sicilian capital of Naples.^-Cripple the Kingdom of two Sicilies by defeating the Bourbon armies, laying waste to settlements, and conquering cities.^^Once we've caused enough damage to the Sicilian military and economy, they will be forced to surrender to our army, allowing us to begin integration procedures.
-qst_italy_unification_defeat_papalstates|Italian Unification: Conquer the Papal States
-qst_italy_unification_defeat_papalstates_text|In order to unite Italy, {s1} will have to conquer the two Italian states still remaining on the Italian Peninsula. One of those states is the PapalState. In order to force her government to surrender to our forces, we will have to focus on two strategic goals.^^-Conquer the Italian capital of Rome.^-Cripple the Papal State by defeating Papal armies, laying waste to settlements, and conquering cities.^^Once we've caused enough damage to the Papal military and economy, they will be forced to surrender to our army, allowing us to begin integration procedures.
-qst_prussia_unification_defeat_denmark|German Unification: Defeat the Danes
-qst_prussia_unification_defeat_denmark_text|DESCRIPTION
-qst_prussia_unification_defeat_austria|German Unification: Surpress the Austrians
-qst_prussia_unification_defeat_austria_text|DESCRIPTION
-qst_prussia_unification_defeat_france|German Unification: Conquer Alsace-Lorraine
-qst_prussia_unification_defeat_france_text|DESCRIPTION
+qst_deliver_message|Доставить сообщение для {s13}
+qst_deliver_message_to_enemy_lord|Доставить сообщение для {s13}
+qst_raise_troops|Обучить {reg1} {s14}
+qst_escort_lady|Проводить {s13} в {s14}
+qst_deal_with_bandits_at_lords_village|Спасти деревню {s15} от разграбления бандитами
+qst_collect_taxes|Собрать налоги с {s3}
+qst_hunt_down_fugitive|Выследить {s4}
+qst_kill_local_merchant|Убить торговца из {s3}
+qst_bring_back_runaway_serfs|Вернуть беглых крепостных
+qst_follow_spy|Проследить за шпионом
+qst_capture_enemy_hero|Пленить лорда из {s13}
+qst_lend_companion|Одолжить вашего спутника {s3} для {s9}
+qst_collect_debt|Забрать деньги, которые {s3} задолжал {s9}
+qst_incriminate_loyal_commander|Уличить в {s13}, {s16}
+qst_meet_spy_in_enemy_town|Встретиться со шпионом в {s13}
+qst_capture_prisoners|Привести {reg1} пленных {s3}
+qst_lend_surgeon|Одолжить вашего хирурга {s3} для {s1}
+qst_follow_army|Следовать за армией {s9}
+qst_report_to_army|Явиться к маршалу {s13}
+qst_deliver_cattle_to_army|Доставить скот в количестве {reg3} для {s13}
+qst_join_siege_with_army|Принять участие в осаде {s14}
+qst_screen_army|Прикрыть наступление армии {s13}
+qst_scout_waypoints|Разведка у {s13}, {s14} и {s15}
+qst_rescue_lord_by_replace|Освободить {s13} из {s14}
+qst_deliver_message_to_prisoner_lord|Доставить сообщение для {s13} в {s14}
+qst_duel_for_lady|Вызвать {s13} на Дуэль
+qst_duel_courtship_rival|Вызвать {s13} на дуэль (Альт.)
+qst_duel_avenge_insult|Вызвать {s13} на дуэль
+qst_move_cattle_herd|Доставить скот в {s13}
+qst_escort_merchant_caravan|Сопроводить торговый караван до {s8}
+qst_deliver_wine|Доставить {reg5} шт. {s6} в {s4}
+qst_troublesome_bandits|Выследить назойливых бандитов
+qst_kidnapped_girl|Выкупить девушку у бандитов
+qst_persuade_lords_to_make_peace|Обеспечить, чтобы два лорда не возражали против мира
+qst_deal_with_looters|Разобраться с ворами
+qst_deal_with_night_bandits|Разобраться с ночными бандитами
+qst_deliver_grain|Доставить пшеницу в {s3}
+qst_deliver_cattle|Доставить скот в количестве {reg5} в {s3}
+qst_train_peasants_against_bandits|Подготовить крестьян из {s13} к бою с бандитами
+qst_eliminate_bandits_infesting_village|Спасти деревню {s7} от разграбления бандитами
+qst_visit_lady|Посетить даму
+qst_formal_marriage_proposal|Сделать официальное предложение о браке
+qst_obtain_liege_blessing|Сделать официальное предложение о браке
+qst_wed_betrothed|Сыграть свадьбу
+qst_wed_betrothed_female|Сыграть свадьбу
+qst_join_faction|{s1} ждет Вашей клятвы верности
+qst_rebel_against_kingdom|Помочь {s13} в притязаниях на трон {s14}
+qst_consult_with_minister|Посоветоваться с министром
+qst_organize_feast|Устроить праздник
+qst_resolve_dispute|Уладить разногласия
+qst_offer_gift|Доставить дар
+qst_denounce_lord|Обвинить лорда
+qst_intrigue_against_lord|Интриговать против лорда
+qst_track_down_bandits|Выследить бандитов
+qst_track_down_provocateurs|Выследить провокаторов
+qst_retaliate_for_border_incident|Отплатить за происшествие на границе
+qst_raid_caravan_to_start_war|Спровоцировать войну нападением на караван
+qst_cause_provocation|Дать государству причину, чтобы напасть на другое
+qst_rescue_prisoner|Спасти или выкупить пленника
+qst_destroy_bandit_lair|Уничтожить убежище бандитов
+qst_collect_men|Набрать пять человек
+qst_learn_where_merchant_brother_is|Узнать, где держат заложников
+qst_save_relative_of_merchant|Напасть на убежище бандитов
+qst_save_town_from_bandits|Спасти город от бандитов
+qst_italy_unification_defeat_sardinia|Объединение Италии: Завоевание королевства Сардиния
+qst_italy_unification_defeat_sardinia_text|Чтобы объединить Италию, {s1} придется завоевать два итальянские провинции, все еще остающихся на Итальянском полуострове. Одним из таких государств является Королевство Сардиния. Чтобы заставить ее правительство сдаться нашим силам, нам придется сосредоточиться на двух стратегических целях.^^-Покорите столицу Сардинии Турин.^ - Нанесите ущерб Королевству Сардиния, разгромив их армии, опустошая поселения и завоевывая города.^^ Как только мы нанесем достаточный ущерб военным и экономике Сардинии, они будут вынуждены сдаться нашей армии, что позволит нам начать процедуры интеграции.
+qst_italy_unification_defeat_sicily|Объединение Италии: Покорите Королевство Двух Сицилий
+qst_italy_unification_defeat_sicily_text|Чтобы объединить Италию, {s1} придется завоевать два итальянские провинции, все еще остающихся на Итальянском полуострове. Одним из таких государств является Королевство Двух Сицилий. Чтобы заставить ее правительство сдаться нашим силам, нам придется сосредоточиться на двух стратегических целях.^^-Покорите столицу Сицилии Неаполь.^ - Нанесите ущерб Королевству двух Сицилий, разгромив армии Бурбонов, опустошая поселения и завоевывая города.^^ Как только мы нанесем достаточный ущерб сицилийским военным и экономике, они будут вынуждены сдаться нашей армии, что позволит нам начать процедуры интеграции.
+qst_italy_unification_defeat_papalstates|Объединение Италии: Завоевание Папских государств
+qst_italy_unification_defeat_papalstates_text|Чтобы объединить Италию, {s1} придется завоевать два итальянских государства, все еще остающихся на Итальянском полуострове. Одним из таких государств является Папское государство. Чтобы заставить ее правительство сдаться нашим силам, нам придется сосредоточиться на двух стратегических целях.^^-Покорите итальянскую столицу Рим.^ - Нанесите ущерб Папскому государству, разгромив папские армии, опустошая поселения и завоевывая города.^^ Как только мы нанесем достаточный ущерб папской армии и экономике, они будут вынуждены сдаться нашей армии, что позволит нам начать процедуры интеграции.
+qst_prussia_unification_defeat_denmark|Объединение Германии: Разгром датчан
+qst_prussia_unification_defeat_denmark_text|описание
+qst_prussia_unification_defeat_austria|Объединение Германии: Подавить австрийцев
+qst_prussia_unification_defeat_austria_text|описание
+qst_prussia_unification_defeat_france|Объединение Германии: Завоевание Эльзаса-Лотарингии
+qst_prussia_unification_defeat_france_text|описание
 qst_quests_end|Quests End
