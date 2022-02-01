@@ -45,4 +45,4 @@
 
 
 #### Если есть желание поддержать перевод:
-* [QIWI жми](qiwi.com/n/MOLUNSIB)
+* [QIWI жми](https://qiwi.com/n/MOLUNSIB)
