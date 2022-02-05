@@ -1,72 +1,72 @@
 qstr_res_cape1|res cape1
 qstr_res_cape2|res cape2
 qstr_thawb1_belt1|thawb1 belt1
-qstr_banner_ria1|banner ria1
-qstr_Next_Page|Next Page
-qstr_Game_Rules:^|Game Rules:^
+qstr_banner_ria1|Банер ria1
+qstr_Next_Page|Следующая страница
+qstr_Game_Rules:^|Правила:^
 qstr_0|0
-qstr_Lv._{reg0}|Lv. {reg0}
-qstr_Show_game_rules|Show game rules
-qstr_Choose_name_for_your|Choose name for your faction:
-qstr_Continue...|Continue...
-qstr_Candidate_#1:_{s1}|Candidate #1: {s1}
-qstr_Candidate_#2:_{s1}|Candidate #2: {s1}
-qstr_{s3}_of_{s4}_wishes_|{s3} of {s4} wishes to select a new marshall and invites his vassals for a counsel. {s1} and {s2} are the likely candidates.
-qstr_Who_do_you_wish_to_s|Who do you wish to support?
-qstr_{s1}_gives_his_suppo|{s1} gives his support to {s2}.
-qstr_Number_of_Supporters|Number of Supporters: {reg0}
-qstr_{s2}_has_heard_his_v|{s2} has heard his vassals' counsel. He selects {s1} as the marshall of {s3}.
+qstr_Lv._{reg0}|Ур. {reg0}
+qstr_Show_game_rules|Показать правила игры
+qstr_Choose_name_for_your|Выберите имя для своей фрауции:
+qstr_Continue...|Продолжить...
+qstr_Candidate_#1:_{s1}|Кандидат #1: {s1}
+qstr_Candidate_#2:_{s1}|Кандидат #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s3} ({s4}) желает выбрать нового маршала и приглашает его вассалов для совещания. {s1} и {s2} - вероятные кандидаты.
+qstr_Who_do_you_wish_to_s|Кого вы желаете поддержать?
+qstr_{s1}_gives_his_suppo|{s1} поддерживает {s2}.
+qstr_Number_of_Supporters|Количество поддерживающих: {reg0}
+qstr_{s2}_has_heard_his_v|{s2} услышал своих вассалов. Им выбран {s1} в качестве маршала {s3}.
 qstr__| 
-qstr_Mount|Mount
-qstr_Attack_Type|Attack Type
-qstr_Retreat|Retreat
-qstr_Charge|Charge
-qstr_Follow_Me|Follow Me
-qstr_Form_Square|Form Square
-qstr_Spread_Out|Spread Out
-qstr_Stand_Closer|Stand Closer
-qstr_Fall_Back|Fall Back
-qstr_Advance|Advance
-qstr_Dismount|Dismount
-qstr_Fire_At_Will|Fire At Will
-qstr_Hold_Your_Fire|Hold Your Fire
-qstr_Use_Ranged_Weapons|Use Ranged Weapons
-qstr_Use_Melee_Weapons|Use Melee Weapons
-qstr_Ready|Ready
-qstr_Wounded|Wounded
-qstr_Dead|Dead
-qstr_Cannot_form_square:_|Cannot form square: too many companies selected.
-qstr_Cannot_form_square:_w|Cannot form square: wrong company types (only line infantry and guard inantry can form square).
-qstr_Number_of_men_knocke|Number of men knocked down: {reg1}
-qstr_Number_of_men_left:_|Number of men left: {reg1}
-qstr_Opponents_Beaten:_{r|Opponents Beaten: {reg1}
-qstr_Opponents_Remaining:|Opponents Remaining: {reg1}
-qstr_Remain_in_retirement|Remain in retirement.
-qstr_Go_back_to_the_adven|Go back to the adventuring.
-qstr_You_have_retired_at_|You have retired at level {reg4} after {reg5} days of adventuring.
-qstr_Effect_on_Score|Effect on Score
-qstr_Settlements_owned_by|Settlements owned by you: {reg0}
-qstr_Friendly_Settlements|Friendly Settlements: {reg0}
-qstr_Hostile_Settlements:|Hostile Settlements: {reg0}
-qstr_Friendly_Lords:_{reg|Friendly Lords: {reg0}
-qstr_Enemy_Lords:_{reg0}|Enemy Lords: {reg0}
-qstr_Victories:_{reg0}|Victories: {reg0}
-qstr_Defeats:_{reg0}|Defeats: {reg0}
-qstr_Quests_Completed:_{r|Quests Completed: {reg0}
-qstr_Companions_Found:_{r|Companions Found: {reg0}
-qstr_Companions_Lost/Depa|Companions Lost/Departed: {reg0}
-qstr_Wealth:_{reg0}_$|Wealth: {reg0} $
-qstr_Inventory:_{reg0}_$|Inventory: {reg0} $
-qstr_Renown:_{reg0}|Renown: {reg0}
-qstr_Experience:_{reg0}|Experience: {reg0}
-qstr_Days_Passed:_{reg0}|Days Passed: {reg0}
-qstr_Difficulty:_{reg0}%|Difficulty: {reg0}%
-qstr_TOTAL_SCORE:_{reg0}|TOTAL SCORE: {reg0}
-qstr_Income_from_factorie|Income from factories share:
+qstr_Mount|Сесть верхом
+qstr_Attack_Type|Тип атаки
+qstr_Retreat|Отход
+qstr_Charge|В атаку
+qstr_Follow_Me|За мной
+qstr_Form_Square|Сформировать квадрат
+qstr_Spread_Out|Рассыпаться
+qstr_Stand_Closer|Сомкнуться
+qstr_Fall_Back|Отступить
+qstr_Advance|Продвинутся
+qstr_Dismount|Спешится
+qstr_Fire_At_Will|Стрелять по готовности
+qstr_Hold_Your_Fire|Не стрелять
+qstr_Use_Ranged_Weapons|Использовать оружие дальнего боя
+qstr_Use_Melee_Weapons|Использовать оружие ближнего боя
+qstr_Ready|В бою
+qstr_Wounded|Ранено
+qstr_Dead|Убито
+qstr_Cannot_form_square:_|Не удается сформировать квадрат: выбрано слишком много команд.
+qstr_Cannot_form_square:_w|Невозможно сформировать квадрат: неправильные типы рот (только линейная пехота и гвардейская пехота могут сформировать квадрат).
+qstr_Number_of_men_knocke|Количество сбитых: {reg1}
+qstr_Number_of_men_left:_|Количество оставшихся: {reg1}
+qstr_Opponents_Beaten:_{r|Выведено из строя противников: {reg1}
+qstr_Opponents_Remaining:|Противников в строю: {reg1}
+qstr_Remain_in_retirement|В отставку.
+qstr_Go_back_to_the_adven|На поиски приключений.
+qstr_You_have_retired_at_|Вы ушли в отставку на уровне {reg4} после {reg5}-ти дневных путешествий.
+qstr_Effect_on_Score|Влияние на счет
+qstr_Settlements_owned_by|Вы владеете поселениями: {reg0}
+qstr_Friendly_Settlements|Дружественные поселения: {reg0}
+qstr_Hostile_Settlements:|Враждебные поселения: {reg0}
+qstr_Friendly_Lords:_{reg|Дружественные лорды: {reg0}
+qstr_Enemy_Lords:_{reg0}|Вражеские лорды: {reg0}
+qstr_Victories:_{reg0}|Победы: {reg0}
+qstr_Defeats:_{reg0}|Поражения: {reg0}
+qstr_Quests_Completed:_{r|Выполненные квесты: {reg0}
+qstr_Companions_Found:_{r|Привлеченные компаньоны: {reg0}
+qstr_Companions_Lost/Depa|Потерянные/ушедшие компаньоны: {reg0}
+qstr_Wealth:_{reg0}_denar|Благосостояние: {reg0} Динар
+qstr_Inventory:_{reg0}_de|Имущество: {reg0} динар
+qstr_Renown:_{reg0}|Известность: {reg0}
+qstr_Experience:_{reg0}|Опыт: {reg0}
+qstr_Days_Passed:_{reg0}|Прошло дней: {reg0}
+qstr_Difficulty:_{reg0}%|Сложность: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|Общий счет: {reg0}
+qstr_Income_from_factorie|Доля доходов от фабрик:
 qstr_{reg10}|{reg10}
-qstr_None|None
-qstr_Back|Back
-qstr_Empty|Empty
+qstr_None|Нет
+qstr_Back|Назад
+qstr_Empty|Пусто
 qstr_1._{s1}|1. {s1}
 qstr___c.|  c.
 qstr_90%|90%
@@ -78,125 +78,125 @@ qstr_5._{s1}|5. {s1}
 qstr_6._{s1}|6. {s1}
 qstr_7._{s1}|7. {s1}
 qstr_8._{s1}|8. {s1}
-qstr_Form_Square^^Selecte|Form Square^^Selected companies (not more than two)^will form a square formation. It is effective in melee^fighting, especially against cavalry, but vulnarable^to an enemy fire. To selected companies be able to^form square, they need to have at least 25 soldiers^in total.^Company types: Line infantry, Guard.
-qstr_pbs_activeability_me|pbs activeability merge
-qstr_Merge_Companies^^Sel|Merge Companies^^Selected companies (not less than one)^will be merged into one that has highest number of soldiers.
-qstr_pbs_activeability_di|pbs activeability digin
-qstr_Dig_In^^Selected_com|Dig In^^Selected companies will dig in,^creating trenches on their position.^Only available once per battle.^Company types: Line infantry, Guard.
-qstr_pbs_activeability_co|pbs activeability coveringfire on
-qstr_pbs_activeability_ga|pbs activeability gas
-qstr_Gas_Attack^^.^Compan|Gas Attack^^.^Company types: Field Guns and Howitzers.
-qstr_pbs_activeability_gr|pbs activeability grenades
-qstr_Grenade_Attack^^Sele|Grenade Attack^^Selected companies launch a grenade attack at range up to 50 meters, throwing^hand grenades at enemies which are at close distance.^Only available once per 3 minutes.^Company types: Shock troops.
-qstr_Suppression_fire:_on|Suppression fire: on
-qstr_Suppression_fire:_of|Suppression fire: off
-qstr_pbs_activeability_cov|pbs activeability coveringfire off
-qstr_Suppression_fire:_on/|Suppression fire: on/off
-qstr_pbs_activeability_cove|pbs activeability coveringfire onoff
-qstr_No_companies_selecte|No companies selected
-qstr_pbs_activeability_cover|pbs activeability coveringfire noselected
-qstr_{s1}^^Turning_on_sup|{s1}^^Turning on suppression fire will increase shooting speed^and decreasing enemy discipline level two times faster,^on exchange of drastically decreasing your own accuracy.^Company types: any.
-qstr_Gas_masks:_always_we|Gas masks: always wear
-qstr_pbs_activeability_gas|pbs activeability gasmasks on
-qstr_Gas_masks:_at_will|Gas masks: at will
-qstr_pbs_activeability_gasm|pbs activeability gasmasks off
-qstr_Gas_masks:_always_wea|Gas masks: always wear/at will
-qstr_pbs_activeability_gasma|pbs activeability gasmasks onoff
-qstr_pbs_activeability_gasmas|pbs activeability gasmasks noselected
-qstr_{s1}^^Gas_masks_make|{s1}^^Gas masks make troops invulnerable to poison gas, but decrease shooting accuracy and energy level.^Company types: any.
+qstr_Form_Square^^Selecte|Сформируйте квадрат ^^ Выбранные команды (не более двух)^ сформируют квадратное формирование. Он эффективен в ближнем бою, особенно против кавалерии, но уязвим для вражеского огня. Чтобы выбранные роты могли ^ образовать квадрат, в них должно быть не менее 25 солдат ^ в общей сложности.^ Типы рот: Линейная пехота, Гвардия.
+qstr_pbs_activeability_me|PBS использовать объединение
+qstr_Merge_Companies^^Sel|Объединить роты ^^Выбранные роты (не менее одной)^будут объединены в роту с наибольшим количеством солдат.
+qstr_pbs_activeability_di|PBS использовать окапывание
+qstr_Dig_In^^Selected_com|Копайте ^^ Выбранные компании будут копать, ^ создавая траншеи на своей позиции.^Доступно только один раз за бой.^ Типы рот: Линейная пехота, Гвардия.
+qstr_pbs_activeability_co|pbs использовать огонь на подавление
+qstr_pbs_activeability_ga|pbs использовать газ
+qstr_Gas_Attack^^.^Compan|Газовая атака ^^.^ Типы рот: Полевые орудия и гаубицы.
+qstr_pbs_activeability_gr|pbs использовать гранаты
+qstr_Grenade_Attack^^Sele|Гранатометная атака ^^ Выбранные компании проводят гранатометную атаку на расстоянии до 50 метров, бросая ^ ручные гранаты во врагов, находящихся на близком расстоянии.^Доступно только один раз в 3 минуты.^Типы рот: Ударные войска.
+qstr_Suppression_fire:_on|Ликвидация огня: вкл.
+qstr_Suppression_fire:_of|Ликвидация огня: выкл.
+qstr_pbs_activeability_cov|pbs выкл огня на подавление
+qstr_Suppression_fire:_on/|Ликвидация огня: вкл/выкл
+qstr_pbs_activeability_cove|pbs огонь на подавление вкл/выкл
+qstr_No_companies_selecte|Команды не выбраны
+qstr_pbs_activeability_cover|pbs огонь на подавление не выбрана
+qstr_{s1}^^Turning_on_sup|{s1} ^^ Включение огня подавления увеличит скорость стрельбы ^ и снизит уровень дисциплины противника в два раза быстрее ^ в обмен на резкое снижение вашей собственной точности.^ Типы рот: любые.
+qstr_Gas_masks:_always_we|Противогазы: всегда надеты
+qstr_pbs_activeability_gas|pbs противогазы вкл.
+qstr_Gas_masks:_at_will|Противогазы: по желанию
+qstr_pbs_activeability_gasm|pbs противогазы выкл
+qstr_Gas_masks:_always_wea|Противогазы: Всегда надеты/по желанию
+qstr_pbs_activeability_gasma|pbs противогазы вкл/выкл
+qstr_pbs_activeability_gasmas|pbs противогазы не выбраны
+qstr_{s1}^^Gas_masks_make|{s1}^^ Противогазы делают войска неуязвимыми для ядовитого газа, но снижают точность стрельбы и уровень энергии.^ Типы рот: любые.
 qstr_{reg0}%|{reg0}%
 qstr_{reg0}_c.|{reg0} c.
-qstr_Cannot_dig_in:_wrong|Cannot dig in: wrong company types (only line infantry and guard infantry can dig in).
-qstr_Cannot_launch_gas_at|Cannot launch gas attack: wrong company types (only artillery can use gas attack).
-qstr_Cannot_launch_grenad|Cannot launch grenade attack: wrong company types (only shock troops can throw grenades).
-qstr_Select_2_or_more_com|Select 2 or more companies with soldiers to merge.
-qstr_Others|Others
-qstr_Outlaws|Outlaws
-qstr_Mercenary|Mercenary
-qstr_Close|Close
-qstr_Click_the_center_but|Click the center button to toggle faction^Click the avatars to view details of them
-qstr_Level:_{reg3}^Health|Level: {reg3}^Health: {reg4}
-qstr_Attributes|Attributes
-qstr_STR^AGI^INT^CHA|STR^AGI^INT^CHA
+qstr_Cannot_dig_in:_wrong|Невозможно окопаться: неправильные типы рот (только линейная пехота и гвардейская пехота могут окопаться).
+qstr_Cannot_launch_gas_at|Невозможно начать газовую атаку: неправильные типы рот (только артиллерия может использовать газовую атаку).
+qstr_Cannot_launch_grenad|Невозможно начать атаку с использованием гранат: неправильные типы рот (только ударные войска могут бросать гранаты).
+qstr_Select_2_or_more_com|Выберите 2 или более рот с солдатами для объединения.
+qstr_Others|Другие
+qstr_Outlaws|Преступники
+qstr_Mercenary|Наемник
+qstr_Close|Закрыть
+qstr_Click_the_center_but|Нажмите центральную кнопку, чтобы переключить фракцию ^ Щелкните аватары, чтобы просмотреть их подробную информацию
+qstr_Level:_{reg3}^Health|Уровень: {reg3}^Здоровье: {reg4}
+qstr_Attributes|Атрибуты
+qstr_STR^AGI^INT^CHA|СИЛ^ЛОВ^ИНТ^ХАР
 qstr_{reg2}|{reg2}
 qstr_{s1}^{reg2}|{s1}^{reg2}
-qstr_Skills|Skills
-qstr_Ironflesh^Power_Stri|Ironflesh^Power Strike^Power Throw^Power Draw^Shield^Athletics^Riding^Horse Archery
-qstr_Proficiencies|Proficiencies
-qstr_1H_Weapons^2H_Weapon|1H Weapons^2H Weapons^Polearms^Archery^Rifles^Throwing
-qstr_Equipments|Equipments
-qstr_Factions|Factions
-qstr_Show_towns|Show towns
-qstr_Show_castles|Show castles
-qstr_Show_villages|Show villages
-qstr_Tip:_move_the_mouse_|Tip: move the mouse onto the black blocks to show their names.
-qstr_The_World_Map|The World Map
-qstr_Done|Done
-qstr_Language:|Language:
+qstr_Skills|Навыки
+qstr_Ironflesh^Power_Stri|Железная кожа^Силовой удар^Силовой Бросок^Силовая тяга^Щит^Легкая атлетика^Верховая езда^Стрельба из лука
+qstr_Proficiencies|Мастерство
+qstr_1H_Weapons^2H_Weapon|одноручное Оружие^двуручное Оружие^Древковое оружие^Лук^Ружья^Метание
+qstr_Equipments|Снаряжение
+qstr_Factions|Фракция
+qstr_Show_towns|Показать города
+qstr_Show_castles|Показать крепости
+qstr_Show_villages|Показать деревни
+qstr_Tip:_move_the_mouse_|Совет: наведите курсор мыши на черные блоки, чтобы показать их названия.
+qstr_The_World_Map|Мировая карта
+qstr_Done|Сделать
+qstr_Language:|Язык:
 qstr_English|English
-qstr_Russian|Russian
+qstr_Russian|Русский
 qstr_German|German
 qstr_Turkish|Turkish
 qstr_Spanish|Spanish
 qstr_Italian|Italian
 qstr_French|French
 qstr_Polish|Polish
-qstr_Press_Escape_to_clos|Press Escape to close menu...
+qstr_Press_Escape_to_clos|Нажмите Escape, чтобы закрыть меню...
 qstr_Army_of_{s7}|Army of {s7}
-qstr_Attribute_points_{re|Attribute points {reg40}
-qstr_Skill_points_{reg41}|Skill points {reg41}
-qstr_Weapon_points_{reg42|Weapon points {reg42}
-qstr_Save|Save
-qstr_Reset|Reset
-qstr_Current:{s1}|Current:{s1}
-qstr_{s2}^Base_Attribute:|{s2}^Base Attribute:CHA
-qstr_{s2}^Base_Attribute:I|{s2}^Base Attribute:INT
-qstr_{s2}^Base_Attribute:A|{s2}^Base Attribute:AGI
-qstr_{s2}^Base_Attribute:S|{s2}^Base Attribute:STR
-qstr_Battle_role:|Battle role:
-qstr_Line_Infantry|Line Infantry
-qstr_Light_Infantry|Light Infantry
-qstr_Guard_Infantry|Guard Infantry
-qstr_Melee_Cavalry|Melee Cavalry
-qstr_Ranged_Cavalry|Ranged Cavalry
-qstr_Guard_Cavalry|Guard Cavalry
-qstr_Next|Next
-qstr_Price_{reg42}^Weight|Price {reg42}^Weight {reg43}
-qstr_{reg5}_to_{reg6}|{reg5} to {reg6}
-qstr_You_can_t_equip_this|You can't equip this item - wrong slot.
-qstr_Military_Technologie|Military Technologies of the {s1}
-qstr_Research|Research
-qstr_Select_technology|Select technology
-qstr_Rifled_Caplock^^Musk|Rifled Caplock^^Muskets
-qstr_Conversion_Breech_lo|Conversion Breech-loaded^^Rifles
-qstr_Modern^^Breech_loade|Modern^^Breech-loaded Rifles
-qstr_Breech_loaded^^Canno|Breech-loaded^^Cannons
-qstr_Improved_Percussion^|Improved Percussion^^Mechanisms
-qstr_Early_Magazine^^Rifl|Early Magazine^^Rifles
-qstr_Machine_Guns|Machine Guns
-qstr_Modern_Magazine_Rifl|Modern Magazine Rifles
-qstr_Light_Machine^^Guns|Light Machine^^Guns
-qstr_Landships|Landships
-qstr_Crimean_War^^Experie|Crimean War^^Experience
-qstr_Skirmish_Line^^Tacti|Skirmish Line^^Tactics
-qstr_Modern_Defence^^Tact|Modern Defence^^Tactics
-qstr_Modern_Attack_Tactic|Modern Attack Tactics
-qstr_Rapid_Firing^^Artill|Rapid Firing^^Artillery
-qstr_Infantry_Machine^^Gu|Infantry Machine^^Gun Tactics
-qstr_Covering_Fire|Covering Fire
-qstr_Gas_Attacks|Gas Attacks
-qstr_Shock_Troops|Shock Troops
-qstr_Country_does_not_hav|Country does not have enough budget to start research.
-qstr_faction_technologies|faction technologies tech available
-qstr_faction_technologies_|faction technologies tech inprogress
-qstr_Rifled_Caplock^Muske|Rifled Caplock^Muskets
-qstr_faction_technologies_p|faction technologies photo riflesrifled
-qstr_Rapid_Firing^Artille|Rapid Firing^Artillery
-qstr_faction_technologies_ph|faction technologies photo modernartillery
-qstr_faction_technologies_pho|faction technologies photo modernattack
-qstr_Crimean_War^Experien|Crimean War^Experience
-qstr_faction_technologies_phot|faction technologies photo crimeanwar
-qstr_Modern_Magazine^Rifl|Modern Magazine^Rifles
+qstr_Attribute_points_{re|Очки атрибутов {reg40}
+qstr_Skill_points_{reg41}|Очки навыков {reg41}
+qstr_Weapon_points_{reg42|Оружейное мастерство {reg42}
+qstr_Save|Сохранить
+qstr_Reset|Сбросить
+qstr_Current:{s1}|Выбран:{s1}
+qstr_{s2}^Base_Attribute:|{s2}^Базовый атрибут:ХАР
+qstr_{s2}^Base_Attribute:I|{s2}^Базовый атрибут:ИНТ
+qstr_{s2}^Base_Attribute:A|{s2}^Базовый атрибут:ЛОВ
+qstr_{s2}^Base_Attribute:S|{s2}^Базовый атрибут:СИЛ
+qstr_Battle_role:|Боевая роль:
+qstr_Line_Infantry|Линейная пехота
+qstr_Light_Infantry|Лёгкая пехота
+qstr_Guard_Infantry|Гвардейская пехота
+qstr_Melee_Cavalry|Кавалерия ближнего боя
+qstr_Ranged_Cavalry|Кавалерия дальнего боя
+qstr_Guard_Cavalry|Гвардейская кавалерия
+qstr_Next|Следующая
+qstr_Price_{reg42}^Weight|Стоимость {reg42}^Вес {reg43}
+qstr_{reg5}_to_{reg6}|{reg5} Для {reg6}
+qstr_You_can_t_equip_this|Вы не можете оборудовать этот предмет - неправильный слот.
+qstr_Military_Technologie|Военные технологии {s1}
+qstr_Research|Исследование
+qstr_Select_technology|Выбрать технологию
+qstr_Rifled_Caplock^^Musk|Колпачковая винтовка^^Мушкеты
+qstr_Conversion_Breech_lo|Конверсионный казенник с затвором^^Винтовки
+qstr_Modern^^Breech_loade|Современные^^Винтовки с затвором
+qstr_Breech_loaded^^Canno|Затворный механизм^^Пушки
+qstr_Improved_Percussion^|Усовершенствованная ударность^^Механизмы
+qstr_Early_Magazine^^Rifl|Ранние магазины^^Винтовки
+qstr_Machine_Guns|Пулеметы
+qstr_Modern_Magazine_Rifl|Современные винтовочные магазины
+qstr_Light_Machine^^Guns|Лёгкие пулеметы^^Пулеметы
+qstr_Landships|Монстр
+qstr_Crimean_War^^Experie|Крымская война^^Опыт
+qstr_Skirmish_Line^^Tacti|Линия огня^^Тактики
+qstr_Modern_Defence^^Tact|Современная оборона^^Тактики
+qstr_Modern_Attack_Tactic|Современная тактика атаки
+qstr_Rapid_Firing^^Artill|Скорострельность^^Артиллерия
+qstr_Infantry_Machine^^Gu|Пехотный пелемет^^Оружейные тактики
+qstr_Covering_Fire|Огонь на подавление
+qstr_Gas_Attacks|Атака газом
+qstr_Shock_Troops|Ударные войска
+qstr_Country_does_not_hav|У страны недостаточно бюджета, чтобы начать исследования.
+qstr_faction_technologies|Доступные фракционные технологии
+qstr_faction_technologies_|Фракционная технология в процессе
+qstr_Rifled_Caplock^Muske|Колпачковая винтовка^Мушкеты
+qstr_faction_technologies_p|Фракционная технология фото винтовки
+qstr_Rapid_Firing^Artille|Скорострельность^Артиллерия
+qstr_faction_technologies_ph|Фракционная технология фото современная артеллерия
+qstr_faction_technologies_pho|Фракционная технология фото современной атаки
+qstr_Crimean_War^Experien|Крымская война^Опыт
+qstr_faction_technologies_phot|Фракционная технология фото крымской войны
+qstr_Modern_Magazine^Rifl|Современные магазины^Винтовки
 qstr_faction_technologies_photo|faction technologies photo riflesboltactionmodern
 qstr_Conversion_Breech_loa|Conversion Breech-loaded^Rifles
 qstr_faction_technologies_photo_|faction technologies photo riflesconverted
@@ -362,7 +362,7 @@ qstr_Combat_efficiency_of|Combat efficiency of army is
 qstr_vSeason|vSeason
 qstr_{s1}_of_{s3}_was_def|{s1} of {s3} was defeated in battle but managed to escape.
 qstr_{s54}_is_a_claimant_|{s54} is a claimant to the throne of {s56}.
-qstr_nowhere|nowhere
+qstr_nowhere|Нигде
 qstr_{s57}_and_{s58}|{s57} and {s58}
 qstr_{reg3?She:He}|{reg3?She:He}
 qstr_The_town_of_{s50}|The town of {s50}
