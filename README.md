@@ -20,7 +20,7 @@
 |9|`parties.csv`|Города|1033 из 1033|:heavy_check_mark:|
 |10|`party_templates.csv`|Отряды|50 из 50|:heavy_check_mark:|
 |11|`quests.csv`|Квесты|77 из 77|:heavy_check_mark:|
-|12|`quick_strings.csv`|Краткие надписи|0 из 1431|:x:|
+|12|`quick_strings.csv`|Краткие надписи|0 из 1431|:clock3:|
 |13|`skills.csv`|Навыки|84 из 84|:heavy_check_mark:|
 |14|`skins.csv`|Моделька ГГ|28 из 28|:heavy_check_mark:|
 |15|`troops.csv`|Бойцы|0 из 5866|:x:|
